@@ -22,7 +22,8 @@ comments:
       In a way, we beget tomorrow's versions of ourselves through the choices we make each day ("my soul must choose its ben"). The poem expresses a commitment to beget the speaker's future self as Joseph, not Reuben.
 ---
 <p style="font-size:90%;color:#777;font-style:italic;">See <a href="http://www.lds.org/scriptures/ot/gen/49.1-4,22-26?lang=eng" target="_blank">Genesis 49:1-4,22-26</a>.</p>
-Standing at the parting place
+
+<p class="poetry">Standing at the parting place
 My soul must choose its <em>ben</em>.
 
 The excellence of dignity
@@ -46,6 +47,6 @@ my mind shall choose its <em>ben</em>.
 Joseph is his name.
 Joseph is his name.
 
-Joseph.
+Joseph.</p>
 
 <figure><img alt="" src="http://farm7.staticflickr.com/6091/6280078972_18e71fcb9a.jpg" width="500" height="332" /><figcaption>Two roads diverged... Photo credit: Eric Vondy (Flickr)</figcaption></figure>

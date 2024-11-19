@@ -31,6 +31,20 @@
 
       {{ content }}
 
+      {% if page.comments %}
+      <hr>
+      <div class="comments-section">
+        <h3>Comments</h2>
+        <ul>
+          {% for comment in page.comments %}
+            <li>
+              <p><strong>{{ comment.author }}</strong>, {{ comment.date | date: "%Y-%m-%d" }}:</p>
+              <p>{{ comment.comment }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
       </section>
       <footer>
 Content copyrighted with a <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 license</a>, unless otherwise noted. A version history for each item is maintained in <a href="https://github.com/dhh1128/sivanea.com">GitHub</a>. <a href="https://github.com/dhh1128/sivanea.com/issues/new">Reports of errata</a> are welcome.

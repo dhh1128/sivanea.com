@@ -8,7 +8,7 @@ redirect_from:
 
 [caption id="attachment_57" align="alignright" width="216"]<a href="http://www.flickr.com/photos/swissfrog/2105307381/" rel="attachment wp-att-57"><img class="size-full wp-image-57 " alt="" src="http://sivanea.com/wp-content/uploads/2012/12/screen-shot-2012-12-19-at-1-27-05-am.png" width="216" height="634" /></a> Photo credit: swiss.frog (Flickr)[/caption]
 
-You come, bark between my heart, your bone.
+<p class="poetry">You come, bark between my heart, your bone.
 I smile...
 you nod, distant in yourself, alone.
 I murmur at the tales you tell,
@@ -74,4 +74,4 @@ to that lonely question:
 I do.
 I love you.
 Yes,
-Forever
+Forever</p>
