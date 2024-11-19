@@ -6,7 +6,8 @@ redirect_from:
   - /2013/01/07/albaricoque
 ---
 
-[caption id="attachment_108" align="alignright" width="300"]<a href="http://www.flickr.com/photos/globevisions/4300362659/"><img class=" wp-image-108  " src="http://sivanea.com/wp-content/uploads/2013/01/apricot1.jpg" alt="apricot" width="300" height="294" /></a> photo credit: michelle molinari (Flickr)[/caption]
+<figure>
+<img src="assets/apricot.jpg" /></a><figcaption>Image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">No, artistas de Babilonia,
 sus pinturas no me llaman:
