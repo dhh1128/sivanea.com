@@ -9,7 +9,7 @@ redirect_from:
 <a href="http://www.flickr.com/photos/daniel_hardman/8331434375/sizes/l/"><img class="aligncenter" alt="" src="http://farm9.staticflickr.com/8078/8331434375_39a6124301_z.jpg" width="640" height="427" /></a>
 
  
-<p style="text-align:center;">Under, lapis peace;
+<p class="haiku">Under, lapis peace;
 over, celeste. Drift to dark's
 waiting arms, and rest...</p>
 

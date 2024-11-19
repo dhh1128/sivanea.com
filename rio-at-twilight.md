@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="http://www.flickr.com/photos/daniel_hardman/1413166193/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1218/1413166193_f27e1b8c2b_z.jpg" width="640" height="479" /></a>
-<p style="text-align:center;">soft light, hard lights talk,
+<p class="haiku">soft light, hard lights talk,
 whisper songs of nearing night--
 hills listen, preside</p>
 

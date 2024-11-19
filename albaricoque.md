@@ -8,7 +8,7 @@ redirect_from:
 
 [caption id="attachment_108" align="alignright" width="300"]<a href="http://www.flickr.com/photos/globevisions/4300362659/"><img class=" wp-image-108  " src="http://sivanea.com/wp-content/uploads/2013/01/apricot1.jpg" alt="apricot" width="300" height="294" /></a> photo credit: michelle molinari (Flickr)[/caption]
 
-No, artistas de Babilonia,
+<p class="poetry">No, artistas de Babilonia,
 sus pinturas no me llaman:
 por el rojo perfilada,
 en la sombra amortajada,
@@ -32,11 +32,12 @@ y en ternura esperando
 con la promesa
 de hueso
 y de árbol
-y de albaricoque venidero.
+y de albaricoque venidero.</p>
 
 <hr />
 <p style="font-size:90%;color:#777;font-style:italic;">English translation, by the author:</p>
-No, artists of Babylon—
+
+<p class="poetry">No, artists of Babylon—
 your paintings do not call me:
 silhouetted by the red,
 shrouded in the shadow,
@@ -60,4 +61,4 @@ and in tenderness waiting
 with the promise
 of stone
 and tree
-and apricot to come.
+and apricot to come.</p>

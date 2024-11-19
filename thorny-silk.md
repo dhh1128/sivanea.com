@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="http://www.flickr.com/photos/daniel_hardman/1414044050/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1159/1414044050_b826bc4240_z.jpg" width="640" height="479" /></a>
-<p style="text-align:center;">spikes bristle, covering
+<p class="haiku">spikes bristle, covering
 every growing inch in thorn--
 green treasure hides? where?</p>
 

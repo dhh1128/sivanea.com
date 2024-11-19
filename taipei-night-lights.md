@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="http://www.flickr.com/photos/daniel_hardman/1387953062/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1130/1387953062_c3d3fa45b0_z.jpg" width="640" height="479" /></a>
-<p style="text-align:center;">colors smear and splash;
+<p class="haiku">colors smear and splash;
 scooters beep and taxis dash:
 night kaleidoscope</p>
 

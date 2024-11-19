@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/16/a-screech-of-gulls
 ---
 <a href="http://www.flickr.com/photos/daniel_hardman/8379985721/sizes/l/"><img class="alignnone" alt="" src="http://farm9.staticflickr.com/8211/8379985721_9431fbda10_z.jpg" width="640" height="427" /></a>
-<p style="text-align:center;">grounded, wings tucked, still,
+<p class="haiku">grounded, wings tucked, still,
 mute gulls outwait the drizzle--
 wet friends on a plank.</p>
 

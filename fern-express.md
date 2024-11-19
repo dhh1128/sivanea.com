@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/09/fern-express
 ---
 
-<p style="text-align:center;"><a href="http://www.flickr.com/photos/daniel_hardman/8314126286/"><img class="aligncenter" alt="" src="http://farm9.staticflickr.com/8360/8314126286_3f68db4aed_z.jpg" width="640" height="427" /></a>Steel ruled hard here, once,
+<p class="haiku"><a href="http://www.flickr.com/photos/daniel_hardman/8314126286/"><img class="aligncenter" alt="" src="http://farm9.staticflickr.com/8360/8314126286_3f68db4aed_z.jpg" width="640" height="427" /></a>Steel ruled hard here, once,
 till a soft, living carpet
 ate the Fern Express.</p>
 <hr />

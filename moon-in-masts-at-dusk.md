@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="http://www.flickr.com/photos/daniel_hardman/8331434557/sizes/l/"><img alt="" src="http://farm9.staticflickr.com/8359/8331434557_2b48a3d4cf_z.jpg" width="640" height="427" /></a>
-<p style="text-align:center;">human lines cut blue
+<p class="haiku">human lines cut blue
 framing waiting old man moon
 who'll smile from the dark</p>
 

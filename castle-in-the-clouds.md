@@ -33,7 +33,7 @@ comments:
       There. A little bonus "wiki"...:)
 ---
 <a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1262/1414082928_bf61ffe458_z.jpg" width="640" height="425" /></a>
-<p style="text-align:center;">mist maunders over--
+<p class="haiku">mist maunders over--
 castle juts, fades in and out--
 trees, solid, green beneath</p>
 

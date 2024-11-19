@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="https://www.flickr.com/photos/daniel_hardman/16107071596/sizes/h/"><img class="aligncenter" alt="" src="https://farm8.staticflickr.com/7538/16107071596_3838b2c5e3_z.jpg" width="640" height="427" /></a>
-<p style="text-align:center;">hazed by snow, sun slips
+<p class="haiku">hazed by snow, sun slips
 t'ward skyline; aspens stand, hail—
 still, chill sentinels</p>
 

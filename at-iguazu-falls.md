@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <a href="http://www.flickr.com/photos/daniel_hardman/1413137055/sizes/l/"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1025/1413137055_69019c222c_z.jpg" width="640" height="479" /></a>
-<p style="text-align:center;">white thunder sings, sings;
+<p class="haiku">white thunder sings, sings;
 audience of growing green
 rustles in applause</p>
 
