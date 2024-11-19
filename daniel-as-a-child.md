@@ -16,7 +16,7 @@ As the ball is hiked, I dodge through the guarding ranks to the limit of our qua
 
 Unexpectedly I feel a terrific shove from the left: an opposing team member has managed to reach me with a wild dive. By pushing me hard he stops his fall, but I careen to the right, still at full speed, and hit a set of monkey bars head first. My skull thuds dully as it strikes metal, and the bars ring faintly. My head feels strange. It vibrates in a dull, aching, but not exactly painful rhythm. I am vaguely aware that I have had a serious accident, that the football game has stopped, that I probably need help, but these thoughts don't register fully in my sluggish, confused thoughts. What I am conscious of is a blind fury at the one who has pushed me. I am disgusted that I have not made The Great Play.
 
-<figure><img alt="" src="http://farm6.staticflickr.com/5027/5786535381_a30ed882eb.jpg" width="500" height="281" /><figcaption>Photo credit: camknows (Flickr)</figcaption></figure>
+<figure><img src="assets/monkey-bars.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 Slowly, speechlessly I move away from the cold metal to be surrounded by curious football players. Even though I am not surprised by the chorus of voices asking "Are you all right, Dan," the question bothers me. It strikes me as selfish, as if the questioners want me to say yes to that they can continue the football game. And so I let my anger swell, though deep down a part of me is rather amused at the question. Am I okay? Does a chicken have lips?
 
