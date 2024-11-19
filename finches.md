@@ -16,7 +16,9 @@ comments:
       
       I had never really pondered the metaphor in the term "empty-nester" until recently. Now I find that it has a lot of rich layers to it, some happy and some sad. Parenthood continues to stretch and surprise me.
 ---
-<p style="font-size:80%;font-style:italic;">for Ethan, Lauren, Maia, Caleb, Sean, Dylan, and Genevieve</p>[caption id="attachment_6074" align="alignright" width="281"]<a href="https://sivanea.com/wp-content/uploads/2014/10/3593577699_b96a610812_o.jpg"><img class="wp-image-6074 size-medium" src="https://sivanea.com/wp-content/uploads/2014/10/3593577699_b96a610812_o.jpg?w=281" alt="image credit: yannajenn (Flickr)" width="281" height="300" /></a> This past spring, we had a nest of finches beneath the eaves over our front porch. There was a single day when the baby birds looked almost exactly like this. The next day the nest was empty. Image credit: yannajenn (Flickr)[/caption]
+<p style="font-size:80%;font-style:italic;">for Ethan, Lauren, Maia, Caleb, Sean, Dylan, and Genevieve</p>
+
+<figure><img src="assets/finches.jpg" /><figcaption>This past spring, we had a nest of finches beneath the eaves over our front porch. There was a single day when the baby birds looked almost exactly like this. The next day the nest was empty. Image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">Yesterday just gaping jaws,
 Cheeping feebly, pink blind heads...
