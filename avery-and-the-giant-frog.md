@@ -6,10 +6,10 @@ redirect_from:
   - /2013/04/26/avery-and-the-giant-frog
 ---
 
-<p style="text-align:right;"><span style="color:#808080;"><em>a bedtime story for Caleb...</em></span></p>
+<p style="text-align:right;"><em>a bedtime story for Caleb...</em></p>
 Once upon a time there was a little boy named Avery. Avery had brown eyes and white teeth. He liked to swim and dig in the sandbox and play with cars and eat popsicles. He was almost five.
 
-<figure><img alt="" src="http://farm6.staticflickr.com/5042/5242232161_77d218089c_z.jpg" width="640" height="425" /><figcaption>Photo credit: www.photographybyjoelle.com (Flickr)</figcaption></figure>
+<figure><img alt="boy in sandbox" src="assets/boy-in-sandbox.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 Avery’s dad liked to call him “Very”. Avery thought that was a funny nickname. “Dad,” he said every day, “Why do you call me ‘Very?’”
 
@@ -31,7 +31,7 @@ Avery laughed and laughed. He liked to play with his dad because he knew his dad
 
 When that was done Avery went outside to dig in the sandbox. He took a big bucket. Tex was already there.
 
-<figure><img alt="" src="http://farm2.staticflickr.com/1033/4721064344_1f072e5901_z.jpg" width="640" height="427" /><figcaption>photo credit: static416 (Flickr)</figcaption></figure>
+<figure><img src="assets/2-boys-digging.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 Tex and Avery were best friends. Tex was almost five, just like Avery. He liked everything that Avery liked, except root beer.
 
@@ -53,7 +53,7 @@ They had been digging for a few minutes, and the hole was getting very deep, whe
 
 Avery liked dinosaurs. He climbed in the hole and bounced up and down on the stuff. Suddenly he felt the sand start to shake. His hole wiggled and shivered, and a giant frog climbed out.
 
-[caption id="attachment_430" align="aligncenter" width="467"]<a href="http://sivanea.com/wp-content/uploads/2013/04/screen-shot-2013-04-25-at-10-15-31-pm.png"><img class="size-full wp-image-430" alt="Photo credit: e_monk (Flickr)" src="http://sivanea.com/wp-content/uploads/2013/04/screen-shot-2013-04-25-at-10-15-31-pm.png" width="467" height="423" /></a> Photo credit: e_monk (Flickr)[/caption]
+<figure><img src="assets/frog-in-sand.jpg"/><figcaption>Image credit: Midjourney</figcaption></figure>
 
 The frog was taller than Avery. It looked at him with its big eyes.
 
