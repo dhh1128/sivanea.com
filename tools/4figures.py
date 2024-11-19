@@ -5,8 +5,9 @@ cap_pat = re.compile(r'\[caption id="".*?(<a href=".*?">)?(<img .*?/>)(?:</a>)?\
 
 for root, dirs, files in os.walk('.'):
     for file in files:
-        if file.endswith(''):
+        if file.endswith('.md'):
             file_path = os.path.join(root, file)
+            print(file_path)
             with open(file_path, 'r') as f:
                 content = f.read()
             updated = False

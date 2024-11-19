@@ -4,7 +4,7 @@ import re
 relpat = re.compile(r'date:\s*(20\d\d)/(\d\d)/(\d\d)')
 
 for file in os.listdir("."):
-    if file.endswith("") and file != 'README':
+    if file.endswith(".md") and file != 'README.md':
         with open(file, 'r') as f:
             content = f.read()
         match = relpat.search(content)
