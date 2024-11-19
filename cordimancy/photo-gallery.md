@@ -3,30 +3,48 @@ title: Photo Gallery
 date: 2015-11-24
 slug: photo-gallery
 ---
-Here are some photos that I use to seed my imagination about <em>Viking</em>.
+Here are some photos that I use to seed my imagination about <em>Cordimancy</em>.
 
-<figure><a href="http://www.flickr.com/photos/picturesofthings/6801154770"><img alt="" src="http://farm8.staticflickr.com/7200/6801154770_ef2b4d7e78_n.jpg" width="213" height="320" /></a><figcaption>Rafa? Photo credit: confidence, comely (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/iavi_flickr/9317043040/sizes/n/"><img class="" src="https://c2.staticflickr.com/4/3796/9317043040_2724b7cf4b_n.jpg" alt="" width="320" height="213" /></a><figcaption>Malena? Image credit: AIDSVaccine (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/seanmolin/3943874272"><img alt="" src="http://farm3.staticflickr.com/2570/3943874272_01d60b8290_n.jpg" width="320" height="213" /></a><figcaption>Julie? Photo credit: Sean Molin Photography (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/worldbank/2183196647/"><img class="" src="https://c1.staticflickr.com/3/2071/2183196647_8fd32f5a34_n.jpg" alt="" width="320" height="218" /></a><figcaption>Toril? Image credit: World Bank Photo Collection (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/quinet/8153268398"><img alt="" src="http://farm9.staticflickr.com/8339/8153268398_b8809d5ba3_n.jpg" width="240" height="320" /></a><figcaption>Abbott? Photo credit: quinet (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/31353839@N04/8277356115"><img class="" src="https://c1.staticflickr.com/9/8343/8277356115_9456282aa2_n.jpg" alt="" width="320" height="207" /></a><figcaption>Shivi? Image credit: Anwar.Shamim (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/hinnamsaisuy/7234476084"><img alt="" src="http://farm9.staticflickr.com/8017/7234476084_c3d95d2fbf_n.jpg" width="213" height="320" /></a><figcaption>Chen? Photo credit: hinnamsaisuy (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/fanz/3613555898/"><img class="" src="https://c2.staticflickr.com/4/3406/3613555898_1e151002c9_n.jpg" alt="" width="320" height="213" /></a><figcaption>Paka? Image credit: fanz (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/62604982@N04/6961376178"><img alt="" src="http://farm8.staticflickr.com/7229/6961376178_613c4c7739_n.jpg" width="219" height="320" /></a><figcaption>Heward? Photo credit: Muscle Dominator (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/mctrent/5096264086"><img class="" src="https://c1.staticflickr.com/5/4148/5096264086_3af574dbcc_n.jpg" alt="" width="320" height="213" /></a><figcaption>Kinora? Image credit: mctrent (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/grantuking/5157464539"><img alt="" src="http://farm2.staticflickr.com/1159/5157464539_e73fd4146a_n.jpg" width="320" height="268" /></a><figcaption>Oristano? Photo credit: Grantuking (Flickr)</figcaption></figure>
+[caption id="attachment_7000" align="aligncenter" width="321"]<a href="https://www.flickr.com/photos/worldbank/2183984614/"><img class=" wp-image-7000" src="https://sivanea.com/wp-content/uploads/2015/11/2183984614_64c841b923_n.jpg?w=300" alt="Oji? Image credit: World Bank Photo Collection (Flickr)" width="321" height="217" /></a><figcaption>Oji? Image credit: World Bank Photo Collection (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/sbeebe/3710689465"><img alt="" src="http://farm3.staticflickr.com/2642/3710689465_19413f53d4_n.jpg" width="320" height="213" /></a><figcaption>Geire? Photo credit: Sam Beebe, Ecotrust (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/neilmoralee/7801091300"><img class="" src="https://c1.staticflickr.com/9/8422/7801091300_919896763f_n.jpg" alt="" width="320" height="346" /></a><figcaption>Gorumim? Image credit: Neil. Moralee (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/jspad/5823107322"><img alt="" src="http://farm3.staticflickr.com/2402/5823107322_edb9ac0c08.jpg" width="500" height="327" /></a><figcaption>Wisconsin farm belonging to Julie's parents? Photo credit: jspad (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/a-evans/7274337330"><img class="" src="https://c2.staticflickr.com/8/7227/7274337330_73ef203257_n.jpg" alt="" width="320" height="212" /></a><figcaption>Hika? Image credit: see like click (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/35528040@N04/3635732262"><img alt="" src="http://farm4.staticflickr.com/3332/3635732262_6a450bb927.jpg" width="500" height="375" /></a><figcaption>Savannah where stampede nearly kills Rafa? Photo credit: pam's pics- (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/dey/1460141071"><img class="" src="https://c2.staticflickr.com/2/1192/1460141071_20d2f63bab.jpg" alt="" width="320" height="213" /></a><figcaption>Hasha? Image credit: Dey (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/mikelove/2526016742"><img alt="" src="http://farm3.staticflickr.com/2056/2526016742_be5f9a83e0.jpg" width="500" height="375" /></a><figcaption>Swamp where Rafa crashes? Photo credit: MikeLove (Flickr)</figcaption></figure>
+<figure><a href="https://www.flickr.com/photos/worldbank/2243757037"><img class="" src="https://c1.staticflickr.com/3/2281/2243757037_f0a61fd294.jpg" alt="" width="320" height="483" /></a><figcaption>Tupa? Image credit: World Bank Photo Collection (Flickr)</figcaption></figure>
 
-<figure><a href="http://www.flickr.com/photos/loop_oh/6864834249"><img alt="" src="http://farm8.staticflickr.com/7059/6864834249_6b565efbea.jpg" width="500" height="333" /></a><figcaption>Where Rafa stumbles onto beach? Photo credit: loop_oh (Flickr)</figcaption></figure>
+A forest path similar to the one leading to Two Forks (<a href="https://www.flickr.com/photos/kumaravel/11541842474" target="_blank">Thangaraj Kumaravel, Flickr</a>)
 
-<figure><a href="http://www.flickr.com/photos/jenniferboyer/4589496653"><img alt="" src="http://farm5.staticflickr.com/4055/4589496653_d110736d09.jpg" width="500" height="332" /></a><figcaption>Where Rafa finds the arch? Photo credit: Anosmia (Flickr)</figcaption></figure>
+[embed]https://www.flickr.com/photos/kumaravel/11541842474[/embed]
 
-<figure><a href="http://www.flickr.com/photos/gfreeman23/6886550148"><img alt="" src="http://farm8.staticflickr.com/7230/6886550148_f6e92f8fd0.jpg" width="500" height="334" /></a><figcaption>Where Julie meets Rafa? Photo credit: Axion23 (Flickr)</figcaption></figure>
+The pishacha ride a wild boar like this (<a href="https://commons.wikimedia.org/wiki/File:Sus_scrofa_cristatus.jpg">Mariomassone, Wikimedia Commons</a>)
+
+<img class="alignnone size-full wp-image-7062" src="https://sivanea.com/wp-content/uploads/2015/11/1600px-sus_scrofa_cristatus.jpg" alt="1600px-sus_scrofa_cristatus" width="1600" height="1012" />
+
+A palace like the one belonging to the raja in Kikal Pilar (<a href="https://www.flickr.com/photos/rk_photos/5873692346">raghavvidya, Flickr</a>)
+
+[embed]https://www.flickr.com/photos/rk_photos/5873692346[/embed]
+
+The inner courtyard of the durga at Noemi might look a bit like this, although I picture it smaller. (<a href="https://www.flickr.com/photos/infanticida/21165667746">Aleksandr Zykov, Flickr</a>):
+
+<img class="alignnone size-full wp-image-7053" src="https://sivanea.com/wp-content/uploads/2015/11/21165667746_c05f06eb4e_k1.jpg" alt="21165667746_c05f06eb4e_k" width="1374" height="1035" />
+
+Looking from Kelun holdings down into something a bit lower, like maybe Umara or Bakar (<a href="https://www.flickr.com/photos/axelrd/9940547854/">-AX-, Flickr</a>):
+
+<img class="alignnone size-full wp-image-7052" src="https://sivanea.com/wp-content/uploads/2015/11/9940547854_ea8a829224_z.jpg" alt="9940547854_ea8a829224_z" width="640" height="236" />
+
+Lands closer to Kikal Pilar, where the river slows and widens (Rikkimaheshwari, Wikimedia Commons):
+
+<img class="alignnone size-full wp-image-7055" src="https://sivanea.com/wp-content/uploads/2015/11/ganges_calling.jpg" alt="Ganges_calling" width="1598" height="712" />
