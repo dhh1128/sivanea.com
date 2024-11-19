@@ -6,11 +6,12 @@ redirect_from:
   - /2013/04/02/first-palette
 ---
 
-<p class="haiku"><a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l"><img class="aligncenter" alt="" src="http://farm5.staticflickr.com/4059/5134077364_72ef29a65a_z.jpg" width="640" height="427" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l"><img class="aligncenter" alt="" src="http://farm5.staticflickr.com/4059/5134077364_72ef29a65a_z.jpg" width="640" height="427" /></a>
+
+<p class="haiku">
 not yet green, spring lifts
 white to sky, paints naked taupe,
 terra cotta, rust</p>
-
 
 <hr />
 

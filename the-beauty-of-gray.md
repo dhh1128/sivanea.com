@@ -8,6 +8,7 @@ redirect_from:
 
 <figure><img class=" " alt="" src="http://farm3.staticflickr.com/2558/3754074202_72d62840ed.jpg" width="219" height="500" /><figcaption>Photo credit: milo's photos (Flickr)</figcaption></figure>
 
+<p class="poetry">
 <strong>I.</strong>
 
 Jagged cracks of pure light
@@ -89,3 +90,4 @@ I puff another raindrop from my nose, and shiver mightily.
 <em> Thank you</em>
 <em> for showing an apprentice</em>
 <em> the beauty of gray.</em>
+</p>

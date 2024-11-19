@@ -8,7 +8,7 @@ redirect_from:
 
 <figure><img alt="" src="http://farm2.staticflickr.com/1289/4657366229_5e2ea85435.jpg" width="500" height="335" /><figcaption>photo credit: Daniel2005 (Flickr)</figcaption></figure>
 
-Be patient with my artless stroke,
+<p class="poetry">Be patient with my artless stroke,
 and gentle with my timid heart,
 and know it's joy, and fear you felt
 reflected in the words I spoke.
@@ -33,4 +33,4 @@ And now I see I learned too well;
 Afraid, I pause and splash,
 and shy the sweet, sweet wet,
 and drink, and choke, and cry;
-for I don't know the water, yet.
+for I don't know the water, yet.</p>

@@ -7,7 +7,8 @@ redirect_from:
 ---
 
 <p style="font-style:italic;font-size:90%;color:#777;">For Ken and Beryl Griffiths; see <a href="http://www.lds.org/scriptures/ot/eccl/11.1-2?lang=eng#1" target="_blank">Ecclesiastes 11:1-2</a>.</p>
-Ripples run with every loving cast--
+
+<p class="poetry">Ripples run with every loving cast--
 Gentle smiles to firm up feeble knees,
 Loving tears to strengthen weary hands...
 Yes, ripples run--
@@ -15,11 +16,11 @@ A portion to seven, and also to eight...
 And to one...
 Gentleness,
 Meekness,
-And love unfeigned.
+And love unfeigned.</p>
 
 <figure><img alt="" src="http://farm9.staticflickr.com/8042/7899420602_e018068e9b.jpg" width="500" height="333" /><figcaption>photo credit: DoimSioraf (Flickr)</figcaption></figure>
 
-Then moving one by one away
+<p class="poetry">Then moving one by one away
 The ripples glide to distant shores
 And there is silence, many days
 
@@ -31,4 +32,4 @@ From the fifteen.
 And the one...
 Friendship,
 Love,
-And bread.
+And bread.</p>

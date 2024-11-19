@@ -12,8 +12,8 @@ comments:
 ---
 <figure><img alt="" src="http://farm6.staticflickr.com/5014/5518705290_36baaf0b85.jpg" width="250" height="166" /><figcaption>Love the drawings on the fridge! Photo credit: brendan-c (Flickr)</figcaption></figure>
 
-Crayoned sheaves adorn the fridge
-in magnet-clipped bouquets--
+<p class="poetry">Crayoned sheaves adorn the fridge
+in magnet-clipped bouquets&mdash;
 stick-man family small to big,
 gulls, sharp peaks, some yellow rays,
 smoking chimney, circle trees,
@@ -22,7 +22,7 @@ tulips sprung from scribbled green...
 An engineer, Dad tweaks the tilt,
 saves straggling papers now and then.
 Mom might shuffle tints to match
-her curtains or her tablecloth--
+her curtains or her tablecloth&mdash;
 but doesn’t. It’s heart, not art
 that yields construction paper glory.
 
@@ -30,14 +30,14 @@ that yields construction paper glory.
 
 A suitcased pilgrimmage away
 another house of glory stands.
-Family scenes dot its walls, too--
+Family scenes dot its walls, too&mdash;
 Shepherd, angels, holy lands,
-fishers, lepers, pioneers--
+fishers, lepers, pioneers&mdash;
 sketched by children’s hands.
 
 He might make the lines run truer.
-She might make the colors glow--
-but the harmony they’re after--
-the perfect smiles and laughter--
+She might make the colors glow&mdash;
+but the harmony they’re after&mdash;
+the perfect smiles and laughter&mdash;
 is deeper than lines, whiter than hue
-not about things, but who.
+not about things, but who.</p>

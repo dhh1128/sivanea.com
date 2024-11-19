@@ -10,7 +10,7 @@ comments:
     comment: |
       this poem evoked old feelings inside me, thank you for sharing and so beautiful.
 ---
-It's sad enough to shade your face
+<p class="poetry">It's sad enough to shade your face
 in rooms where women waltz their words,
 dissecting Michaelangelo,
 and smile, tree-hungry, weary of the art.
@@ -31,6 +31,6 @@ from waltzing one too many times
 to worn-out seem and reputation;
 and yet, your memory bids me cry:
 above the beat, shout me your name.
-I know you have one, mirror man.
+I know you have one, mirror man.</p>
 
 <figure><img alt="" src="http://farm9.staticflickr.com/8005/7538588054_7e1f48eb02.jpg" width="500" height="375" /><figcaption>photo credit: Ralph-Thompson (Flickr)</figcaption></figure>

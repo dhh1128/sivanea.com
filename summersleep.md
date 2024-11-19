@@ -8,7 +8,7 @@ redirect_from:
 
 <figure><img class=" " alt="" src="http://farm2.staticflickr.com/1401/1421969136_9d6b5e5400_n.jpg" width="170" height="256" /><figcaption>photo credit: McBeth (Flickr)</figcaption></figure>
 
-the dreamfabric unravels, dissolves, refocuses--
+<p class="poetry">the dreamfabric unravels, dissolves, refocuses--
 into selfconscious wakethought.
 around a smooth curtain of quiet black velvet
 the leaves of the birch tree swishsigh by my window.
@@ -27,4 +27,4 @@ another yawn, and nubian night is a waiting world of summertimesilence
 dreamily murmuring sweet secrets...
 of seas and ships and sealing wax...
 and of leaves of birch trees that sing softly by my window
-tree leaves...softly whisper...by my window...
+tree leaves...softly whisper...by my window...</p>

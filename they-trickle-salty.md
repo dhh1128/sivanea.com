@@ -23,7 +23,7 @@ comments:
 
 <figure><img alt="" src="http://farm5.staticflickr.com/4041/5135129491_00f93eea44.jpg" width="500" height="400" /><figcaption>photo credit: More Good Foundation (Flickr)</figcaption></figure>
 
-They trickle, salty--
+<p class="poetry">They trickle, salty&mdash;
 the beads of sweat
 through the parched testimony
 of many miles dust,
@@ -54,4 +54,4 @@ they say <cite>Lo haremos.</cite>
 
 They trickle, sweetly,
 forever,
-tears of joy.
+tears of joy.</p>
