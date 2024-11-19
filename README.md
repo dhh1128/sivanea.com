@@ -1,3 +1,7 @@
+---
+title: Contents
+---
+
 ## Essays
 * [On Lying and Truth Telling](on-lying-and-truth-telling)
 * [Daniel As a Child](daniel-as-a-child)
@@ -58,7 +62,7 @@
 * [Summer Mischief](summer-mischief)
 
 ## Plays
-* [Stacked a Play in One Act](stacked-a-play-in-one-act)
+* [Stacked: a Play in One Act](stacked-a-play-in-one-act)
 
 ## Novels
 * [Cordimancy](cordimancy)
