@@ -68,8 +68,9 @@
     * [Free Wallpaper](cordimancy/free-wallpaper)
     * [Photo Gallery](cordimancy/photo-gallery)
     * [Bonus Prologue](cordimancy/bonus-prologue)
+    * [Bonus Scene](cordimancy/bonus-scene)
+    * [Quotes](cordimancy/quotes)
+    * [Discussion Questions](cordimancy/discussion-questions)
 * [Viking](viking)
-    * 
-    * [Viking Now Available Everywhere Else](viking-now-available-everywhere-else)
-    * [Viking Interiors Complete](viking-interiors-complete)
-* [Built a Shelfari Page](built-a-shelfari-page)
+    * [Shelfari Page](viking/shelfari-page)
+    * [Discussion Questions](viking/discussion-questions)

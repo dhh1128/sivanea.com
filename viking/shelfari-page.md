@@ -1,7 +1,7 @@
 ---
-title: Built a Shelfari page
+title: Shelfari page
 date: 2012-12-18
-slug: built-a-shelfari-page
+slug: shelfari-page
 redirect_from:
   - /2012/12/18/built-a-shelfari-page
 ---
