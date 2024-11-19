@@ -36,7 +36,7 @@ Then he got an idea.
 
 He would make a spider web machine.
 
-<!--more-->He got some hangars out of the closet in his bedroom. Maia got cotton balls from the bathroom. Caleb got an old banana peel out of the garbage in the kitchen.
+He got some hangars out of the closet in his bedroom. Maia got cotton balls from the bathroom. Caleb got an old banana peel out of the garbage in the kitchen.
 
 <figure><img alt="" src="http://farm8.staticflickr.com/7070/7052111097_aa5ccccae4.jpg" width="500" height="375" /><figcaption>Photo credit: photograφ (Flickr)</figcaption></figure>
 

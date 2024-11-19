@@ -24,7 +24,7 @@ Dad was cooking in the kitchen. Maia sat down at the table with her backpack and
 
 <figure><img alt="" src="http://farm4.staticflickr.com/3067/2620876645_bf3f4e9ea3_z.jpg" width="640" height="426" /><figcaption>photo credit: gemsling (Flickr)</figcaption></figure>
 
-Dad smiled and raised his eyebrows mysteriously. “A feast!” he said. “Want to help me cook?”<!--more-->
+Dad smiled and raised his eyebrows mysteriously. “A feast!” he said. “Want to help me cook?”
 
 “Sure,” said Maia. “Anything’s better than homework.”
 

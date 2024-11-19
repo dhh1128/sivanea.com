@@ -29,7 +29,7 @@ Avery’s dad liked to call him “Very”. Avery thought that was a funny nickn
 
 Avery laughed and laughed. He liked to play with his dad because he knew his dad liked him.
 
-<!--more-->When that was done Avery went outside to dig in the sandbox. He took a big bucket. Tex was already there.
+When that was done Avery went outside to dig in the sandbox. He took a big bucket. Tex was already there.
 
 <figure><img alt="" src="http://farm2.staticflickr.com/1033/4721064344_1f072e5901_z.jpg" width="640" height="427" /><figcaption>photo credit: static416 (Flickr)</figcaption></figure>
 

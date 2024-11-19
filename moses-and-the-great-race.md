@@ -22,7 +22,7 @@ They played soccer for a while, but that got boring.
 
 <figure><img alt="" src="http://farm4.staticflickr.com/3120/2374805411_88cc710ca1.jpg" width="353" height="500" /><figcaption>Photo credit: Myrrien (Flickr)</figcaption></figure>
 
-Then they pretended that they were firemen, <!--more-->rescuing Moses's little sister from a sandbox that was really a burning building. But after a while Genevieve wanted a snack, and there was nobody to rescue, so they had to stop.
+Then they pretended that they were firemen, rescuing Moses's little sister from a sandbox that was really a burning building. But after a while Genevieve wanted a snack, and there was nobody to rescue, so they had to stop.
 
 Then they jumped on McKay's trampoline for a while. Everybody was getting a sunburn except Moses and Sean.
 

@@ -14,7 +14,7 @@ After all the houses were built, they decided to have a housewarming party, so t
 
 One of the guests at the party was a little girl with a red riding hood on her head. Her name was Isabel. Isabel hated music, and she loved to make fun of jazz bands especially. So as soon as Big Bad Wolf started to play, she began shouting insults at them.
 
-“My, what a big noise you make!” she shouted.<!--more-->
+“My, what a big noise you make!” she shouted.
 
 The leader of the band, whose name was Jack, shouted back at her. “All the better to deafen you with.”
 

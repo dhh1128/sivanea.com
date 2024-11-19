@@ -20,7 +20,7 @@ Joanna’s other favorite thing in the whole wide world was mangos. Whenever her
 
 “No way!” said her brother. “I bought it with Dad, and I’m going to eat it all myself.”
 
-<!--more-->“That’s not fair,” said Joanna. “We all like mangos. You should share.”
+“That’s not fair,” said Joanna. “We all like mangos. You should share.”
 
 “Yes,” said Joanna’s mom. “We will all share the mango. But first let’s eat dinner.”
 

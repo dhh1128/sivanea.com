@@ -14,9 +14,9 @@ comments:
 
 <span style="font-weight:400;">When I was young, I thought lying was an act like denying a theft from the cookie jar: a falsehood asserted as true, or a truth declaimed as false. I wasn’t wrong to understand it that way--but I’ve come to see the same evil in subtler guises, and I want to point them out.</span>
 
-<a href="https://www.flickr.com/photos/93413187@N06/8492516706" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-7395" src="https://sivanea.com/wp-content/uploads/2017/10/screen-shot-2017-10-22-at-7-10-11-pm.png" alt="Screen Shot 2017-10-22 at 7.10.11 PM" width="1476" height="1416" /></a>
+<a href="https://www.flickr.com/photos/93413187@N06/8492516706" target="_blank" rel="noopener"><img src="https://sivanea.com/wp-content/uploads/2017/10/screen-shot-2017-10-22-at-7-10-11-pm.png" /></a>
 
-<!--more-->
+
 
 <span style="font-weight:400;">As I explore this topic, I hope you don’t feel harshness or condemnation. My intent is not to point fingers in a self-righteous way, but rather to meditate on things I’ve seen in my own heart, places I’ve needed correction, or painful lessons learned--in the hopes that it will take the teeth out of some behavior patterns that hurt all of us.</span>
 <h2><b>Common Ways to Lie</b></h2>

@@ -4,14 +4,6 @@ date: 2013-12-27
 slug: stone-spiderwebs
 redirect_from:
   - /2013/12/27/stone-spiderwebs
-comments:
-  - author: 95Hope
-    date: 2017-08-02 11:07:04
-    comment: |
-      Hi admin, i must say you have hi quality content here.
-      Your website should go viral. You need initial traffic 
-      only. How to get it? Search for: Mertiso's tips go 
-      viral
 ---
 <a href="http://www.flickr.com/photos/daniel_hardman/5134363167/sizes/l/"><img class="aligncenter" alt="" src="http://farm2.staticflickr.com/1191/5134363167_dbb3cdbb3b_z.jpg" width="427" height="640" /></a>
 <p class="haiku">did prehistoric

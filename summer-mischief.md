@@ -4,11 +4,6 @@ date: 2013-03-11
 slug: summer-mischief
 redirect_from:
   - /2013/03/11/summer-mischief
-comments:
-  - author: Gloria Pratt
-    date: 2013-03-11 09:31:54
-    comment: |
-      Is there no end to your talents?
 ---
 <figure><img alt="" src="http://farm4.staticflickr.com/3518/3810698131_dc92680539.jpg" width="333" height="500" /><figcaption>photo credit: THEMACGIRL* (Flickr)</figcaption></figure>
 
