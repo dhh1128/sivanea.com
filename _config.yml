@@ -1,0 +1,15 @@
+title: Sivanea
+description: poems, essays, and other creative writing
+author:
+  name: "Daniel Hardman"
+  twitter: "dhh1128"
+  email: "daniel.hardman@gmail.com"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-redirect-from
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
+include:
+  - robots.txt
+  - LICENSE
