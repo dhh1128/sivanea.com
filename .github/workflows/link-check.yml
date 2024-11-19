@@ -10,9 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args:  &mdash; verbose './**/*'
+          args: --verbose './**/*'
           fail: true
