@@ -1,12 +1,13 @@
 ---
-title: street geometry
+title: buenos ángulos
 date: 2013-01-17
 slug: 244
 redirect_from:
   - /2013/01/17/244
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/1413111083/sizes/l/"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1080/1413111083_b93d2a3916_z.jpg" width="640" height="479" /></a>
+<img class="alignnone" alt="" src="assets/buenos-angulos.jpg" width="640" height="479" />
+
 <p class="haiku">buildings, people, cars
 painted lines, and sky itself
 seek angled union</p>
