@@ -71,7 +71,7 @@ The frog was taller than Avery. It looked at him with its big eyes.
 
 “Or we could find some bugs for you to eat,” added Tex.
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3014/2947383945_0b8b4bc87a.jpg" width="500" height="405" /><figcaption>photo credit: Ana_Cotta (Flickr)</figcaption></figure>
+<figure><img src="assets/bugs.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 “Yuck! Who wants to eat bugs? They taste terrible.” said the frog.
 
@@ -89,7 +89,7 @@ Avery laughed. “C’mon, Mom. I said he could have one.”
 
 “All right,” said Avery’s mom. “Make sure you put the wrapper in the garbage instead of leaving it on the grass.”
 
-<figure><img alt="" src="http://farm1.staticflickr.com/30/42614196_ac85a180d3_z.jpg" width="640" height="399" /><figcaption>photo credit: Thomas Hawk (Flickr)</figcaption></figure>
+<figure><img src="assets/popsicle.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 Avery said thank you (he was a very polite little boy), got a popsicle, threw the wrapper in the garbage (he was also very obedient), and took the popsicle out to the frog. The frog slurped it up with one giant lick of his sticky tongue, then smacked his lips and burped.
 
@@ -103,7 +103,7 @@ Avery said thank you (he was a very polite little boy), got a popsicle, threw th
 
 Avery helped lift Tex onto the frog’s back. He knew that Tex would feel sad if he didn’t get a ride. Then Avery climbed up behind him, and the frog made a jump right over the top of Avery’s house. They flew through the air again and again, sometimes passing over trees, bikes, and cars. They even jumped over Avery’s sisters who were playing in the sprinkler in the front yard.
 
-<figure><img alt="" src="http://farm2.staticflickr.com/1062/631789279_9857700e87_z.jpg" width="480" height="640" /><figcaption>photo credit: SSTUDIO Samuel Bietenholz (Flickr)</figcaption></figure>
+<figure><img src="assets/girls-in-sprinkler.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 When they were done, Avery and Tex dropped in a heap into the sand. They were laughing.
 
