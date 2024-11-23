@@ -1,5 +1,6 @@
 ---
 title: Contents
+permalink: /
 ---
 
 ## Essays
