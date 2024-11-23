@@ -1,6 +1,6 @@
 ---
 title: "I promise not to teach or train"
-date: 1991-00-27
+date: 1991-10-27
 slug: i-promise-not-to-teach-or-train
 redirect_from:
   - /2013/02/04/i-promise-not-to-teach-or-train
