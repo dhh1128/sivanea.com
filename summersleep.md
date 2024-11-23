@@ -8,7 +8,7 @@ redirect_from:
 
 <figure><img class=" " alt="" src="http://farm2.staticflickr.com/1401/1421969136_9d6b5e5400_n.jpg" width="170" height="256" /><figcaption>photo credit: McBeth (Flickr)</figcaption></figure>
 
-<p class="poetry">the dreamfabric unravels, dissolves, refocuses--
+<p class="poetry">the dreamfabric unravels, dissolves, refocuses &mdash; 
 into selfconscious wakethought.
 around a smooth curtain of quiet black velvet
 the leaves of the birch tree swishsigh by my window.

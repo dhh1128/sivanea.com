@@ -16,9 +16,9 @@ comments:
   - author: Daniel Hardman
     date: 2013-02-04 20:58:02
     comment: |
-      When you asked this question, I thought: "naw, couldn't be!" I have been aware of Neuschwanstein for many years--it was always the prototypical castle in my mind, something I saw on calendars, something I'd visit eventually if I had the chance.
+      When you asked this question, I thought: "naw, couldn't be!" I have been aware of Neuschwanstein for many years &mdash; it was always the prototypical castle in my mind, something I saw on calendars, something I'd visit eventually if I had the chance.
       
-      When I took this photo, I wasn't doing anything special to visit a touristy destination. I was just driving south from Munich, through Austria, and into Italy. The castle I saw from the side of the highway couldn't have been *that* castle--could it?
+      When I took this photo, I wasn't doing anything special to visit a touristy destination. I was just driving south from Munich, through Austria, and into Italy. The castle I saw from the side of the highway couldn't have been *that* castle &mdash; could it?
       
       But I went on wikipedia and studied the photos of Neuchwanstein, and I'm convinced that you're right. This picture, in particular, makes it very clear that both buildings have the same roof and turrets: http://en.wikipedia.org/wiki/File:Neuschwanstein_Castle.jpg
       
@@ -26,15 +26,15 @@ comments:
   - author: Charron's Chatter
     date: 2013-02-04 21:01:24
     comment: |
-      haha. I used to live in Zurich, and we visited Austria and this castle. Walked about 3 kilometers up an Alp to do it--or maybe just one, but three sounds better. Did you know it is the prototype for Disney castle?
+      haha. I used to live in Zurich, and we visited Austria and this castle. Walked about 3 kilometers up an Alp to do it &mdash; or maybe just one, but three sounds better. Did you know it is the prototype for Disney castle?
       
-      Also, to this day, I have a photo of me and a Neuschwanstein alley cat--castle cat?--hanging in the hall. Fun fact: Neuschwanstein breaks down to: new swan castle--in English.
+      Also, to this day, I have a photo of me and a Neuschwanstein alley cat &mdash; castle cat? &mdash; hanging in the hall. Fun fact: Neuschwanstein breaks down to: new swan castle &mdash; in English.
       
       There. A little bonus "wiki"...:)
 ---
 <a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1262/1414082928_bf61ffe458_z.jpg" width="640" height="425" /></a>
-<p class="haiku">mist maunders over--
-castle juts, fades in and out--
+<p class="haiku">mist maunders over &mdash; 
+castle juts, fades in and out &mdash; 
 trees, solid, green beneath</p>
 
 <hr />

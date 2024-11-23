@@ -8,7 +8,7 @@ redirect_from:
 
 <p class="haiku"><a href="http://www.flickr.com/photos/daniel_hardman/5138253234/"><img class="aligncenter" alt="" src="http://farm2.staticflickr.com/1057/5138253234_42485dc4fd_z.jpg" width="640" height="427" /></a>
 from dry detritus
-greens irrepressible spring--
+greens irrepressible spring &mdash; 
 for joy, sun bursts, brash</p>
 
 

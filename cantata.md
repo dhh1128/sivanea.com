@@ -12,7 +12,7 @@ comments:
       
       You could take the final paragraph in several different ways. Does Alec deliberately misspell "cantata" because he wants revenge on his mother? Does he misspell it because he's a total failure at spelling, in addition to having lost his music? Or does he misspell it because his music is coming back to him?
       
-      Like the narrator in "Life of Pi" who asks his interviewer which story--the one with or without the tiger--he likes best, I have an interpretation that I prefer...
+      Like the narrator in "Life of Pi" who asks his interviewer which story &mdash; the one with or without the tiger &mdash; he likes best, I have an interpretation that I prefer...
 ---
 I always knew that he really was not lazy. In spite of the impression that he left at school, Alec was a very hard worker. It was just that he chose to pour his soul into music instead of homework. He didn't fail entirely, but his grades were miserable. Lawrence and I had both been honor students, and it hurt us to find that our child just was not interested in academics.
 

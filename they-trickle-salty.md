@@ -14,7 +14,7 @@ comments:
     comment: |
       I don't have any direct connection to the More Good Foundation, although I "liked" them on Facebook and I think they're doing great stuff.
       
-      I read your son's bio -- impressive!
+      I read your son's bio &mdash; impressive!
       
       Thanks for the feedback on the poem. There's really no good way to distill an experience as rich and varied as a mission down into a few words, so I decided to settle for one little glimpse. Happy memories. :-)
 ---

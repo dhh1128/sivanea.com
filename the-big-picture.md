@@ -12,7 +12,7 @@ When I was a freshman in college I was assigned to observe nature and then write
 
 Such a conclusion was not always evident, though. I began observing nature by watching bees, and at first that's about all I saw. Bees flying from flower to flower. Ho hum... But when I really began observing, I saw a lot more. For one thing, I had never seen such hard work and devotion to a single purpose. They landed on the flowers and without a moment to rest began gleaning the nectar. The bees were so busy that even before finishing one flower, they would start to walk toward another, tilting and rolling their heads to continue sucking as they walked. After a few flowers, the bees would take to the air and randomly select a new patch.
 
-<figure><img alt="" src="http://farm8.staticflickr.com/7024/6510010063_2cc839f323.jpg" width="500" height="360" /><figcaption>Photo credit: Martin LaBar (Flickr)</figcaption></figure>
+<figure><img src="honeybee.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 As my attention to detail grew, I noticed that even as the bees flew they had their proboscises extended—they began sucking nectar before their feet touched the flowers. Soon I discovered individual variations in the bees, such as the amount of pollen on their legs. I also found that the bees actually had some direct effect on their environment; the tiny flower petals bent with the weight of the insects, and once some dust and debris on the ground was blown away by the downwash from a bee's wings. I was completely captivated when my observation time ended. As I walked away from the flower bed I wondered what sights I was leaving behind.
 

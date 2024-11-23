@@ -13,7 +13,7 @@ I smile...
 you nod, distant in yourself, alone.
 I murmur at the tales you tell,
 and listen to your lonely laughter,
-and tease you, touch you, call and swell--
+and tease you, touch you, call and swell &mdash; 
 yet all too soon you go;
 I am too terrible,
 too beautiful to know.
@@ -28,7 +28,7 @@ still, all too soon you go;
 I am to foreign,
 too comprehensible to know.
 
-I wait for you, I wave to you--
+I wait for you, I wave to you &mdash; 
 I kiss the shore and wait,
 I feed you
 and I sing.
@@ -43,13 +43,13 @@ I am the sea; I am alone.
 I shall not hold you forcefully;
 though tender, soft
 I were to speak with you below,
-in the unknown depths--
+in the unknown depths &mdash; 
 of fish that dart like doubts
 in shadows even I don't know,
 of innocence, of laughter and complexities,
 of a hundred sad perplexities,
 and of an overwhelming question
-that I dare not offer in any other place--
+that I dare not offer in any other place &mdash; 
 yet, if compelled, you're sure to go;
 I am the sea,
 and I am too painful,
@@ -63,9 +63,9 @@ to cry and croon and smile you home,
 and hope someday to fill your net
 with treasure that I long to share,
 but dare not show you yet, not quite.
-For only when you truly come--
+For only when you truly come &mdash; 
 come to know, and then don't shy,
-in spite of my humanity--
+in spite of my humanity &mdash; 
 then is when at last I'll know:
 I am not too alien to know.
 And only then can I deliver

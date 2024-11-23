@@ -3,7 +3,7 @@ title: Discussion Questions
 date: 2012-12-31
 slug: discussion-questions
 ---
-<p style="font-style:italic;color:#777;font-size:90%;">Note: several of these questions are explored in the <a href="author-notes">Author Notes</a>. However, I don't think the author's intent is the last word on any of these topics--part of the magic of a book is that it grows in the telling, due to the experience and perspective that the reader brings...</p>
+<p style="font-style:italic;color:#777;font-size:90%;">Note: several of these questions are explored in the <a href="author-notes">Author Notes</a>. However, I don't think the author's intent is the last word on any of these topics &mdash; part of the magic of a book is that it grows in the telling, due to the experience and perspective that the reader brings...</p>
 
 <ol>
 	<li>How does the theme of communication and miscommunication recur in the story? What examples of miscommunication are prominent? What are their consequences? What examples of good communication occur?</li>

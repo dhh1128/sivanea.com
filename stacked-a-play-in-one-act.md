@@ -1,5 +1,5 @@
 ---
-title: Stacked -- a play in one act
+title: Stacked &mdash; a play in one act
 date: 2012-12-19
 slug: stacked-a-play-in-one-act
 redirect_from:

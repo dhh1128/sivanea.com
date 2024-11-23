@@ -12,9 +12,9 @@ comments:
 ---
 <p style="color:#777;font-style:italic;font-size:90%;">by <a class="zem_slink" title="Gustavo Adolfo Bécquer" href="http://en.wikipedia.org/wiki/Gustavo_Adolfo_B%C3%A9cquer" target="_blank" rel="wikipedia">Gustavo Adolfo Bécquer</a> (translated from the original Spanish by Daniel Hardman)</p>
 
-<p class="poetry">What is poetry? -- you say,
+<p class="poetry">What is poetry? &mdash; you say,
 my eye holding in your eye of blue.
 What is poetry? And you ask it of me?
-Poetry -- is you.</p>
+Poetry &mdash; is you.</p>
 
 [caption id="attachment_144" align="alignnone" width="500"]<a href="http://www.flickr.com/photos/adanyel/3107458109/"><img class=" wp-image-144 " alt="blue eyes" src="http://sivanea.com/wp-content/uploads/2013/01/screen-shot-2013-01-01-at-6-27-10-pm.png" width="500" height="230" /></a> photo credit: Antropsicosociopatologico (Flickr)[/caption]

@@ -14,7 +14,7 @@ It was painfully sunny, and Rafa tugged thankfully on the brim of his broad somb
 
 <figure><img alt="" src="http://farm3.staticflickr.com/2152/2199334140_c993dfa174.jpg" width="500" height="334" /><figcaption>Photo credit: sbisson (Flickr)</figcaption></figure>
 
-And now Rafa realized that he was completely lost. He had let the horse wander without paying attention to its course. He saw by the position of the sun that they were headed west. Maybe that explained his friend's absence. But he wasn't really content with that explanation--no--because surely he had been going north when the ride began, and though he had swerved off course, he should still have seen that hill.
+And now Rafa realized that he was completely lost. He had let the horse wander without paying attention to its course. He saw by the position of the sun that they were headed west. Maybe that explained his friend's absence. But he wasn't really content with that explanation &mdash; no &mdash; because surely he had been going north when the ride began, and though he had swerved off course, he should still have seen that hill.
 
 He climbed wearily from the saddle. He couldn't stand another minute on horseback. He had to walk for a minute, rest his sweaty, aching back. He trudged alongside the animal for a few minutes.
 
@@ -32,7 +32,7 @@ He picked up another rock and threw it. This time his luck was better: he didn't
 
 Now the snake slithered quickly toward Rafa. The horse, which had been patiently standing a few yards away, saw the reptile and ran away skittishly. Rafa tried to call it, to get it back, but the horse paid no attention to him. In a few minutes it disappeared over the horizon, leaving a little cloud of dust and an ominous silence.
 
-In the confusion, Rafa forgot about the snake. Later, when he had given up on the horse, he collapsed on a large rock, and he remembered. Where could it be? Almost as soon as he thought it, he heard the quiet, sinister rattle. It was very near--yes--very near. Slowly he rotated his head left. It was there, a foot from his ankle. Ready to bite him.
+In the confusion, Rafa forgot about the snake. Later, when he had given up on the horse, he collapsed on a large rock, and he remembered. Where could it be? Almost as soon as he thought it, he heard the quiet, sinister rattle. It was very near &mdash; yes &mdash; very near. Slowly he rotated his head left. It was there, a foot from his ankle. Ready to bite him.
 
 Rafa's thoughts raced. How to distract it, without provoking a strike? Then he remembered the sombrero. Slowly he tilted his head to the side, more and more and more. The sombrero was stuck. He sweat profusely. The sound of the snake was a thunder in his ears now. Every agonizing second it grew louder. He dared not move his legs. Or his arms. With infinite caution he raised his chin, and leaned once again. This time the sombrero was looser because he was sweating so much. The sombrero wobbled briefly, then fell.
 
@@ -52,6 +52,6 @@ And he saw the stars. He saw that there were many stars that night. He thought t
 
 He saw the little pebbles on the ground, near his eye. He saw the little pebbles, all ruby red for some strange reason. He thought that he would like to know the reason for it. He would like to know why there were so many little ruby red little pebbles here in the desert. He thought that it would be good to sell them in the plaza on Saturday. He thought that he could make a lot of money, and get very drunk.
 
-He thought that he didn't like to be lonely--he had never liked to be lonely. He thought that it was very nice, very lucky, that the little doggy had come to keep him company. He thought that he would have liked to say not to stay so far away. He tried to call it closer, but he couldn't speak.
+He thought that he didn't like to be lonely &mdash; he had never liked to be lonely. He thought that it was very nice, very lucky, that the little doggy had come to keep him company. He thought that he would have liked to say not to stay so far away. He tried to call it closer, but he couldn't speak.
 
 The little doggy seemed to understand anyway, and it came slowly forward. Rafa thought that it was a very nice little doggy. Yes, it was a very nice little doggy.

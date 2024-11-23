@@ -1,6 +1,6 @@
 ---
 title: Daniel as a Child
-date: 2012-12-19
+date: circa 1992
 slug: daniel-as-a-child
 redirect_from:
   - /2012/12/19/daniel-as-a-child
