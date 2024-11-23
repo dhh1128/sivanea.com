@@ -45,4 +45,4 @@ It had been raining all afternoon, and despite the mist, the color of the trees 
 
 I later figured out (see comment stream) that I'd snapped a shot of Neuschwanstein. Cool!
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l" target="_blank">other photo sizes</a>]

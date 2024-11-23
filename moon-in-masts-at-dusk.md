@@ -17,4 +17,4 @@ Taken at Sausalito Marina, December 2012. The sun was down; dusk was fading.
 
 Learning to sail is on my bucket list...
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/8331434557/sizes/l/">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/8331434557/sizes/l/">other photo sizes</a>]

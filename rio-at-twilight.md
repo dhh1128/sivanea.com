@@ -15,4 +15,4 @@ hills listen, preside</p>
 
 I'd been up on <a href="http://en.wikipedia.org/wiki/Sugarloaf_Mountain_(Brazil)" target="_blank">Sugarloaf</a> (Pão de Açúcar) all afternoon, taking pictures of the Rio de Janeiro harbor. It was June, 2006 &mdash; winter. Dusk came early. I caught this photo just as city lights were beginning to twinkle. <a class="zem_slink" title="Corcovado" href="http://en.wikipedia.org/wiki/Corcovado" target="_blank" rel="wikipedia">Corcovado</a>, the hill with the famous statue of Jesus (<a href="http://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)" target="_blank">Cristo Redentor</a>) is prominent on the skyline.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/1413166193/sizes/l" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/1413166193/sizes/l" target="_blank">other photo sizes</a>]

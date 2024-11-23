@@ -16,4 +16,4 @@ meadow's vernal fur</p>
 
 I was driving through Logan canyon west of Bear Lake, Utah, in late April, when I spotted a clearing beside the river. The bushes and the grass beneath them both looked furry to me, and the contrast in size and texture reminded me of how some animals grow a double coat each winter, then shed it in the spring.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/5138275624/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/5138275624/sizes/l/" target="_blank">other photo sizes</a>]

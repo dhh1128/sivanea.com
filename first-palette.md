@@ -17,4 +17,4 @@ terra cotta, rust</p>
 
 Taken on the side of I-15, south of Nephi, Utah.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l/" target="_blank">other photo sizes</a>]

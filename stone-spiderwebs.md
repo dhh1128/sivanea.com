@@ -15,4 +15,4 @@ cast webs dried to stone?</p>
 
 Southern Utah has some of the most beautiful sandstone formations anywhere. I'm sure a geologist could give a better explanation of the seams and cracks in this rock—perhaps mud dried, compressed, cracked, and then had seepage with different minerals—but spiders grabbed my imagination first. :-)
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/5134363167/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/5134363167/sizes/l/" target="_blank">other photo sizes</a>]

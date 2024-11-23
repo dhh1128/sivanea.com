@@ -18,4 +18,4 @@ My wife and I went high into the mountains on a getaway for our anniversary. Abo
 
 Once we turned off the snowmobile engine and just breathed, the quiet was intoxicating.
 
-[<a href="https://www.flickr.com/photos/daniel_hardman/16107071596/sizes/h/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="https://www.flickr.com/photos/daniel_hardman/16107071596/sizes/h/" target="_blank">other photo sizes</a>]

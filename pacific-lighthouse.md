@@ -29,4 +29,4 @@ which the true lighthouse?</p>
 
 Took this on a recent vacation. Pigeon Point, about 30 miles south of San Francisco on Highway 1, Dec 2012. My son Ethan helped me use Photoshop to make detail on the rock a bit more visible, and to make the colors pop, but this is not far from <em>au natural</em>. Amazing...
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/" target="_blank">other photo sizes</a>]

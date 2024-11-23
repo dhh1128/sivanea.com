@@ -16,4 +16,4 @@ she watches back, I think.</p>
 
 Taken at the Aquarium of the Bay, San Francisco. Dec 2013.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/8332547204/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/8332547204/sizes/l/" target="_blank">other photo sizes</a>]

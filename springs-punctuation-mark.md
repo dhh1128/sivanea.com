@@ -16,4 +16,4 @@ for joy, sun bursts, brash</p>
 
 I found this out walking in the woods, at the very beginning of spring. Kinda changed my opinion on dandelions. :-)
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/5138253234/sizes/l/" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/5138253234/sizes/l/" target="_blank">other photo sizes</a>]

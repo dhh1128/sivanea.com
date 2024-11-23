@@ -17,4 +17,4 @@ I find it ironic that this particular tree is known as a "<a href="http://en.wik
 
 Took this from <a href="http://en.wikipedia.org/wiki/Sugarloaf_Mountain_(Brazil)" target="_blank">Sugarloaf</a> (Pão de Açúcar), looking down into the harbor in Rio de Janeiro, Brazil.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/1414044050/sizes/l" target="_blank">other photo sizes</a> | <a href="http://sivanea.com/category/photos/">more photo haikus</a>]
+[<a href="http://www.flickr.com/photos/daniel_hardman/1414044050/sizes/l" target="_blank">other photo sizes</a>]
