@@ -5,7 +5,7 @@ permalink: /
 
 ## Essays
 * [On Lying and Truth Telling](on-lying-and-truth-telling)
-* [Daniel As a Child](daniel-as-a-child)
+* [Daniel as a Child](daniel-as-a-child)
 * [The Big Picture](the-big-picture)
 
 ## Poetry

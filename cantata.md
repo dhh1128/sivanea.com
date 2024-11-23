@@ -1,6 +1,6 @@
 ---
 title: Cantata
-date: 2013-01-02
+date: 1988-10-26
 slug: cantata
 redirect_from:
   - /2013/01/02/cantata

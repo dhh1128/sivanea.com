@@ -1,6 +1,6 @@
 ---
 title: The Beauty of Gray
-date: 2012-12-19
+date: 1987-08-18
 slug: the-beauty-of-gray
 redirect_from:
   - /2012/12/19/the-beauty-of-gray

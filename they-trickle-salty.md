@@ -1,6 +1,6 @@
 ---
 title: They Trickle, Salty
-date: 2013-02-17
+date: 1990-11-15
 slug: they-trickle-salty
 redirect_from:
   - /2013/02/17/they-trickle-salty

@@ -1,6 +1,6 @@
 ---
 title: Rima XXI
-date: 2013-02-24
+date: 1992-09-21
 slug: rima-xxi
 redirect_from:
   - /2013/02/24/rima-xxi

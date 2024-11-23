@@ -1,6 +1,6 @@
 ---
 title: Albaricoque (Apricot)
-date: 2013-01-07
+date: 1991-03-15
 slug: albaricoque
 redirect_from:
   - /2013/01/07/albaricoque

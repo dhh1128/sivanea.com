@@ -1,6 +1,6 @@
 ---
 title: Mahatma
-date: 2013-04-16
+date: 1987-09-30
 slug: mahatma
 redirect_from:
   - /2013/04/16/mahatma

@@ -1,6 +1,6 @@
 ---
 title: The Big Picture
-date: 2012-12-31
+date: 1988-10-13
 slug: the-big-picture
 redirect_from:
   - /2012/12/31/the-big-picture

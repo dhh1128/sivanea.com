@@ -1,6 +1,6 @@
 ---
 title: Froggies
-date: 2012-12-19
+date: 1996-12-05
 slug: froggies
 redirect_from:
   - /2012/12/19/froggies

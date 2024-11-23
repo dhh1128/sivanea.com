@@ -1,6 +1,6 @@
 ---
 title: Stacked &mdash; a play in one act
-date: 2012-12-19
+date: 1991-07-14
 slug: stacked-a-play-in-one-act
 redirect_from:
   - /2012/12/19/stacked-a-play-in-one-act

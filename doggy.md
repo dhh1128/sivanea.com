@@ -1,6 +1,6 @@
 ---
 title: Doggy
-date: 2013-01-09
+date: 1988-10-04
 slug: doggy
 redirect_from:
   - /2013/01/09/doggy

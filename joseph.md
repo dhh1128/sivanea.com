@@ -1,6 +1,6 @@
 ---
 title: Joseph
-date: 2013-02-06
+date: 1990-09-02
 slug: joseph
 redirect_from:
   - /2013/02/06/joseph

@@ -1,6 +1,6 @@
 ---
 title: Shobe
-date: 2013-03-02
+date: 1987-12-05
 slug: shobe
 redirect_from:
   - /2013/03/02/shobe

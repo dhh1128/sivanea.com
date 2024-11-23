@@ -1,6 +1,6 @@
 ---
 title: Camel in the Rain
-date: 2013-01-23
+date: 1987-11-28
 slug: camel-in-the-rain
 redirect_from:
   - /2013/01/23/camel-in-the-rain
