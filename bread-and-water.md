@@ -18,7 +18,7 @@ Gentleness,
 Meekness,
 And love unfeigned.</p>
 
-<figure><img alt="ripples on water" src="assets/ripples.jpg" /><figcaption>image credit: Midjourneyget</figcaption></figure>
+<figure><img alt="ripples on water" src="assets/ripples.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">Then moving one by one away
 The ripples glide to distant shores

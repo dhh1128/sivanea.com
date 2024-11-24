@@ -6,7 +6,7 @@ redirect_from:
   - /2015/01/04/december-afternoon-ten-thousand-feet
 ---
 
-<a href="https://www.flickr.com/photos/daniel_hardman/16107071596/sizes/h/"><img class="aligncenter" alt="" src="https://farm8.staticflickr.com/7538/16107071596_3838b2c5e3_z.jpg" width="640" height="427" /></a>
+<img src="assets/10000-feet.jpg" />
 <p class="haiku">hazed by snow, sun slips
 t'ward skyline; aspens stand, hail &mdash; 
 still, chill sentinels</p>
@@ -18,4 +18,3 @@ My wife and I went high into the mountains on a getaway for our anniversary. Abo
 
 Once we turned off the snowmobile engine and just breathed, the quiet was intoxicating.
 
-[<a href="https://www.flickr.com/photos/daniel_hardman/16107071596/sizes/h/" target="_blank">other photo sizes</a>]

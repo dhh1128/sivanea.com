@@ -4,13 +4,9 @@ date: 1991-05-26
 slug: puddles
 redirect_from:
   - /2012/12/20/puddles
-comments:
-  - author: Puddle Jumping and Muddy Monsters: 2013 365 Challenge #48 &laquo; writermummy
-    date: 2013-02-17 02:57:17
-    comment: |
-      [...] Puddles (sivanea.com) [...]
 ---
-<figure><img alt="" src="http://farm7.staticflickr.com/6031/6299833638_3f1f388754_n.jpg" width="320" height="240" /><figcaption>Photo credit: Rob Lantz (Flickr)</figcaption></figure>
+<figure><img src="assets/boys-in-puddles.jpg" />
+<figcaption>image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">My friend, does rain still set you thinking
 About our day of perfect puddle splendor?

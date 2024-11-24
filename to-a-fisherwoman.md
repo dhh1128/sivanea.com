@@ -6,7 +6,10 @@ redirect_from:
   - /2012/12/19/to-a-fisherwoman
 ---
 
-<img src="assets/fisherwoman.jpg" /> Photo credit: swiss.frog (Flickr)[/caption]
+<figure>
+<img src="assets/fisherwoman.jpg" />
+<figcaption>image credit: Midjourney
+</figure>
 
 <p class="poetry">You come, bark between my heart, your bone.
 I smile...
