@@ -18,7 +18,7 @@ permalink: /
 * [Smile R Eeeeel Big](smile-r-eeeeel-big)
 * [Stone Spiderwebs](stone-spiderwebs)
 * [Double Coat](double-coat)
-* ["I promise not to teach Or train"](i-promise-not-to-teach-or-train)
+* ["I promise not to teach or train"](i-promise-not-to-teach-or-train)
 * [Summersleep](summersleep)
 * [Rima XXI (translation)](rima-xxi)
 * [They Trickle, Salty](they-trickle-salty)
