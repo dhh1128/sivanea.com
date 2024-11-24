@@ -29,7 +29,7 @@ permalink: /
 * [Its Sad Enough to Shade Your Face](its-sad-enough-to-shade-your-face)
 * [Bread and Water](bread-and-water)
 * [Moon in Masts at Dusk](moon-in-masts-at-dusk)
-* [Buenos Ángulos](buenos-angelos)
+* [Buenos Ángulos](buenos-angulos)
 * [Easter Roses](easter-roses)
 * [Camel in the Rain](camel-in-the-rain)
 * [At Iguazu Falls](at-iguazu-falls)
