@@ -9,6 +9,10 @@ permalink: /
 * [The Big Picture](the-big-picture)
 
 ## Poetry
+* [This Word of God](this-word-of-god)
+* [After the Order of His Son](after-the-order-of-his-son)
+* [Nancy the Kneader](nancy-the-kneader)
+* [Fix-it Man](fix-it-man)
 * [Leafy Boa](leafy-boa)
 * [Drifting Into Dusk](drifting-into-dusk)
 * [First Palette](first-palette)
