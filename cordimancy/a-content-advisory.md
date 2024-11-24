@@ -5,7 +5,7 @@ slug: a-content-advisory
 ---
 <em>Cordimancy</em> is fiction, intended to be read for enjoyment and pondering. However, it isn't make-believe fantasy where good swaggers off the battlefield with a grin after it vanquishes evil. It has characters, not caricatures, and they encounter real tragedy. This brings harsh themes and flawed resolutions. The darkness on the cover is deliberate.
 
-<img src="assets/cordimancy_facebook.jpg" />
+<img src="../assets/cordimancy_facebook.jpg" />
 
 Lives of people I love and respect (and my own life, too, to some degree) have been touched by some of the traumas that <em>Cordimancy</em> depicts. I know a (mercifully small) bit about how such things can haunt. This makes me alive to the possibility that the book could trigger or hurt a tender heart. I hope not; my aim was to leave you warm and encouraged. I have tried hard to be authentic and respectful without being graphic. Still, we all bring different experiences to a story, and certain combinations might be painful &mdash; so I thought I'd identify content that could challenge the comfort of readers.
 
