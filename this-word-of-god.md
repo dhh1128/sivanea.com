@@ -1,11 +1,12 @@
-This Word of God
+---
+title: This Word of God
+date: 2016-12-16
+---
 
-And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
-— John 1:14
+*And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.<br>
+— John 1:14*
 
-Dec 2016
-
-This Word of God invites our hearts to hear:
+<p class="poetry">This Word of God invites our hearts to hear:
 Its tones turn stable straw to palace silk,
 Call starlight forth as fireworks for a king,
 Name lowing cows and sheep its heralds.
@@ -23,4 +24,4 @@ Young girl, repute impaired, its pedigree.
 This Word of God says something sweet to us--
 Lives lonely, dark, abandoned, stark and chill--
 Immanuel births our drear story, too
-If we will hear Him, seek Him, speak Him still.
+If we will hear Him, seek Him, speak Him still.</p>

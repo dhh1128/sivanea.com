@@ -5,6 +5,6 @@ slug: free-wallpaper
 ---
 Click to download high-res versions of these wallpapers.
 
-<figure><a href="https://sivanea.com/wp-content/uploads/2015/11/cordimancy_wallpaper.jpg"><img class="wp-image-6983 size-medium" src="https://sivanea.com/wp-content/uploads/2015/11/cordimancy_wallpaper.jpg?w=300" alt="Cordimancy_Wallpaper" width="300" height="208" /></a><figcaption>"Malena in Darkness", by DHMDesigns</figcaption></figure>
+<figure><a href="assets/cordimancy_wallpaper.jpg"><img src="assets/cordimancy_wallpaper.jpg" /></a><figcaption>"Malena in Darkness", by DHMDesigns</figcaption></figure>
 
-<figure><a href="https://sivanea.com/wp-content/uploads/2015/11/cordimancy_landscape.jpg"><img class="wp-image-6986 size-medium" src="https://sivanea.com/wp-content/uploads/2015/11/cordimancy_landscape.jpg?w=300" alt="&quot;Toril Underwater&quot;, by Laura Faraci" width="300" height="208" /></a><figcaption>"Toril Underwater", by Laura Faraci</figcaption></figure>
+<figure><a href="assets/cordimancy_landscape.jpg"><img src="assets/cordimancy_landscape.jpg" alt="&quot;Toril Underwater&quot;, by Laura Faraci" /></a><figcaption>"Toril Underwater", by Laura Faraci</figcaption></figure>

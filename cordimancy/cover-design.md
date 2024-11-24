@@ -9,6 +9,6 @@ If you've ever wondered how artists and authors collaborate on cover art, you mi
 
 Over 150 cover designs were submitted. <a href="https://www.surveymonkey.com/r/cordimancy-cover" target="_blank">Here</a> is the survey that I used to pick among the six finalists. (If you take the survey, you can see all the designs in detail.)
 
-<img class="aligncenter wp-image-6962 size-large" src="https://sivanea.com/wp-content/uploads/2015/11/screen-shot-2015-11-24-at-12-03-06-am.png?w=640" alt="Screen Shot 2015-11-24 at 12.03.06 AM" width="640" height="107" />
+<img src="assets/screen-shot-2015-11-24-at-12-03-06-am.png?w=640" />
 
 You can download <a href="free-wallpaper">free poster/wallpaper versions</a> of the first and second place designs.

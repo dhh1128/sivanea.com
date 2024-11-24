@@ -10,7 +10,7 @@ Cordimancy is available on the Kindle (http://j.mp/1Mfr42y) and in print via Ama
 
 <hr />
 
-<img src="https://sivanea.com/wp-content/uploads/2015/11/cordimancy-front-cover.jpg?w=640" alt="Cordimancy-front-cover" width="640" height="857" />
+<img src="assets/cordimancy-front-cover.jpg" />
 
 Toril and Malena barely complete wedding vows before their future crumbles. War ignites the borderlands; conspiracy stalks the young clan chief. Attackers raze their town, assaulting Malena and leaving her near death. Whoever commissioned the violence kidnaps dozens of children, with plans to sacrifice them in taboo acts of blood magic.
 
