@@ -17,4 +17,4 @@ my eye holding in your eye of blue.
 What is poetry? And you ask it of me?
 Poetry &mdash; is you.</p>
 
-[caption id="attachment_144" align="alignnone" width="500"]<a href="http://www.flickr.com/photos/adanyel/3107458109/"><img class=" wp-image-144 " alt="blue eyes" src="http://sivanea.com/wp-content/uploads/2013/01/screen-shot-2013-01-01-at-6-27-10-pm.png" width="500" height="230" /></a> photo credit: Antropsicosociopatologico (Flickr)[/caption]
+<figure><img class=" wp-image-144 " alt="blue eyes" src="assets/blue-eyes.jpg" /></a><figcaption>Image credit: Midjourney</figcaption></figure>

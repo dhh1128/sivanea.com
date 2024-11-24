@@ -32,7 +32,7 @@ comments:
       
       There. A little bonus "wiki"...:)
 ---
-<a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1262/1414082928_bf61ffe458_z.jpg" width="640" height="425" /></a>
+<img alt="austrian castle" src="assets/german-castle.jpg" /></a>
 <p class="haiku">mist maunders over &mdash; 
 castle juts, fades in and out &mdash; 
 trees, solid, green beneath</p>
@@ -44,5 +44,3 @@ I took this from the side of a highway in southern Germany, near the Austria bor
 It had been raining all afternoon, and despite the mist, the color of the trees forest just popped, even in the softer light. The castle drifted in and out of the clouds like a ghost.
 
 I later figured out (see comment stream) that I'd snapped a shot of Neuschwanstein. Cool!
-
-[<a href="http://www.flickr.com/photos/daniel_hardman/1414082928/sizes/l" target="_blank">other photo sizes</a>]
