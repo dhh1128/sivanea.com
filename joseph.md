@@ -49,4 +49,4 @@ Joseph is his name.
 
 Joseph.</p>
 
-<figure><img alt="" src="http://farm7.staticflickr.com/6091/6280078972_18e71fcb9a.jpg" width="500" height="332" /><figcaption>Two roads diverged... Photo credit: Eric Vondy (Flickr)</figcaption></figure>
+<figure><img alt="a forking footpath in the forest" src="assets/two-roads.jpg" /><figcaption>Two roads diverged... Image credit: Midjourney</figcaption></figure>
