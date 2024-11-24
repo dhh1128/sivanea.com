@@ -3,8 +3,9 @@ title: Author Notes
 date: 2012-12-31
 slug: author-notes
 ---
-<p style="text-align:left;"><span style="color:#ff0000;"><em>Warning: Plot spoilers below...</em></span></p>
-<a name="symbolism"></a><strong>Symbolism</strong>
+*Warning: Plot spoilers below...*
+
+## Symbolism
 
 <span style="text-decoration:underline;">Names</span>: Just for fun, I picked names that resonated with the role that characters play in the story. Tristan ("sad") Abbot ("father"). Mara ("bitter") Chen. Gideon ("one who strikes") Heward. Ray ("protector") Gregory ("watchful"). Rafael ("god has healed") Orosco a.k.a. David ("beloved") Rosales. Julie (~jewel) Sterlyn (~sterling ~ "genuine, valuable") Orosco. Darnel ("hidden") Geire ("vulture").
 
@@ -18,9 +19,7 @@ slug: author-notes
 
 <hr />
 
-&nbsp;
-
-<a name="themes"></a><strong>Themes</strong>
+## Themes
 
 <span style="text-decoration:underline;">Marriage</span>: People who love each other might still have misunderstandings that lead to unhappiness and mistrust. But there is hope.
 
@@ -36,9 +35,7 @@ slug: author-notes
 
 <hr />
 
-&nbsp;
-
-<a name="allusions"></a><strong>Allusions</strong>
+## Allusions
 
 Chen compares Rafa to Hamlet ("Good night, sweet prince"). Later, Rafa alludes to Hamlet's soliloquy ("by sleep, to say we end the Heart-ache, and the thousand natural shocks that Flesh is heir to").
 
