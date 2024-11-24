@@ -5,7 +5,7 @@ slug: bonus-prologue
 ---
 <em>(This takes place a century or more before the main action in the novel. I ended up omitting it to simplify, but it does provide interesting backstory.)</em>
 
-Gorumim snuffed his torch, allowing umber shadow to swallow the sandstone. While he blinked to adjust his eyes, the throb of drums subsided, further sapping energy from desert air that had already lost daylight’s broil. By morning the temperature would be well below osipi tolerance—it was one reason they met so soon after sundown.
+Gorumim snuffed his torch, allowing umber shadow to swallow the sandstone. While he blinked to adjust his eyes, the throb of drums subsided, further sapping energy from desert air that had already lost daylight’s broil. By morning the temperature would be well below osipi tolerance &mdash; it was one reason they met so soon after sundown.
 
 He stepped forward, saw starlight glittering in a dozen pairs of eyes.
 
@@ -48,7 +48,7 @@ The leader slowly drew his dagger. “I‘ll forgive your insolence, but I’ll 
 
 As the circle expanded to give them room, Gorumim licked lips split by sunburn, seeking a flavor beyond his own blood. Two days ago he’d brought down one of the yolk suckers with an arrow as it frolicked nakedly in the dust out of sight of its companions. A pup, by good fortune, born osipi and still growing in bursts. He’d harvested the life blood carefully, baking it dry and then burning the flaked remains to ash. And he’d rubbed the essence on his lips just before he came.
 
-He let the flavor swell as his lips began to burn. They were waiting for him to draw; the leader was already in a crouch. When the duel began, human reflexes would be woefully inadequate, even against a mediocre osipi. Against an ahu—well, suicide was an understatement. But they were in for a surprise.
+He let the flavor swell as his lips began to burn. They were waiting for him to draw; the leader was already in a crouch. When the duel began, human reflexes would be woefully inadequate, even against a mediocre osipi. Against an ahu &mdash; well, suicide was an understatement. But they were in for a surprise.
 
 When the flaring made his teeth ache, he swallowed his bloody spittle and whispered words to complete the magic. Fire spread across his belly, his arms. The darkness faded into a noon-like brilliance that revealed ants skittering across the sand, day-old whiskers on his opponent’s cheeks, the tracks a scorpion had left as it burrowed under a boulder a few paces away.
 
@@ -56,9 +56,9 @@ He smelled cloves from the mulled wine one of the osipi elders had been drinking
 
 Gorumim drew his knife.
 
-As cacique, his opponent was undoubtedly nearing his final years, but he still moved liked lightning. And he was crafty—he hadn’t fought his way to a ceremonial title by happenstance.
+As cacique, his opponent was undoubtedly nearing his final years, but he still moved liked lightning. And he was crafty &mdash; he hadn’t fought his way to a ceremonial title by happenstance.
 
-But Gorumim was a veteran as well; years of intrigue at the palace had demanded a martial education, and he’d been the weapon master’s star pupil. His body could not twist as quickly as the smaller man’s—sheer size slowed some movements—but he had the sensual acuity and reaction speed of a young, born osipi, plus superior mass and strength. And he had his opponent’s shock, which showed plainly when Gorumim drew first blood with a nick across the forearm.
+But Gorumim was a veteran as well; years of intrigue at the palace had demanded a martial education, and he’d been the weapon master’s star pupil. His body could not twist as quickly as the smaller man’s &mdash; sheer size slowed some movements &mdash; but he had the sensual acuity and reaction speed of a young, born osipi, plus superior mass and strength. And he had his opponent’s shock, which showed plainly when Gorumim drew first blood with a nick across the forearm.
 
 “Perhaps I misjudged you,” said the cacique, flicking his dagger from one hand to the other in a motion that ordinary human eyes could not have followed. “You don’t fight like a Sata.”
 
@@ -81,7 +81,7 @@ Gorumim sighed with satisfaction. An invitation to repeat the duel meant he had 
 
 Gorumim began to recite in the formal bard-like cadences that he’d memorized as a child. He told the story of his grandfather, Riga, bred and grown to manhood in a dungeon so the usurping Jakaz could gloat and humiliate. He told of the valiant troops from Risa Salam who had stormed the castle and restored the throne to its rightful owner. He recounted the long and glorious reign of his own father, Kavek, and the coup that had returned the realm to chaos and darkness.
 
-As he spoke he worked the words, drawing out the syllables a little longer here, biting them off a little sooner there, emphasizing and de-emphasizing with the skill of an artisan. The texture added an extra layer to his speech, one that only a lip could appreciate. It was like giving two speeches at once—one with the normal ebb and flow of the voice, the other with a more subtle prosody. The obvious content was history that everyone in the realm knew; the subtext was designed to recast it all with heightened emotion. Gorumim wanted his new allies to resent his family’s suffering like he did, to taste the bitterness of injustice and thirst for revenge.
+As he spoke he worked the words, drawing out the syllables a little longer here, biting them off a little sooner there, emphasizing and de-emphasizing with the skill of an artisan. The texture added an extra layer to his speech, one that only a lip could appreciate. It was like giving two speeches at once &mdash; one with the normal ebb and flow of the voice, the other with a more subtle prosody. The obvious content was history that everyone in the realm knew; the subtext was designed to recast it all with heightened emotion. Gorumim wanted his new allies to resent his family’s suffering like he did, to taste the bitterness of injustice and thirst for revenge.
 
 He felt the magic swirl almost immediately. It would have enthralled a normal human audience, let alone the exquisitely attuned waifs that circled him now. By the time he stopped, several of them were actually near a trance.
 
@@ -132,7 +132,7 @@ Now the thrall was deep. Even the cacique’s eyes were glazing, despite violent
 Without breaking tempo, he untied the pouch at his waist and knelt to start a fire. Fuel was stacked nearby; apparently the elders had anticipated the need for warmth. He pretended to strike a flint, but a few muted syllables actually lit the tinder; as soon as the flames rose, he cast a different powdered blood and gulped the burnt citrus aroma that billowed.
 
 The osipi also inhaled; they were too mesmerized to do otherwise. Immediately the golden hue to their skin paled. Their breathing slowed; their shivering subsided even as the fire sputtered out.
-“You will say it is a fool’s dream,” Gorumim continued smoothly. “But it is not. Tonight you will see.” And now he shifted to the third and final part of his oration—a rapturous foretelling of the osipi destiny as they tamed the life power under his leadership. His tempo slowed; his diction adapted to the more Sata-like sensibilities now overpowering his audience.
+“You will say it is a fool’s dream,” Gorumim continued smoothly. “But it is not. Tonight you will see.” And now he shifted to the third and final part of his oration &mdash; a rapturous foretelling of the osipi destiny as they tamed the life power under his leadership. His tempo slowed; his diction adapted to the more Sata-like sensibilities now overpowering his audience.
 
 The people would be masters of all land, north and south; who could stand against them when they had the best strengths of all the races? They would help him govern in justice. Osipi musicians, with centuries rather than a few years of experience, would make music such as the world had never known. Osipi builders would master the subtlety of Sata structures, but add such color and passion that the beholder would weep.
 

@@ -99,7 +99,7 @@ Grandma looked stricken. “You mean…”
 
 “Can you ever forgive me, you marvelous musicians?” she said in a panic.
 
-The dwarves had heard the whole conversation and wasted no time. They scattered in every direction, shouting “Run, run, as fast as you can—you can can’t me; I’m a tiny little man!”
+The dwarves had heard the whole conversation and wasted no time. They scattered in every direction, shouting “Run, run, as fast as you can &mdash; you can can’t me; I’m a tiny little man!”
 
 Grandma was furious when she realized that the little men had run away and none of them were members of her favorite band. She threatened to spank Isabel, but Isabel and Jack just jumped on the motorcycle and headed to McDonalds. If they couldn’t have Snap, Crackle, and Pop, at least they could have some pancakes.
 

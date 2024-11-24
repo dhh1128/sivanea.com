@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/02/first-palette
 ---
 
-<img src="assets/first-palette.jpg" /></a>
+<img src="assets/first-palette.jpg" />
 
 <p class="haiku">
 not yet green, spring lifts

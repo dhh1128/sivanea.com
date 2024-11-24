@@ -32,7 +32,7 @@ comments:
       
       There. A little bonus "wiki"...:)
 ---
-<img alt="austrian castle" src="assets/german-castle.jpg" /></a>
+<img alt="austrian castle" src="assets/german-castle.jpg" />
 <p class="haiku">mist maunders over &mdash; 
 castle juts, fades in and out &mdash; 
 trees, solid, green beneath</p>

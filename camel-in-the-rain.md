@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/23/camel-in-the-rain
 ---
 
-<figure><img alt="" src="http://farm2.staticflickr.com/1289/4657366229_5e2ea85435.jpg" width="500" height="335" /><figcaption>photo credit: Daniel2005 (Flickr)</figcaption></figure>
+<figure><img alt="camel in rain" src="assets/camel-in-rain.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">Be patient with my artless stroke,
 and gentle with my timid heart,

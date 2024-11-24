@@ -17,7 +17,7 @@ The fear in the other man's voice carried clearly through the wet.
 
 The other man acknowledged in clipped tones, and Avis began his own scramble through the muck. He pulled himself onto a mass of roots, slick with slime, and half-slid, half-crawled around the massive bole of a tree, the odor of moldy vegetation strong in his nostrils. They'd been hunting the froggies for nearly twelve hours now, patiently tightening their noose of riflemen to force the bloated monsters inward. When he and his buddy were in place, the circle would be a mere hundred meters across, and they'd burn the diabolical brutes out of existence.
 
-He shivered, thinking of their impossibly massive jaws and bulging eyes. They'd fought the humans to a standstill on this world—but for the last time. Next week human reinforcements would arrive...
+He shivered, thinking of their impossibly massive jaws and bulging eyes. They'd fought the humans to a standstill on this world &mdash; but for the last time. Next week human reinforcements would arrive...
 
 Now he was in position, his back against a pebbly boulder, his blaster sweeping the focus point where the froggies would soon sizzle and wisp away as greasy, foul clouds of smoke.
 

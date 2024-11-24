@@ -26,7 +26,7 @@ permalink: /
 * [Thorny Silk](thorny-silk)
 * [Rio at Twilight](rio-at-twilight)
 * [Castle in the Clouds](castle-in-the-clouds)
-* [Its Sad Enough to Shade Your Face](its-sad-enough-to-shade-your-face)
+* ["It's sad enough to shade your face"](its-sad-enough-to-shade-your-face)
 * [Bread and Water](bread-and-water)
 * [Moon in Masts at Dusk](moon-in-masts-at-dusk)
 * [Buenos Ángulos](buenos-angulos)

@@ -6,7 +6,8 @@ redirect_from:
   - /2013/04/09/fern-express
 ---
 
-<p class="haiku"><img src="assets/green-rails.jpg" /></a>Steel ruled hard here, once,
+<p class="haiku"><img src="assets/green-rails.jpg" />
+Steel ruled hard here, once,
 till a soft, living carpet
 ate the Fern Express.</p>
 <hr />

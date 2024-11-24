@@ -6,7 +6,7 @@ redirect_from:
   - /2013/02/12/summersleep
 ---
 
-<figure><img alt="half-open window in moonlight" src="assets/summersleep.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
+<figure><img alt="half-open window in moonlight" src="assets/summersleep.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">the dreamfabric unravels, dissolves, refocuses &mdash; 
 into selfconscious wakethought.

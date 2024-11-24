@@ -4,7 +4,7 @@ date: 2015-11-24
 slug: discussion-questions
 ---
 <ol>
-	<li>Who wields the type of magic called “cordimancy”—and what is its nature? Who is a “heart”?</li>
+	<li>Who wields the type of magic called “cordimancy” &mdash; and what is its nature? Who is a “heart”?</li>
 	<li>How do Malena and Toril progress through stages of grief as the story unfolds?</li>
 	<li>Is Shivi too idealistic?</li>
 	<li>Why is kavro shilmar called the Ordeal of Names? Did Toril receive any power in the ordeal that he didn’t already have? What is the beginning and ending of the ordeal? Is there any analog to it in the “real world”?</li>

@@ -5,7 +5,7 @@ slug: a-screech-of-gulls
 redirect_from:
   - /2013/01/16/a-screech-of-gulls
 ---
-<img src="assets/a-screech-of-gulls.jpg" /></a>
+<img src="assets/a-screech-of-gulls.jpg" />
 <p class="haiku">grounded, wings tucked, still,
 mute gulls outwait the drizzle &mdash;
 wet friends on a plank.</p>

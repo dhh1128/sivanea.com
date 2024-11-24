@@ -18,4 +18,4 @@ he snuggled and sighed while I whispered the tale.
 Loved ragged, I basked in his artless, pure spell
 and squeezed my <em>I love you</em>s no language can tell.</p>
 
-<figure><img alt="" src="http://farm9.staticflickr.com/8441/7798392052_636d69ffe0.jpg" width="500" height="332" /><figcaption>photo credit: liquidnight (Flickr)</figcaption></figure>
+<figure><img src="assets/booksong.jpg" /><figcaption>photo credit: liquidnight (Flickr)</figcaption></figure>

@@ -18,7 +18,7 @@ comments:
 ---
 <p style="font-size:80%;font-style:italic;">for Ethan, Lauren, Maia, Caleb, Sean, Dylan, and Genevieve</p>
 
-<figure><img src="assets/finches.jpg" /><figcaption>This past spring, we had a nest of finches beneath the eaves over our front porch. There was a single day when the baby birds looked almost exactly like this. The next day the nest was empty. Image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/finches.jpg" /><figcaption>This past spring, we had a nest of finches beneath the eaves over our front porch. There was a single day when the baby birds looked almost exactly like this. The next day the nest was empty. image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">Yesterday just gaping jaws,
 Cheeping feebly, pink blind heads...

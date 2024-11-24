@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/31/taipei-night-lights
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/1387953062/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1130/1387953062_c3d3fa45b0_z.jpg" width="640" height="479" /></a>
+<img src="assets/taipei.jpg" />
 <p class="haiku">colors smear and splash;
 scooters beep and taxis dash:
 night kaleidoscope</p>

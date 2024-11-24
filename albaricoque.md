@@ -7,7 +7,9 @@ redirect_from:
 ---
 
 <figure>
-<img src="assets/apricot.jpg" /></a><figcaption>Image credit: Midjourney</figcaption></figure>
+<img src="assets/apricot.jpg" />
+<figcaption>image credit: Midjourney</figcaption>
+</figure>
 
 <p class="poetry">No, artistas de Babilonia,
 sus pinturas no me llaman:
@@ -18,11 +20,11 @@ su casi-sonrisa casi escondida.
 
 No, no me llaman,
 pues yo la he visto.
-Y yo la pintaría—
+Y yo la pintaría &mdash; 
 
 albaricoque
 
-sí—albaricoque y blanca—
+sí &mdash; albaricoque y blanca &mdash; 
 luciendo con la timidez
 de virgen primavera;
 sonrojándose,
@@ -38,7 +40,7 @@ y de albaricoque venidero.</p>
 <hr />
 <p style="font-size:90%;color:#777;font-style:italic;">English translation, by the author:</p>
 
-<p class="poetry">No, artists of Babylon—
+<p class="poetry">No, artists of Babylon &mdash; 
 your paintings do not call me:
 silhouetted by the red,
 shrouded in the shadow,
@@ -49,9 +51,9 @@ No, they do not call me,
 for I have seen her.
 And I would paint her
 
-apricot—
+apricot &mdash;
 
-yes—apricot and white—
+yes &mdash; apricot and white &mdash; 
 shining with the shyness
 of virgin spring;
 blushing,

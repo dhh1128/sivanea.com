@@ -20,7 +20,7 @@ The dog picked her way after, sure-footed but somewhat less silent. Oji lifted h
 Oji lifted a paddle, carved swiftly, and flipped the prow toward the far shore.
 Hika whined faintly.
 
-“Hush,” Oji said. “Crossing before it’s fully dark is probably foolish. Gorumim’s off the ferry by now, I’m guessing, and his men are way downstream. With luck, nobody will notice us at all—or if they do, they’ll assume I’m just a boy. But it’s still risky to move in the open. The less attention we attract, the better.”
+“Hush,” Oji said. “Crossing before it’s fully dark is probably foolish. Gorumim’s off the ferry by now, I’m guessing, and his men are way downstream. With luck, nobody will notice us at all &mdash; or if they do, they’ll assume I’m just a boy. But it’s still risky to move in the open. The less attention we attract, the better.”
 
 Hika whined again. Her eyes were fixed on the shallow bend, a couple bow shots downstream, where the Royal Guard and the osipi had brought the children to load them on barges. Eddies of muddy water still swirled around the depressions left by boots and keels.
 
