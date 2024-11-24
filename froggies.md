@@ -5,7 +5,7 @@ slug: froggies
 redirect_from:
   - /2012/12/19/froggies
 ---
-<a href="http://sivanea.com/2012/12/19/froggies/froggies/" rel="attachment wp-att-40"><img class="size-medium wp-image-40 alignleft" style="margin-right:16px;" alt="froggies" src="http://sivanea.com/wp-content/uploads/2012/12/froggies.jpg?w=175" width="175" height="300" /></a>
+<img alt="soldier in jungle on froggy planet" src="assets/froggy-planet.jpg" />
 
 Ponderous clouds broke suddenly, lashing the canopy of tago trees that arched into stygian gloom eighty meters above. Exotic hoots and throaty grunting from beyond the blackness floated down, mixing with a soft lap-lap of marshwater at his waist. Avis fingered the trigger of his blaster and wiped sweat from his eyebrows with a grimy hand. His comlink crackled.
 
