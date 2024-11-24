@@ -6,7 +6,7 @@ redirect_from:
   - /2012/12/19/the-beauty-of-gray
 ---
 
-<figure><img class=" " alt="" src="http://farm3.staticflickr.com/2558/3754074202_72d62840ed.jpg" width="219" height="500" /><figcaption>Photo credit: milo's photos (Flickr)</figcaption></figure>
+<figure><img class=" " alt="" src="assets/gray-lightning.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">
 <strong>I.</strong>

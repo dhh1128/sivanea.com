@@ -21,7 +21,7 @@ comments:
 <p style="color:#777;font-size:90%;font-style:italic;">"And this is the account of Ammon and his brethren, their journeyings in the land of Nephi, their sufferings in the land, their sorrows, and their afflictions, and their incomprehensible joy..." —<a href="http://www.lds.org/scriptures/bofm/alma/28.8?lang=eng#7" target="_blank">Alma 28:8</a></p>
 
 
-<figure><img alt="" src="http://farm5.staticflickr.com/4041/5135129491_00f93eea44.jpg" width="500" height="400" /><figcaption>photo credit: More Good Foundation (Flickr)</figcaption></figure>
+<figure><img alt="missionaries on bikes" src="assets/missionaries.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">They trickle, salty&mdash;
 the beads of sweat

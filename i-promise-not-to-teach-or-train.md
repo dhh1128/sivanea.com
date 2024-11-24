@@ -6,7 +6,7 @@ redirect_from:
   - /2013/02/04/i-promise-not-to-teach-or-train
 ---
 
-<figure><img class="  " alt="" src="http://farm4.staticflickr.com/3400/3330528710_321e601287.jpg" width="266" height="400" /><figcaption>photo credit: Corie Howell (Flickr)</figcaption></figure>
+<figure><img alt="a couple hugging" src="assets/couple-hugging.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 <p class="poetry">I promise not to teach or train,
 or probe or lecture or advise,
