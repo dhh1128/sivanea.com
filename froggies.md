@@ -32,3 +32,7 @@ No sound at all except the faint hiss.
 He stumbled back into the protective shadow of the rock, nauseated with terror. A current of hot, moist air swelled around his shoulders, reeking of decaying flesh. He lurched, gagging.
 
 And then the rock moved...
+
+<hr>
+
+<em>This started as a serial story (write a few paragraphs, pass it along to the next writer to add some more). I'm sure I recognize some parts of it that were written by my brother, Joshua. Probably other siblings contributed as well. So I have co-authors to credit; I'm just not sure who.</em>
