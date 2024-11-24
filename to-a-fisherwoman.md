@@ -8,7 +8,7 @@ redirect_from:
 
 <figure>
 <img src="assets/fisherwoman.jpg" />
-<figcaption>image credit: Midjourney
+<figcaption>image credit: Midjourney</figcaption>
 </figure>
 
 <p class="poetry">You come, bark between my heart, your bone.
