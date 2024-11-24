@@ -33,4 +33,4 @@ and yet, your memory bids me cry:
 above the beat, shout me your name.
 I know you have one, mirror man.</p>
 
-<figure><img alt="" src="http://farm9.staticflickr.com/8005/7538588054_7e1f48eb02.jpg" width="500" height="375" /><figcaption>photo credit: Ralph-Thompson (Flickr)</figcaption></figure>
+<figure><img src="assets/mirror-man.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
