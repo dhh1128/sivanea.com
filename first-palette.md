@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/02/first-palette
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l"><img class="aligncenter" alt="" src="http://farm5.staticflickr.com/4059/5134077364_72ef29a65a_z.jpg" width="640" height="427" /></a>
+<img src="assets/first-palette.jpg" /></a>
 
 <p class="haiku">
 not yet green, spring lifts
@@ -15,6 +15,4 @@ terra cotta, rust</p>
 
 <hr />
 
-Taken on the side of I-15, south of Nephi, Utah.
-
-[<a href="http://www.flickr.com/photos/daniel_hardman/5134077364/sizes/l/" target="_blank">other photo sizes</a>]
+The photo that inspired this haiku was taken on the side of I-15, south of Nephi, Utah, in March 2013. Unfortunately, I have since lost it. So the image above is a rough recreation.
