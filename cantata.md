@@ -16,7 +16,7 @@ comments:
 ---
 I always knew that he really was not lazy. In spite of the impression that he left at school, Alec was a very hard worker. It was just that he chose to pour his soul into music instead of homework. He didn't fail entirely, but his grades were miserable. Lawrence and I had both been honor students, and it hurt us to find that our child just was not interested in academics.
 
-<figure><img alt="" src="http://farm3.staticflickr.com/2676/4146970231_4e85006c6b_n.jpg" width="213" height="320" /><figcaption>Photo credit: jayneandd (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm3.staticflickr.com/2676/4146970231_4e85006c6b_n.jpg" width="213" height="320" /><figcaption>Photo credit: jayneandd (Flickr)</figcaption></figure>
 
 Sometimes when Alec walked in after school with his textbooks buried in reams of music-covered staff paper, I was especially angry at myself for ever starting my son on music. He was gifted, I knew &mdash; perhaps more gifted than anyone had ever been before. Only a month after the lessons began, my little boy had written his first sonata. I didn't have the heart to spoil his confidence in the music by playing it in front of him. Only after Alec had gone to sleep did I softly play the piece on the old grand piano. To my delight, the piece worked; it was utterly charming. How I wished, though, that I had not encouraged Alec so much after that &mdash; doubling his lessons, furnishing materials, even buying him an advanced synthesizer for his seventh birthday.
 

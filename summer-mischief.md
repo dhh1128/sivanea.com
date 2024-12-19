@@ -5,7 +5,7 @@ slug: summer-mischief
 redirect_from:
   - /2013/03/11/summer-mischief
 ---
-<figure><img alt="" src="http://farm4.staticflickr.com/3518/3810698131_dc92680539.jpg" width="333" height="500" /><figcaption>photo credit: THEMACGIRL* (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm4.staticflickr.com/3518/3810698131_dc92680539.jpg" width="333" height="500" /><figcaption>photo credit: THEMACGIRL* (Flickr)</figcaption></figure>
 
 As a learning exercise, I wrote a little piece of music in GarageBand. It's for 3 pianos (although I recorded it for 3 guitars, because my music generator doesn't sound very good for piano). The music is in the key of C, and it's probably easy enough for a young piano student to play.
 

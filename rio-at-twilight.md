@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/25/rio-at-twilight
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/1413166193/sizes/l"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1218/1413166193_f27e1b8c2b_z.jpg" width="640" height="479" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/1413166193/sizes/l"><img class="alignnone" alt="" src="https://farm2.staticflickr.com/1218/1413166193_f27e1b8c2b_z.jpg" width="640" height="479" /></a>
 <p class="haiku">soft light, hard lights talk,
 whisper songs of nearing night &mdash; 
 hills listen, preside</p>

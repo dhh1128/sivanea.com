@@ -12,7 +12,10 @@ comments:
 ---
 Once upon a time there was a little boy named Moses whose head was covered with cute little curlies. Moses had a great big smile. He loved eating chips and salsa, playing soccer, and racing his bike up and down the sidewalk.
 
-[caption id="attachment_324" align="aligncenter" width="500"]<a href="http://sivanea.com/wp-content/uploads/2013/02/screen-shot-2013-02-17-at-6-39-51-pm1.png"><img class="size-full wp-image-324" alt="Moses, aka Spiderman" src="http://sivanea.com/wp-content/uploads/2013/02/screen-shot-2013-02-17-at-6-39-51-pm1.png" width="500" height="550" /></a> Moses, aka Spiderman[/caption]
+<figure>
+<img src="assets/moses-spiderman.jpg" />
+<figcaption>Moses, aka Spiderman. Photo credit: Linda Hardman</figcaption>
+</figure>
 
 One day in the summer, Moses finished his breakfast, did his job (to take out the garbage), cleaned his room, and ran outside to play. The sun was shining brightly.
 
@@ -20,13 +23,13 @@ Pretty soon, his friend Parker came out. He was ready to play. After a while, Mo
 
 They played soccer for a while, but that got boring.
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3120/2374805411_88cc710ca1.jpg" width="353" height="500" /><figcaption>Photo credit: Myrrien (Flickr)</figcaption></figure>
+<figure><img src="assets/parker-fireman.jpg" width="353" height="500" /><figcaption>Photo credit: Myrrien (Flickr)</figcaption></figure>
 
 Then they pretended that they were firemen, rescuing Moses's little sister from a sandbox that was really a burning building. But after a while Genevieve wanted a snack, and there was nobody to rescue, so they had to stop.
 
 Then they jumped on McKay's trampoline for a while. Everybody was getting a sunburn except Moses and Sean.
 
-<figure><img alt="" src="http://farm1.staticflickr.com/22/34010333_3aeabe416e.jpg" width="500" height="333" /><figcaption>Photo credit: Michael.M (Flickr)</figcaption></figure>
+<figure><img src="assets/trampoline.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 When Moses's mom came outside to water the flowers, Moses said, "Mom, summer is boring. There's nothing to do."
 
@@ -40,7 +43,9 @@ When Moses's mom came outside to water the flowers, Moses said, "Mom, summer is 
 
 "Play doodlebugs," said Genevieve, who was rolling them on the sidewalk.
 
-[caption id="attachment_329" align="aligncenter" width="500"]<a href="http://www.flickr.com/photos/span112/3517350830/"><img class="size-full wp-image-329" alt="Photo credit: Jinx! (Flickr)" src="http://sivanea.com/wp-content/uploads/2013/02/screen-shot-2013-02-17-at-7-36-47-pm.png" width="500" height="200" /></a> Photo credit: Jinx! (Flickr)[/caption]
+<figure>
+<img src="assets/doodlebug.jpg" /><figcaption>Image credit: Midjourney</figcaption>
+</figure>
 
 "Nah," said Moses. "I want to do something fantastic! Thrilling! Stupendous! Awesome!"
 
@@ -58,7 +63,7 @@ When Moses's mom came outside to water the flowers, Moses said, "Mom, summer is 
 
 "That's not thrilling," said Caleb. "I'd rather eat spinach."
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3467/3382375016_40213736c0.jpg" width="500" height="332" /><figcaption>Photo credit: GeekNeck (Flickr)</figcaption></figure>
+<figure><img alt="" src="assets/bmx.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 "I think it's cool!" said McKay. "Then what?"
 
@@ -74,7 +79,7 @@ Moses nodded. "Yeah. That's why the next part is to see who can eat twinkies and
 
 "After that, we ride four-wheelers and motorcycles on a roller-coaster track that has upside-down loops. And we have to be fast, because robots with flame throwers will be chasing us, trying to burn our bottoms."
 
-<figure><img alt="" src="http://farm3.staticflickr.com/2019/2089597741_328682a1e8.jpg" width="500" height="375" /><figcaption>Photo credit: beinggreen (Flickr)</figcaption></figure>
+<figure><img src="assets/robot-flamethrowers.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 "All done?" asked Genevieve.
 
@@ -94,19 +99,19 @@ Moses nodded. "Yeah. That's why the next part is to see who can eat twinkies and
 
 They each put on their helmet and lined up at the starting line.
 
-<figure><img alt="" src="http://farm8.staticflickr.com/7197/6908976829_4ab74e930b.jpg" width="500" height="281" /><figcaption>Photo credit: Alex E. Proimos (Flickr)</figcaption></figure>
+<figure><img src="assets/boys-bmx-helmets.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 "Deady," said Genevieve. "Det set. Do!"
 
 And they were off. Moses went up the bike ramp so fast that his tires made smoke. McKay was right behind him, and so was Sean. Caleb was going so fast by the time he got to the top of the ramp that he put on the brakes, and a bunch of shingles from the roof went flying all the way to Josh's house in Pleasant Grove.
 
-They drove down the other side of the roof. Sean popped a wheelie. Parker was driving no-handed, with his eyes closed. They all went flying into the air and did backflips.
+They drove down the other side of the roof. Sean popped a wheelie. Parker was driving no-handed, with his eyes closed. They all went flying into the air and did backflips. Then their parachutes popped out, and they floated gently toward the ground.
 
-<figure><img alt="" src="http://farm5.staticflickr.com/4078/4883225248_2807fe604a.jpg" width="500" height="333" /><figcaption>Photo credit: Peter Huys (Flickr)</figcaption></figure>
+<figure><img src="assets/parachute.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
-Then their parachutes popped out, and they floated gently toward the ground. But the robots with the flamethrowers made a mistake. They were supposed to chase the boys when they got on four-wheelers, but instead they burned up the parachutes. Instead of landing on the ground, the boys landed right in the middle of the moat filled with hungry crocodiles and anacondas.
+ But the robots with the flamethrowers made a mistake. They were supposed to chase the boys when they got on four-wheelers, but instead they burned up the parachutes. So instead of landing on the ground, the boys landed right in the middle of the moat filled with hungry crocodiles and anacondas.
 
-<figure><img alt="" src="http://farm7.staticflickr.com/6141/6011766251_76e2b2c48d.jpg" width="500" height="333" /><figcaption>Photo credit: montuschi (Flickr)</figcaption></figure>
+<figure><img src="assets/moat-monsters.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
 Moses snapped his fingers again, and swords and firecrackers appeared in every boy's hand. As soon as the snakes got close, they poked them in the belly buttons with the sword, which made the snakes start to laugh. Before the snakes could stop, Moses tied them around the snouts of the hungry crocodiles, so the crocodiles couldn't bite. Then they put firecrackers between the crocodiles' toes and spanked them. The crocodiles ran away, dancing as the firecrackers went off.
 
@@ -124,13 +129,15 @@ In an instant, they were fastening their seatbelts and the chin straps on their 
 
 And they were off!
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3656/3497530452_262fa28e70.jpg" width="500" height="333" /><figcaption>Photo credit: Brandice Schnabel (Flickr)</figcaption></figure>
+<figure><img src="assets/4-wheeler.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
 
-On the first lap, Caleb skidded on a slippery patch of oil and almost lost control. While he was sliding sideways, McKay got a flat tire, and Jacob went off a ramp and almost landed right on top of Sean. But they all made it around the loops, over the jumps, through the burning hoops, and across the finish line.
+On the first lap, Caleb skidded on a loose patch of dirt and almost lost control. While he was sliding sideways, McKay got a flat tire, and Jacob went off a ramp and almost landed right on top of Sean. But they all made it around the loops, over the jumps, through the burning hoops, and across the finish line.
 
-Then they grabbed the rocket-powered skateboards and went streaking across the sky toward the top of Mount Timpanogos.
+Then they grabbed the rocket-powered skateboards and went streaking up the hill and across the sky toward the top of Mount Timpanogos.
 
-[caption id="attachment_332" align="aligncenter" width="500"]<a href="http://www.flickr.com/photos/21202433@N08/6316571835/"><img class="size-full wp-image-332" alt="Photo credit: Photo Dean (Flickr)" src="http://sivanea.com/wp-content/uploads/2013/02/screen-shot-2013-02-17-at-8-21-42-pm.png" width="500" height="200" /></a> Photo credit: Photo Dean (Flickr)[/caption]
+<figure>
+<img src="assets/rocket-board.jpg" /><figcaption>Image credit: Midjourney</figcaption>
+</figure>
 
 On the way back, Moses and Caleb and Sean and McKay and Jacob and Parker were in a tie. Sometimes Caleb would get ahead for a minute, if he ducked down so the wind didn't push as hard on him. But then his skateboard would get tired, and Parker would get in the lead. Then when Parker's skateboard got tired, Moses would go out in front, or Sean, or McKay. But it was hard to tell who was going to win.
 
@@ -140,7 +147,9 @@ Then they all jumped off into a swimming pool filled with whipped cream and bolo
 
 "Who won?" asked Caleb, when he finally climbed out and wiped the whipped cream out of his eyes.
 
-[caption id="attachment_330" align="aligncenter" width="500"]<a href="http://www.flickr.com/photos/lafayette-college/6166625519/"><img class="size-full wp-image-330" alt="Photo credit: Lafayette College (Flickr)" src="http://sivanea.com/wp-content/uploads/2013/02/screen-shot-2013-02-17-at-8-12-13-pm.png" width="500" height="281" /></a> Photo credit: Lafayette College (Flickr)[/caption]
+<figure>
+<img src="assets/face-whip-cream.jpg" /><figcaption>Image credit: Midjourney</figcaption>
+</figure>
 
 "Beats me," said Moses.
 

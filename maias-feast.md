@@ -22,7 +22,7 @@ Mom laughed.
 
 Dad was cooking in the kitchen. Maia sat down at the table with her backpack and her folder and nibbled on a cookie. “What’s for dinner?” she asked.
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3067/2620876645_bf3f4e9ea3_z.jpg" width="640" height="426" /><figcaption>photo credit: gemsling (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm4.staticflickr.com/3067/2620876645_bf3f4e9ea3_z.jpg" width="640" height="426" /><figcaption>photo credit: gemsling (Flickr)</figcaption></figure>
 
 Dad smiled and raised his eyebrows mysteriously. “A feast!” he said. “Want to help me cook?”
 

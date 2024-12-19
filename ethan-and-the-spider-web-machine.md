@@ -28,7 +28,7 @@ He was bored.
 
 Ethan ate lots of dough and chocolate chips. He did somersaults. He rolled doodle bugs.
 
-<figure><img alt="" src="http://farm4.staticflickr.com/3578/3348170708_b8279546fb.jpg" width="500" height="333" /><figcaption>Image credit: sarah sosiak (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm4.staticflickr.com/3578/3348170708_b8279546fb.jpg" width="500" height="333" /><figcaption>Image credit: sarah sosiak (Flickr)</figcaption></figure>
 
 He was bored.
 
@@ -38,19 +38,19 @@ He would make a spider web machine.
 
 He got some hangars out of the closet in his bedroom. Maia got cotton balls from the bathroom. Caleb got an old banana peel out of the garbage in the kitchen.
 
-<figure><img alt="" src="http://farm8.staticflickr.com/7070/7052111097_aa5ccccae4.jpg" width="500" height="375" /><figcaption>Photo credit: photograφ (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm8.staticflickr.com/7070/7052111097_aa5ccccae4.jpg" width="500" height="375" /><figcaption>Photo credit: photograφ (Flickr)</figcaption></figure>
 
 Ethan scratched his head. It was not enough stuff.
 
 He got the tricycle in the garage. Maia got a roll of red yarn from the basket by Mom’s bed. Caleb got a band-aid off his knee.
 
-<figure><img alt="" src="http://farm5.staticflickr.com/4027/4572251914_2cf975d231.jpg" width="500" height="387" /><figcaption>photo credit: clarkmaxwell (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm5.staticflickr.com/4027/4572251914_2cf975d231.jpg" width="500" height="387" /><figcaption>photo credit: clarkmaxwell (Flickr)</figcaption></figure>
 
 Ethan scratched his head. It was not enough stuff.
 
 He got a roll of tape from the cupboard by the fridge. Maia got batteries out of her flashlight. Caleb got a can of fish flakes.
 
-<figure><img alt="" src="http://farm5.staticflickr.com/4075/4897253942_5ab212e2ba.jpg" width="500" height="375" /><figcaption>photo credit: GigerPunk (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm5.staticflickr.com/4075/4897253942_5ab212e2ba.jpg" width="500" height="375" /><figcaption>photo credit: GigerPunk (Flickr)</figcaption></figure>
 
 No, it was still not enough. Ethan needed help.
 
@@ -62,7 +62,7 @@ Caleb went over and asked Mom to change his diaper. It was very stinky.
 
 Daniel brought an old fishing rod, some shoelaces, and a remote-control car. Meg brought an empty peanut butter jar, a plastic spoon, and some bubble gum wrappers.
 
-<figure><img alt="" src="http://farm1.staticflickr.com/147/392614312_47febca92e.jpg" width="500" height="333" /><figcaption>photo credit: D. Scott Lipsey (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm1.staticflickr.com/147/392614312_47febca92e.jpg" width="500" height="333" /><figcaption>photo credit: D. Scott Lipsey (Flickr)</figcaption></figure>
 
 Ethan and Maia and Meg and Daniel spread everything out in the driveway and looked at it. Caleb sat on the peanut butter jar and looked as his doodle bug.
 
@@ -76,7 +76,7 @@ Ethan and Maia and Meg and Daniel spread everything out in the driveway and look
 
 “A doodle bug!” said Caleb.
 
-<figure><img alt="" src="http://farm3.staticflickr.com/2178/2540877894_dbb4c3a244.jpg" width="500" height="375" /><figcaption>photo credit: Maggie Osterberg (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm3.staticflickr.com/2178/2540877894_dbb4c3a244.jpg" width="500" height="375" /><figcaption>photo credit: Maggie Osterberg (Flickr)</figcaption></figure>
 
 Ethan got an old bucket. It had lots of dirt and a couple dead ants, and even a dusty cobweb at the bottom, so that was a good start. He turned on the hose and added water. Daniel used Meg’s plastic spoon to scrape the last little bits of peanut butter into the bucket. Caleb added his banana peel.
 
@@ -92,7 +92,7 @@ Ethan got an old bucket. It had lots of dirt and a couple dead ants, and even a 
 
 The bucket sputtered. Purple smoke curled out the top, made a slow circle in the air over their heads, turned green, and then vanished with a sparkle of firecracker sounds.
 
-<figure><img alt="" src="http://farm2.staticflickr.com/1201/968403715_b99cc8ca46.jpg" width="500" height="500" /><figcaption>photo credit: TW Collins (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm2.staticflickr.com/1201/968403715_b99cc8ca46.jpg" width="500" height="500" /><figcaption>photo credit: TW Collins (Flickr)</figcaption></figure>
 
 Ethan grabbed the potion bucket and began to dance around, sprinkling droplets of foaming pink stuff all over the fishing rod, the tricycle, the yarn, the band aid, and the plastic spoon. And as he danced, he chanted:
 <p style="padding-left:30px;">Spiderweb, spiderweb in a dish.
@@ -111,7 +111,7 @@ They chanted till they were hoarse. But the pile of junk did not turn into a spi
 
 “Spit!” said Caleb. And he harunged and gakoxed and p-tooied right on top of the whole heap.
 
-<figure><img alt="" src="http://farm8.staticflickr.com/7167/6624632071_867f86ba11.jpg" width="500" height="333" /><figcaption>photo credit: magnificent momma (Flickr)</figcaption></figure>
+<figure><img alt="" src="https://farm8.staticflickr.com/7167/6624632071_867f86ba11.jpg" width="500" height="333" /><figcaption>photo credit: magnificent momma (Flickr)</figcaption></figure>
 
 There was a clap of thunder, and a bright flash of light made them all close their eyes. When they opened them again, there it stood: a shiny new spiderweb machine, complete with windshield wipers and shiny chrome fenders.
 

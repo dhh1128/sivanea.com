@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/22/drifting-into-dusk
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/8331434375/sizes/l/"><img class="aligncenter" alt="" src="http://farm9.staticflickr.com/8078/8331434375_39a6124301_z.jpg" width="640" height="427" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/8331434375/sizes/l/"><img class="aligncenter" alt="" src="https://farm9.staticflickr.com/8078/8331434375_39a6124301_z.jpg" width="640" height="427" /></a>
 
  
 <p class="haiku">Under, lapis peace;

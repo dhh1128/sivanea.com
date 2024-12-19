@@ -20,7 +20,7 @@ comments:
       
       Hope this helps :)
 ---
-<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/"><img class="alignnone" alt="" src="http://farm9.staticflickr.com/8476/8352785780_8d68c713bb_z.jpg" width="640" height="400" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/"><img class="alignnone" alt="" src="https://farm9.staticflickr.com/8476/8352785780_8d68c713bb_z.jpg" width="640" height="400" /></a>
 <p class="haiku">clouded glory bursts
 on wave-washed rock, green, clean spire &mdash; 
 which the true lighthouse?</p>

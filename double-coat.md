@@ -6,7 +6,7 @@ redirect_from:
   - /2013/12/26/double-coat
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/5138275624/sizes/l/"><img class="alignnone" alt="" src="http://farm2.staticflickr.com/1056/5138275624_c428002c48_z.jpg" width="640" height="427" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/5138275624/sizes/l/"><img class="alignnone" alt="" src="https://farm2.staticflickr.com/1056/5138275624_c428002c48_z.jpg" width="640" height="427" /></a>
 <p class="haiku">topcoat, tawny bush,
 thins to gray grass gaps beneath &mdash; 
 meadow's vernal fur</p>

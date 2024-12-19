@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/21/leafy-boa
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/8331418793/sizes/l/"><img class="aligncenter" alt="" src="http://farm9.staticflickr.com/8491/8331418793_d00197cbfe_z.jpg" width="640" height="427" /></a>
+<a href="http://www.flickr.com/photos/daniel_hardman/8331418793/sizes/l/"><img class="aligncenter" alt="" src="https://farm9.staticflickr.com/8491/8331418793_d00197cbfe_z.jpg" width="640" height="427" /></a>
 <p class="haiku">nature's eveningwear:
 living feathers draped in style
 across bare shoulders</p>

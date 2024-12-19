@@ -10,7 +10,10 @@ Once upon a time there was a little girl named Joanna. She was six years old. Sh
 
 Joanna had a mom and dad and one sister and four brothers. She also had grandmas and grandpas and aunts and uncles and cousins, and she loved them all very much. She liked being part of her family. Her mom and dad said she was a good worker, because she was good at cleaning things and taking care of messes without being asked.
 
-[caption id="attachment_367" align="alignright" width="288"]<a href="http://www.flickr.com/photos/ahron/213130467/"><img class=" wp-image-367  " src="http://sivanea.com/wp-content/uploads/2013/03/screen-shot-2013-03-27-at-10-03-11-pm.png" alt="photo credit: Ahron de Leeuw (Flickr)" width="288" height="378" /></a> photo credit: Ahron de Leeuw (Flickr)[/caption]
+<figure>
+<img src="assets/joanna-mango.jpg" />
+<figcaption>Image credit: Midjourney</figcaption>
+</figure>
 
 One job that Joanna especially liked was to take care of her little brothers. Sometimes when they were hungry she would make them peanut butter sandwiches or give them a piece of apple, and when they were fussy and ready for bed, Joanna would sing them songs or tell them exciting stories.
 
@@ -78,4 +81,4 @@ Joanna looked at it for a long time.
 
 And that’s just what she did.
 
-<figure><img src="http://farm6.staticflickr.com/5254/5470546235_6bffb54cc9.jpg" alt="" width="500" height="378" /><figcaption>photo credit: Magic Weaver (Flickr)</figcaption></figure>
+<figure><img src="https://farm6.staticflickr.com/5254/5470546235_6bffb54cc9.jpg" alt="" width="500" height="378" /><figcaption>photo credit: Magic Weaver (Flickr)</figcaption></figure>
