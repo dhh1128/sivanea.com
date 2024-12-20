@@ -1,5 +1,2 @@
-remap = ['^(.*[^/.]{5})$ $1.md'] # add .html to urls that don't end in an extension
-require_https = false
-[replacement]
-pattern = "^(.*[^/.]{5})$"  # Matches links that don't have an extension
-target = "\\1.md"           # Appends `.md` to them
+remap = ['^(file:.*[^/.]{5})$ $1.md'] # add .html to urls that don't end in an extension
+require_https = true
