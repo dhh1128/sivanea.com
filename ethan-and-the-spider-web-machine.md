@@ -8,11 +8,11 @@ redirect_from:
 
 One day when Ethan came home from school, he was bored.
 
-“Try playing on the swings,” said Mom.
+"Try playing on the swings," said Mom.
 
-“Dance with me,” said his sister, Maia.
+"Dance with me," said his sister, Maia.
 
-“Trucks! Dey dwive fast!” said his brother, Caleb.
+"Trucks! Dey dwive fast!" said his brother, Caleb.
 
 Ethan played on the swings. He danced with Maia. He drove trucks.
 
@@ -23,11 +23,11 @@ Ethan played on the swings. He danced with Maia. He drove trucks.
 
 He was bored.
 
-“Help me bake cookies,” said Mom.
+"Help me bake cookies," said Mom.
 
-“Do gymnastics,” said his sister, Maia.
+"Do gymnastics," said his sister, Maia.
 
-“Doodle bug! It tickles!” said his brother, Caleb.
+"Doodle bug! It tickles!" said his brother, Caleb.
 
 Ethan ate lots of dough and chocolate chips. He did somersaults. He rolled doodle bugs.
 
@@ -71,29 +71,29 @@ Daniel brought an old fishing rod, some shoelaces, and a remote-control car. Meg
 
 Ethan and Maia and Meg and Daniel spread everything out in the driveway and looked at it. Caleb sat on the peanut butter jar and looked at his doodle bug.
 
-“What we need now,” said Ethan, “is a magic potion.”
+"What we need now," said Ethan, "is a magic potion."
 
-“A magic potion!” said Meg.
+"A magic potion!" said Meg.
 
-“A magic potion!” said Daniel.
+"A magic potion!" said Daniel.
 
-“A magic potion!” said Maia.
+"A magic potion!" said Maia.
 
-“A doodle bug!” said Caleb.
+"A doodle bug!" said Caleb.
 
 <figure><img src="assets/pillbug.jpg" /></figure>
 
 Ethan got an old bucket. It had lots of dirt and a couple dead ants, and even a dusty cobweb at the bottom, so that was a good start. He turned on the hose and added water. Daniel used Meg’s plastic spoon to scrape the last little bits of peanut butter into the bucket. Caleb added his banana peel.
 
-“Ala-kazaam!” said Ethan.
+"Ala-kazaam!" said Ethan.
 
-“Hocus pocus!” said Maia.
+"Hocus pocus!" said Maia.
 
-“Jeepers creepers!” said Daniel.
+"Jeepers creepers!" said Daniel.
 
-“Holy smokes!” said Meg.
+"Holy smokes!" said Meg.
 
-“Abwacadabwa!” said Caleb.
+"Abwacadabwa!" said Caleb.
 
 The bucket sputtered. Purple smoke curled out the top, made a slow circle in the air over their heads, turned green, and then vanished with a sparkle of firecracker sounds.
 
@@ -108,41 +108,41 @@ Pretty soon the other kids had joined in, and Meg was tossing bubblegum wrappers
 
 They chanted till they were hoarse. But the pile of junk did not turn into a spiderweb machine. And the magic potion was losing its fizz.
 
-“It’s not working,” said Ethan. “We’re missing the magic ingredient.”
+"It’s not working," said Ethan. "We’re missing the magic ingredient."
 
-“What’s that?” asked Maia.
+"What’s that?" asked Maia.
 
-“Frog legs!” said Daniel.
+"Frog legs!" said Daniel.
 
-“Ew, gross!” said Meg.
+"Ew, gross!" said Meg.
 
-“Spit!” said Caleb. And he harunged and gakoxed and p-tooied right on top of the whole heap.
+"Spit!" said Caleb. And he harunged and gakoxed and p-tooied right on top of the whole heap.
 
 <figure><img src="assets/caleb-after-spitting.jpg" /></figure>
 
 There was a clap of thunder, and a bright flash of light made them all close their eyes. When they opened them again, there it stood: a shiny new spiderweb machine, complete with windshield wipers and shiny chrome fenders.
 
-“Awesome!” said Ethan.
+"Awesome!" said Ethan.
 
-“Hooray!” said Maia.
+"Hooray!" said Maia.
 
-“Deadly!” said Daniel.
+"Deadly!" said Daniel.
 
-“Fungacoid!” said Meg.
+"Fungacoid!" said Meg.
 
-“All aboawd!” said Caleb.
+"All aboawd!" said Caleb.
 
 They drove around the neighborhood, spewing cobwebs all over the trees and Meg’s dog and the mail man and generally having a glorious time until Mom called Ethan in for supper.
 
-“Aw, Mom. Do we have to?” said Ethan.
+"Aw, Mom. Do we have to?" said Ethan.
 
-“What are we having?” asked Maia. “Can we have dessert first?”
+"What are we having?" asked Maia. "Can we have dessert first?"
 
-“Spaghetti,” said Mom.
+"Spaghetti," said Mom.
 
-“You mean spidew web suwprise!” said Caleb. “Wight, Mom?”
+"You mean spidew web suwprise!" said Caleb. "Wight, Mom?"
 
-“Wight!” she said. “But no doodle bugs on top.”
+"Wight!" she said. "But no doodle bugs on top."
 
 <figure>
 <img src="assets/spaghetti.jpg" />

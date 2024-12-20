@@ -7,16 +7,16 @@ Sometimes you read a line and it sticks, maybe because it's insightful or funny 
 
 <hr>
 
-“Maybe we can’t do anything fancy with a lip, or an eye, or an ear &mdash; but fat old hearts make great eaters of food, singers of songs, and kissers of cheeks. And we’re good with little ones.”
+"Maybe we can’t do anything fancy with a lip, or an eye, or an ear &mdash; but fat old hearts make great eaters of food, singers of songs, and kissers of cheeks. And we’re good with little ones."
  &mdash; Paka
 
-“Even when a kind act doesn’t accomplish its preferred purpose, it kindles more light in the universe. It is never wasted.”
+"Even when a kind act doesn’t accomplish its preferred purpose, it kindles more light in the universe. It is never wasted."
  &mdash; Shivi
 
 "Our men will bleed and die because of this convenient little fiction he’s spinning. Their families will suffer. War is starvation and pestilence and rape and murder, and that’s what Rovin is signing us up for."
  &mdash; Toril
 
-“The union of body and spirit is the deepest privacy, at the core of a self. Forcibly taking another living being’s body is an awful crime.”
+"The union of body and spirit is the deepest privacy, at the core of a self. Forcibly taking another living being’s body is an awful crime."
  &mdash; Oji
 
 "Search your heart. You’re naming all the time &mdash; even in the way you answer me. Just now, you reached into possibility and summoned forth a word, and filled it with blameless ignorance. You named your action ‘mistake’. Do you like the way that name shapes your soul?"
@@ -27,7 +27,7 @@ Sometimes you read a line and it sticks, maybe because it's insightful or funny 
 "There is a difference between food and kindness."
  &mdash; the old raja (Lin and Viro's father)
 
-“Loaves become bread by baking.”
+"Loaves become bread by baking."
 
 "I was thinking that with a brim like that, my wife can get away with all the steamy winking she wants, and nobody but me the wiser."
  &mdash; Paka
