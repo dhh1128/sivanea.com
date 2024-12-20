@@ -14,7 +14,7 @@ matches = {}
 def check_match(images, match, fname):
     global matches
     url = match.group(1)
-    valid = (url.startswith('assets/') or url.startswith('https://')) and (url.endswith('.jpeg') or url.endswith('.jpg') or url.endswith('.png'))
+    valid = ('assets/' in url or url.startswith('https://')) and (url.endswith('.jpeg') or url.endswith('.jpg') or url.endswith('.png'))
     if valid:
         if not url.startswith('https://'):
             fragment = url[url.rfind('/') + 1:]
@@ -26,15 +26,17 @@ def check_match(images, match, fname):
         print(f"Invalid image URL {url} in {fname}")
 
 
-for file in os.listdir("."):
-    if file.endswith(".md") and file != 'README.md':
-        with open(file, 'r') as f:
-            content = f.read()
-        #print(f"Checking {file}")
-        for match in md_imgurl_pat.finditer(content):
-            check_match(images, match, file)
-        for match in html_imgurl_pat.finditer(content):
-            check_match(images, match, file)
+for root, dirs, files in os.walk("."):
+    for file in files:
+        if file.endswith(".md") and file != 'README.md':
+            fpath = os.path.join(root, file)
+            with open(fpath, 'r') as f:
+                content = f.read()
+            #print(f"Checking {file}")
+            for match in md_imgurl_pat.finditer(content):
+                check_match(images, match, file)
+            for match in html_imgurl_pat.finditer(content):
+                check_match(images, match, file)
 
 valid_count = len([x for x in images if x in matches])
 print(f"{valid_count} images referenced validly.")

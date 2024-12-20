@@ -9,6 +9,6 @@ If you've ever wondered how artists and authors collaborate on cover art, you mi
 
 Over 150 cover designs were submitted. <a href="https://www.surveymonkey.com/r/cordimancy-cover" target="_blank">Here</a> is the survey that I used to pick among the six finalists. (If you take the survey, you can see all the designs in detail.)
 
-<img src="assets/screen-shot-2015-11-24-at-12-03-06-am.png?w=640" />
+<img src="../assets/cordimancy-covers.png" />
 
 You can download <a href="free-wallpaper">free poster/wallpaper versions</a> of the first and second place designs.

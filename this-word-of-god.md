@@ -4,7 +4,7 @@ date: 2016-12-16
 ---
 
 <figure>
-<img src="assets/nativity.jpeg"/>
+<img src="assets/nativity.jpg"/>
 <figcaption>Image credit: <a target="_blank" href="https://www.churchofjesuschrist.org/media/image/nativity-scene-mary-joseph-baby-jesus-35a6461?lang=eng">churchofjesuschrist.org</a></figcaption>
 </figure>
 
