@@ -6,12 +6,16 @@ redirect_from:
   - /2013/01/03/moon-in-masts-at-dusk
 ---
 
-<a href="http://www.flickr.com/photos/daniel_hardman/8331434557/sizes/l/"><img alt="" src="https://farm9.staticflickr.com/8359/8331434557_2b48a3d4cf_z.jpg" width="640" height="427" /></a>
+<figure>
+<img src="assets/moon-in-masts.jpg" />
+<figcaption>Photographer: me</figcaption>
+</figure>
+
 <p class="haiku">human lines cut blue
 framing waiting old man moon
 who'll smile from the dark</p>
 
-<hr />
+<hr>
 
 Taken at Sausalito Marina, December 2012. The sun was down; dusk was fading.
 

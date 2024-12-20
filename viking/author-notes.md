@@ -17,7 +17,7 @@ slug: author-notes
 
 <span style="text-decoration:underline;">Evil hints</span>: Geire repeatedly lubricates his hands while lying to Julie. Julie is supposed to accept an apple from the hit man who's trying to kill her.
 
-<hr />
+<hr>
 
 ## Themes
 
@@ -33,7 +33,7 @@ slug: author-notes
 
 <span style="text-decoration:underline;">Addiction</span>: Many of the vikings are addicted to drugs or have life stories where drugs figure prominently. Chen and Abbott &mdash; Rafa's only "friends" on the crew &mdash; have both had their self-respect and relationships destroyed by drugs. Chen is dying because of side effects. The company that hires the vikings mentions that "neural stimulation" can be used as a reward, but that they are legally limited in its use due to its addictive potential. Mild drugs called "tanners" are mentioned multiple times; they artificially change the color of a person's skin and are considered mostly harmless, though there is some social stigma to using them. An off-hand comment is made about hiring someone to take drugs and record their physiological reactions, then playing them back through vicarious reality "vids" so someone can experience a high without any side effects. Whemper appears to be addicted to pornography. Heward and Compton both show evidence of being addicted to posturing and dysfunctional relationships.
 
-<hr />
+<hr>
 
 ## Allusions
 

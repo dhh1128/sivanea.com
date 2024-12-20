@@ -12,7 +12,7 @@ scooters beep and taxis dash:
 night kaleidoscope</p>
 
 
-<hr />
+<hr>
 
 Taken in Taipei, Taiwan, May 2005. Taipei is a busy city, with crowds rushing to and fro. Scooters are everywhere.
 

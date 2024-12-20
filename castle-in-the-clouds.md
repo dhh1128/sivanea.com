@@ -37,7 +37,7 @@ comments:
 castle juts, fades in and out &mdash; 
 trees, solid, green beneath</p>
 
-<hr />
+<hr>
 
 I took this from the side of a highway in southern Germany, near the Austria border.
 

@@ -9,7 +9,7 @@ redirect_from:
 <p style="text-align:right;"><em>a bedtime story for Caleb...</em></p>
 Once upon a time there was a little boy named Avery. Avery had brown eyes and white teeth. He liked to swim and dig in the sandbox and play with cars and eat popsicles. He was almost five.
 
-<figure><img alt="boy in sandbox" src="assets/boy-in-sandbox.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img alt="boy in sandbox" src="assets/boy-in-sandbox.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 Avery’s dad liked to call him “Very”. Avery thought that was a funny nickname. “Dad,” he said every day, “Why do you call me ‘Very?’”
 
@@ -31,7 +31,7 @@ Avery laughed and laughed. He liked to play with his dad because he knew his dad
 
 When that was done Avery went outside to dig in the sandbox. He took a big bucket. Tex was already there.
 
-<figure><img src="assets/2-boys-digging.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/2-boys-digging.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 Tex and Avery were best friends. Tex was almost five, just like Avery. He liked everything that Avery liked, except root beer.
 
@@ -53,7 +53,7 @@ They had been digging for a few minutes, and the hole was getting very deep, whe
 
 Avery liked dinosaurs. He climbed in the hole and bounced up and down on the stuff. Suddenly he felt the sand start to shake. His hole wiggled and shivered, and a giant frog climbed out.
 
-<figure><img src="assets/frog-in-sand.jpg"/><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/frog-in-sand.jpg"/><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 The frog was taller than Avery. It looked at him with its big eyes.
 
@@ -71,7 +71,7 @@ The frog was taller than Avery. It looked at him with its big eyes.
 
 “Or we could find some bugs for you to eat,” added Tex.
 
-<figure><img src="assets/bugs.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/bugs.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 “Yuck! Who wants to eat bugs? They taste terrible.” said the frog.
 
@@ -89,7 +89,7 @@ Avery laughed. “C’mon, Mom. I said he could have one.”
 
 “All right,” said Avery’s mom. “Make sure you put the wrapper in the garbage instead of leaving it on the grass.”
 
-<figure><img src="assets/popsicle.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/popsicle.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 Avery said thank you (he was a very polite little boy), got a popsicle, threw the wrapper in the garbage (he was also very obedient), and took the popsicle out to the frog. The frog slurped it up with one giant lick of his sticky tongue, then smacked his lips and burped.
 
@@ -103,7 +103,7 @@ Avery said thank you (he was a very polite little boy), got a popsicle, threw th
 
 Avery helped lift Tex onto the frog’s back. He knew that Tex would feel sad if he didn’t get a ride. Then Avery climbed up behind him, and the frog made a jump right over the top of Avery’s house. They flew through the air again and again, sometimes passing over trees, bikes, and cars. They even jumped over Avery’s sisters who were playing in the sprinkler in the front yard.
 
-<figure><img src="assets/girls-in-sprinkler.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/girls-in-sprinkler.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 When they were done, Avery and Tex dropped in a heap into the sand. They were laughing.
 

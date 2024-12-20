@@ -6,7 +6,7 @@ redirect_from:
   - /2013/02/04/i-promise-not-to-teach-or-train
 ---
 
-<figure><img alt="a couple hugging" src="assets/couple-hugging.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img alt="a couple hugging" src="assets/couple-hugging.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 <p class="poetry">I promise not to teach or train,
 or probe or lecture or advise,

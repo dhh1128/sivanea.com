@@ -8,7 +8,7 @@ Naive newlyweds set out to rescue orphans from the world's greatest sorcerer. Do
 
 Cordimancy is available on the [Kindle](http://j.mp/1Mfr42y) and in print via [Amazon](http://j.mp/1O3oJJl) or any bricks-and-mortar bookstore that carries or can order ISBN 1519219911.
 
-<hr />
+<hr>
 
 <img src="assets/cordimancy-front-cover.jpg" />
 

@@ -12,7 +12,7 @@ greens irrepressible spring &mdash;
 for joy, sun bursts, brash</p>
 
 
-<hr />
+<hr>
 
 I found this out walking in the woods, at the very beginning of spring. Kinda changed my opinion on dandelions. :-)
 

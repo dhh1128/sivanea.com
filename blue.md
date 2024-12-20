@@ -4,7 +4,10 @@ date: 2019-03-10
 slug: blue
 ---
 
+<figure>
 <img src="assets/blue.jpg" />
+<figcaption>Photographer: me</figcaption>
+</figure>
 
 *for Linda*
 

@@ -16,7 +16,7 @@ When I was young, I thought lying was an act like denying a theft from the cooki
 
 <figure>
 <img src="assets/lying-and-truthtelling.jpg" />
-<figcaption>image credit: Midjourney</figcaption>
+<figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption>
 </figure>
 
 As I explore this topic, I hope you don’t feel harshness or condemnation. My intent is not to point fingers in a self-righteous way, but rather to meditate on things I’ve seen in my own heart, places I’ve needed correction, or painful lessons learned &mdash; in the hopes that it will take the teeth out of some behavior patterns that hurt all of us.

@@ -3,7 +3,10 @@ title: This Word of God
 date: 2016-12-16
 ---
 
+<figure>
 <img src="assets/nativity.jpeg"/>
+<figcaption>Image credit: <a target="_blank" href="https://www.churchofjesuschrist.org/media/image/nativity-scene-mary-joseph-baby-jesus-35a6461?lang=eng">churchofjesuschrist.org</a></figcaption>
+</figure>
 
 *And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.<br>
 &mdash; John 1:14*

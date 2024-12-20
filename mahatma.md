@@ -8,7 +8,7 @@ redirect_from:
 
 His name was Matt, but everyone called him Mahatma. Probably it was the sandals that did it. Or maybe the haircut.
 
-<figure><img src="assets/sandals.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/sandals.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
 
 On his twenty-first birthday, Matt forever renounced his omnivorous prejudices. No more would he be party to the needless suffering and slaughter of animals. Matt found much peace of mind after that, until the day he realized The Great Truth: so long as he allowed others to eat as they chose, he consented to their barbarism.
 

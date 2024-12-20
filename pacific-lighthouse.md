@@ -20,13 +20,16 @@ comments:
       
       Hope this helps :)
 ---
-<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/"><img class="alignnone" alt="" src="https://farm9.staticflickr.com/8476/8352785780_8d68c713bb_z.jpg" width="640" height="400" /></a>
+<figure>
+<img src="https://farm9.staticflickr.com/8476/8352785780_8d68c713bb_z.jpg" />
+<figcaption>Photographer: me</figcaption>
+</figure>
+
 <p class="haiku">clouded glory bursts
 on wave-washed rock, green, clean spire &mdash; 
 which the true lighthouse?</p>
 
-<hr />
+<hr>
+Took this on a recent vacation. Pigeon Point, about 30 miles south of San Francisco on Highway 1, Dec 2012. My son Ethan helped me use Photoshop to make detail on the rock a bit more visible, and to make the colors pop, but this is not far from *au natural*. Amazing...
 
-Took this on a recent vacation. Pigeon Point, about 30 miles south of San Francisco on Highway 1, Dec 2012. My son Ethan helped me use Photoshop to make detail on the rock a bit more visible, and to make the colors pop, but this is not far from <em>au natural</em>. Amazing...
-
-[<a href="http://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/" target="_blank">other photo sizes</a>]
+[[other photo sizes](https://www.flickr.com/photos/daniel_hardman/8352785780/sizes/l/)]

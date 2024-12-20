@@ -10,7 +10,7 @@ Once upon a time there were three little pigs. They each built a house. One buil
 
 After all the houses were built, they decided to have a housewarming party, so they invited all their friends, and they hired a special jazz band named “Big Bad Wolf” to come play in the yard.
 
-<figure><img class="  " alt="" src="https://farm4.staticflickr.com/3174/3051705352_f8d070ab9d_z.jpg?zz=1" width="512" height="309" /><figcaption>Image credit: mtsofan (Flickr)</figcaption></figure>
+<figure><img src="https://farm4.staticflickr.com/3174/3051705352_f8d070ab9d_z.jpg?zz=1" width="512" height="309" /><figcaption>Image credit: mtsofan (Flickr)</figcaption></figure>
 
 One of the guests at the party was a little girl with a red riding hood on her head. Her name was Isabel. Isabel hated music, and she loved to make fun of jazz bands especially. So as soon as Big Bad Wolf started to play, she began shouting insults at them.
 
@@ -55,7 +55,7 @@ Unfortunately, just as Dopey got to the top of the hill above their cottage, he 
 
 As they lay there, feeling bruised and dazed, Isabel rode up on her classic Harley Davidson motorcycle. She was wearing chaps and a black leather jacket, and she looked mean enough to skin a tomato.
 
-<figure><img alt="" src="https://farm6.staticflickr.com/5264/5622397571_2d0756074a.jpg" width="500" height="333" /><figcaption>Photo credit: jwinfred (Flickr)</figcaption></figure>
+<figure><img src="https://farm6.staticflickr.com/5264/5622397571_2d0756074a.jpg" width="500" height="333" /><figcaption>Photo credit: jwinfred (Flickr)</figcaption></figure>
 
 “Glurp,” said Jack, who was too dizzy to talk right. “Uh, I mean, where are you headed?”
 
@@ -73,7 +73,7 @@ Now it turns out that Isabel’s grandmother was none other than the old troll t
 
 The grandmother cackled in her old, troll-like voice and invited them into the back yard to see her beanstalks.
 
-<figure><img alt="" src="https://farm5.staticflickr.com/4142/5220792492_1b7b10f969_z.jpg" width="514" height="640" /><figcaption>Photo credit: chiaralily (Flickr)</figcaption></figure>
+<figure><img src="https://farm5.staticflickr.com/4142/5220792492_1b7b10f969_z.jpg" width="514" height="640" /><figcaption>Photo credit: chiaralily (Flickr)</figcaption></figure>
 
 Jack and Isabel made polite conversation as they walked, but they kept looking back over their shoulders at the refrigerator. They needed a plan.
 
@@ -95,7 +95,7 @@ Grandma looked stricken. “You mean…”
 
 “Oh my stars,” said Grandma. And she hurried over to the porch and threw open the door of the refrigerator.
 
-<figure><img alt="" src="https://farm9.staticflickr.com/8504/8406437913_c0cc286f99.jpg" width="500" height="384" /><figcaption>Photo credit: danbruell (Flickr)</figcaption></figure>
+<figure><img src="https://farm9.staticflickr.com/8504/8406437913_c0cc286f99.jpg" width="500" height="384" /><figcaption>Photo credit: danbruell (Flickr)</figcaption></figure>
 
 “Can you ever forgive me, you marvelous musicians?” she said in a panic.
 
@@ -103,4 +103,4 @@ The dwarves had heard the whole conversation and wasted no time. They scattered 
 
 Grandma was furious when she realized that the little men had run away and none of them were members of her favorite band. She threatened to spank Isabel, but Isabel and Jack just jumped on the motorcycle and headed to McDonalds. If they couldn’t have Snap, Crackle, and Pop, at least they could have some pancakes.
 
-<figure><img alt="" src="https://farm8.staticflickr.com/7249/7053104225_c80af1ee55.jpg" width="500" height="375" /><figcaption>Photo credit: @NickyColman (Flickr)</figcaption></figure>
+<figure><img src="https://farm8.staticflickr.com/7249/7053104225_c80af1ee55.jpg" width="500" height="375" /><figcaption>Photo credit: @NickyColman (Flickr)</figcaption></figure>

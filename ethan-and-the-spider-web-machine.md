@@ -18,7 +18,7 @@ Ethan played on the swings. He danced with Maia. He drove trucks.
 
 <figure>
 <img src="assets/ethan-on-swing.jpg" />
-<figcaption>Image credit: Midjourney</figcaption>
+
 </figure>
 
 He was bored.
@@ -32,7 +32,7 @@ He was bored.
 Ethan ate lots of dough and chocolate chips. He did somersaults. He rolled doodle bugs.
 
 <figure><img src="assets/hands-with-cookies.jpg"/>
-<figcaption>Image credit: Midjourney</figcaption></figure>
+</figure>
 
 He was bored.
 
@@ -40,22 +40,22 @@ Then he got an idea.
 
 He would make a spider web machine.
 
-He got some hangars out of the closet in his bedroom. Maia got cotton balls from the bathroom. Caleb got an old banana peel out of the garbage in the kitchen.
+He got some hangers out of the closet in his bedroom. Maia got cotton balls from the bathroom. Caleb got an old banana peel out of the garbage in the kitchen.
 
 <figure><img src="assets/peel-and-hangers.jpg"/>
-<figcaption>Image credit: Midjourney</figcaption></figure>
+</figure>
 
 Ethan scratched his head. It was not enough stuff.
 
 He got the tricycle in the garage. Maia got a roll of red yarn from the basket by Mom’s bed. Caleb got a band-aid off his knee.
 
-<figure><img src="assets/trike.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/trike.jpg" /></figure>
 
 Ethan scratched his head. It was not enough stuff.
 
 He got a roll of tape from the cupboard by the fridge. Maia got batteries out of her flashlight. Caleb got a can of fish flakes.
 
-<figure><img src="assets/tape-batteries-flakes.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/tape-batteries-flakes.jpg" /></figure>
 
 No, it was still not enough. Ethan needed help.
 
@@ -81,7 +81,7 @@ Ethan and Maia and Meg and Daniel spread everything out in the driveway and look
 
 “A doodle bug!” said Caleb.
 
-<figure><img src="assets/pillbug.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/pillbug.jpg" /></figure>
 
 Ethan got an old bucket. It had lots of dirt and a couple dead ants, and even a dusty cobweb at the bottom, so that was a good start. He turned on the hose and added water. Daniel used Meg’s plastic spoon to scrape the last little bits of peanut butter into the bucket. Caleb added his banana peel.
 
@@ -97,7 +97,7 @@ Ethan got an old bucket. It had lots of dirt and a couple dead ants, and even a 
 
 The bucket sputtered. Purple smoke curled out the top, made a slow circle in the air over their heads, turned green, and then vanished with a sparkle of firecracker sounds.
 
-<figure><img src="assets/purple-smoke.jpg" /><figcaption>Image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/purple-smoke.jpg" /></figure>
 
 Ethan grabbed the potion bucket and began to dance around, sprinkling droplets of foaming pink stuff all over the fishing rod, the tricycle, the yarn, the band aid, and the plastic spoon. And as he danced, he chanted:
 
@@ -118,7 +118,7 @@ They chanted till they were hoarse. But the pile of junk did not turn into a spi
 
 “Spit!” said Caleb. And he harunged and gakoxed and p-tooied right on top of the whole heap.
 
-<figure><img src="assets/caleb-after-spitting.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img src="assets/caleb-after-spitting.jpg" /></figure>
 
 There was a clap of thunder, and a bright flash of light made them all close their eyes. When they opened them again, there it stood: a shiny new spiderweb machine, complete with windshield wipers and shiny chrome fenders.
 
@@ -145,5 +145,8 @@ They drove around the neighborhood, spewing cobwebs all over the trees and Meg�
 “Wight!” she said. “But no doodle bugs on top.”
 
 <figure>
-<img src="assets/spaghetti.jpg" /><figcaption>Image credit: Copilot</figcaption>
+<img src="assets/spaghetti.jpg" />
 </figure>
+
+<hr>
+Images credit: [AI+](ai-art.md)

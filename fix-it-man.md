@@ -4,7 +4,10 @@ date: 2018-12-31
 slug: fix-it-man
 ---
 
+<figure>
 <img src="assets/sf-puzzle.jpg" />
+<figcaption>The actual puzzle that inspired this poem, pieced together by Steve Felt. Notice a handful of cases where almost-fitting pieces have been repurposed to plug gaps. Photographer: me</figcaption>
+</figure>
 
 *for Steve*
 

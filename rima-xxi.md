@@ -17,4 +17,4 @@ my eye holding in your eye of blue.
 What is poetry? And you ask it of me?
 Poetry &mdash; is you.</p>
 
-<figure><img class=" wp-image-144 " alt="blue eyes" src="assets/blue-eyes.jpg" /><figcaption>image credit: Midjourney</figcaption></figure>
+<figure><img class=" wp-image-144 " alt="blue eyes" src="assets/blue-eyes.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
