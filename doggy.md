@@ -57,4 +57,4 @@ He thought that he didn't like to be lonely &mdash; he had never liked to be lon
 The little doggy seemed to understand anyway, and it came slowly forward. Rafa thought that it was a very nice little doggy. Yes, it was a very nice little doggy.
 
 <hr>
-Images credit: [AI+](ai-art.md)
+Images credit: [AI+](ai-art)

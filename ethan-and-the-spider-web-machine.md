@@ -149,4 +149,4 @@ They drove around the neighborhood, spewing cobwebs all over the trees and Megâ€
 </figure>
 
 <hr>
-Images credit: [AI+](ai-art.md)
+Images credit: [AI+](ai-art)

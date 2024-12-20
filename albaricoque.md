@@ -8,7 +8,7 @@ redirect_from:
 
 <figure>
 <img src="assets/apricot.jpg" />
-<figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption>
+<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption>
 </figure>
 
 <p class="poetry">No, artistas de Babilonia,

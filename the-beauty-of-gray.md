@@ -6,7 +6,7 @@ redirect_from:
   - /2012/12/19/the-beauty-of-gray
 ---
 
-<figure><img class=" " src="assets/gray-lightning.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figure><img class=" " src="assets/gray-lightning.jpg" /><figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <p class="poetry">
 <strong>I.</strong>

@@ -28,4 +28,4 @@ deep and tender,
 hand in hand,
 together.</p>
 
-<figure><img alt="rose hips" src="assets/rose-hips.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figure><img alt="rose hips" src="assets/rose-hips.jpg" /><figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>

@@ -10,7 +10,7 @@ comments:
     comment: |
       I submitted this poem to the <a href="http://www.lds.org/ensign" target="_blank" rel="nofollow">Ensign</a> magazine in late summer 2012. No response.
 ---
-<figure><img alt="colorful children's drawings in crayon, covering a fridge" src="assets/drawings-on-fridge.jpg" /><figcaption>Love the drawings on the fridge! Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figure><img alt="colorful children's drawings in crayon, covering a fridge" src="assets/drawings-on-fridge.jpg" /><figcaption>Love the drawings on the fridge! Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <p class="poetry">Crayoned sheaves adorn the fridge
 in magnet-clipped bouquets&mdash;
@@ -26,7 +26,7 @@ her curtains or her tablecloth&mdash;
 but doesn’t. It’s heart, not art
 that yields construction paper glory.</p>
 
-<figure><img src="assets/temple.jpg" /><figcaption>A much fancier house sits just down the road from mine. It looks a bit like this... Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figure><img src="assets/temple.jpg" /><figcaption>A much fancier house sits just down the road from mine. It looks a bit like this... Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <p class="poetry">A suitcased pilgrimmage away
 another house of glory stands.

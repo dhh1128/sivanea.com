@@ -17,4 +17,4 @@ terra cotta, rust</p>
 
 <hr>
 
-The photo that inspired this haiku was taken on the side of I-15, south of Nephi, Utah, in March 2013. Unfortunately, I have since lost it. The image above is a rough recreation by [AI+](ai-art.md).
+The photo that inspired this haiku was taken on the side of I-15, south of Nephi, Utah, in March 2013. Unfortunately, I have since lost it. The image above is a rough recreation by [AI+](ai-art).

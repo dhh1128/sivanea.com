@@ -6,7 +6,7 @@ redirect_from:
   - /2012/12/20/puddles
 ---
 <figure><img src="assets/boys-in-puddles.jpg" />
-<figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <p class="poetry">My friend, does rain still set you thinking
 About our day of perfect puddle splendor?

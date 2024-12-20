@@ -168,4 +168,4 @@ Dad groaned. "How about we say that you all won?"
 "Okay," said Moses. And then he and his friends went inside to figure out what they could do for fun. Summer was just too boring.
 
 <hr>
-Images credit: [AI+](ai-art.md)
+Images credit: [AI+](ai-art)

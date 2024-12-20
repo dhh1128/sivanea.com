@@ -12,7 +12,7 @@ Joanna had a mom and dad and one sister and four brothers. She also had grandmas
 
 <figure>
 <img src="assets/joanna-mango.jpg" />
-<figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption>
+<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption>
 </figure>
 
 One job that Joanna especially liked was to take care of her little brothers. Sometimes when they were hungry she would make them peanut butter sandwiches or give them a piece of apple, and when they were fussy and ready for bed, Joanna would sing them songs or tell them exciting stories.

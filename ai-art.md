@@ -1,5 +1,4 @@
-# AI art
-A lot of the artwork here was created with AI &mdash; typically [Midjourney](https://www.midjourney.com/), sometimes [Copilot](https://copilot.microsoft.com/images/create) or [DALL-E](https://openai.com/index/dall-e-3/) or [openart](https://openart.ai/) or something else. If you see art or photography that is not otherwise credited, this is its source. I stopped noting AI as a source next to every individual instance of such art, because it's so common.
+A lot of the artwork here was created with AI &mdash; typically [Midjourney](https://www.midjourney.com/), sometimes [Copilot](https://copilot.microsoft.com/images/create) or [DALL-E](https://openai.com/index/dall-e-3/) or something else. If you see art or photography that is not otherwise credited, this is its source. I stopped noting AI as a source next to every individual instance of such art, because it's so common.
 
 I don't necessarily identify the specific AI that I use, because sometimes it's more than one, or sometimes I've forgotten. For me, the attribution principle that matters is to not claim for myself artistry that originated elsewhere. See my [AI User Code of Conduct](https://dhh1128.github.io/papers/ai-coca). 
 

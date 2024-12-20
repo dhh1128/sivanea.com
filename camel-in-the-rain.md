@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/23/camel-in-the-rain
 ---
 
-<figure><img alt="camel in rain" src="assets/camel-in-rain.jpg" /><figcaption>Image credit: <a href="ai-art.md">AI+</a></figcaption></figure>
+<figure><img alt="camel in rain" src="assets/camel-in-rain.jpg" /><figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <p class="poetry">Be patient with my artless stroke,
 and gentle with my timid heart,
