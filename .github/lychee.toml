@@ -1,4 +1,4 @@
 # .github/lychee.yml
 [replacement]
 pattern = "^(.*[^/.]{5})$"  # Matches links that don't have an extension
-target = "\\1.html"         # Appends `.html` to them
+target = "\\1.md"           # Appends `.md` to them
