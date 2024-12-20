@@ -17,7 +17,7 @@ I'd love to see what your imagination does with the milieu of the book. If it's 
 
 <strong>3. Review the <a href="http://sivanea.com/viking/discussion-questions" target="_blank">suggested discussion questions</a>.</strong>
 
-<strong>4. Submit your own favorite quote on the <a href="http://sivanea.com/viking/discussion-questions" target="_blank">quotes page</a>.</strong>
+<strong>4. See if your favorite quote is on the <a href="http://sivanea.com/viking/discussion-questions" target="_blank">quotes page</a>.</strong>
 
 <strong>5. <a href="http://sivanea.com/viking/cover-design">View the finalists in the cover design contest</a> from which the cover was selected.</strong>
 

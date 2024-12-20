@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <figure>
-<img src="https://farm9.staticflickr.com/8078/8331434375_39a6124301_z.jpg" />
+<img src="assets/drifting-into-dusk.jpg" />
 <figcaption>Photographer: me</figcaption>
 </figure>
  
