@@ -13,5 +13,5 @@ jobs:
       - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: --config .github/lychee.yml --verbose './**/*.md'
+          args: --config .github/lychee.toml --verbose './**/*.md'
           fail: true
