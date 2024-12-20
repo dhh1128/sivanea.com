@@ -1,0 +1,4 @@
+# .github/lychee.yml
+replacement:
+  - pattern: '(^[^:]+)$'  # Matches links without a scheme (like "pagename")
+    target: '\1.html'     # Appends `.html` to them
