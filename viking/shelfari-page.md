@@ -6,7 +6,7 @@ redirect_from:
   - /2012/12/18/built-a-shelfari-page
 ---
 
-<a href="http://www.amazon.com/Viking-Daniel-Hardman/dp/1481160370/ref=la_B00AOOGF9M_1_2?ie=UTF8&qid=1355847317&sr=1-2"><img class="alignright" src="http://ecx.images-amazon.com/images/I/41cXwMpiOvL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="300" height="300" /></a>
+<a href="http://www.amazon.com/Viking-Daniel-Hardman/dp/1481160370/ref=la_B00AOOGF9M_1_2?ie=UTF8&qid=1355847317&sr=1-2"><img src="../assets/viking-ebook-cover.jpg" /></a>
 
 It's been a fun learning experience to publish a <a href="https://www.createspace.com/4099420" target="_blank">book with CreateSpace</a> and <a href="http://j.mp/RBWbQN" target="_blank">Amazon</a>. The CreateSpace process is a bit more demanding, because they print physical books; there are more sales channels and pricing decisions to make, more proofing steps to complete, and so forth. Amazon picks up CreateSpace books automatically, although there's a 5-7 day lag. You can choose to convert your print version to Kindle format on CreateSpace, but I didn't like the html that got generated from the .docx file I was using for my interior on CreateSpace, so I worked with raw html and kdp.amazon.com directly.
 
