@@ -4,11 +4,6 @@ date: 2017-10-22
 slug: on-lying-and-truth-telling
 redirect_from:
   - /2017/10/22/on-lying-and-truth-telling
-comments:
-  - author: Lina
-    date: 2017-10-25 12:10:48
-    comment: |
-      thanks
 ---
 Our world is full of strident voices calling "Lo here!" and "Lo there!" &mdash; and sometimes these voices overwhelm quiet truth. We are constantly being lied to, and lies that we believe have damaging consequences.
 
@@ -109,7 +104,9 @@ Imagine a mother, terrified and furious, who rushes to the hospital to find her 
 I think it’s appropriate for us to speak Truth to one another sometimes, as long as we do it in love. In fact, if we want to avoid lying, sometimes this form of truth-telling is required. <a href="http://j.mp/danielsfaith" target="_blank" rel="noopener">I believe</a> God tells Truth this way, and that many of our beefs with Him stem from misunderstandings of the magnitude of the Truth relative to dissonant details.
 
 I hope we are good enough at hearing and speaking truth ourselves to understand when others speak to us this way. If we respond with "yes, but", I hope it’s not to quibble.
-<h2><b>A Reason to Hope</b></h2>
+
+## A reason to hope
+
 Lying is a downer of a topic. It can be discouraging to focus on all the ways truth is challenged in our lives. The more I diagnose my own tendencies to distort the truth, the more I see the problem everywhere.
 
 But if I am fair in my treatment, it must be also be said that I am the beneficiary of wonderful truth-telling by the brave and kind. I’ve seen people swallow hard and confess something excruciating that enabled healing. I’ve received painful feedback at work that forced me to make a course correction. I’ve seen brilliant people lose an argument, not because they couldn’t imagine any verbal judo to get the upper hand, but because the truth in someone else’s viewpoint felt compelling enough to abandon their own. I’ve seen kids return an orphan dollar that they found lying on the ground. I’ve heard challenges to my own complacent thinking that were backed by solid fact, not just ego or convenience. And I’ve been graciously listened to and forgiven, over and over again, that I might be free to learn how to tell the truth myself.
