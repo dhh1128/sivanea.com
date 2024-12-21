@@ -15,7 +15,6 @@ slug: novels
 * [Viking](viking)
     * [Author Notes](viking/author-notes)
     * [Photo Gallery](cordimancy/photo-gallery)
-    * [Shelfari Page](viking/shelfari-page)
     * [Quotes](cordimancy/quotes)
     * [Discussion Questions](viking/discussion-questions)
     * [Enrichment Ideas](viking/enrichment-ideas)

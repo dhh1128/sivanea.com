@@ -8,7 +8,7 @@ comments:
   - author: https://wishstory.wordpress.com
     date: 2013-02-04 09:04:55
     comment: |
-      Reblogged this on <a href="505" rel="nofollow">wishstory</a>.
+      Reblogged this.
   - author: Charron's Chatter
     date: 2013-02-04 20:41:40
     comment: |
