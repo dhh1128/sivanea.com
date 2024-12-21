@@ -101,7 +101,7 @@ But I do not believe everything is relative, or that caveats and attenuations al
 
 Imagine a mother, terrified and furious, who rushes to the hospital to find her son who wrecked the car in a drunk driving accident. When he looks up from a neck brace, teary-eyed, and manages to croak out, "You must be so mad at me!" and she shakes her head and gathers him into her arms and sobs, "I love you!" &mdash; she is not lying. She is telling The Truth beside which all other truths pale. To say anything else would be a distortion.
 
-I think it’s appropriate for us to speak Truth to one another sometimes, as long as we do it in love. In fact, if we want to avoid lying, sometimes this form of truth-telling is required. <a href="http://j.mp/danielsfaith" target="_blank" rel="noopener">I believe</a> God tells Truth this way, and that many of our beefs with Him stem from misunderstandings of the magnitude of the Truth relative to dissonant details.
+I think it’s appropriate for us to speak Truth to one another sometimes, as long as we do it in love. In fact, if we want to avoid lying, sometimes this form of truth-telling is required. <a href="https://j.mp/danielsfaith" target="_blank" rel="noopener">I believe</a> God tells Truth this way, and that many of our beefs with Him stem from misunderstandings of the magnitude of the Truth relative to dissonant details.
 
 I hope we are good enough at hearing and speaking truth ourselves to understand when others speak to us this way. If we respond with "yes, but", I hope it’s not to quibble.
 

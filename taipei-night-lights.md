@@ -18,4 +18,4 @@ Taken in Taipei, Taiwan, May 2005. Taipei is a busy city, with crowds rushing to
 
 My technique with the long exposure was accidental rather than deliberate, but I love the variety of colors.
 
-[<a href="http://www.flickr.com/photos/daniel_hardman/1387953062/sizes/l">other photo sizes</a>]
+[<a href="https://www.flickr.com/photos/daniel_hardman/1387953062/sizes/l">other photo sizes</a>]

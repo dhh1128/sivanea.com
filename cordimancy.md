@@ -6,7 +6,7 @@ slug: cordimancy
 
 Naive newlyweds set out to rescue orphans from the world's greatest sorcerer. Do they have enough love, grit, and trust to survive?
 
-Cordimancy is available on the [Kindle](http://j.mp/1Mfr42y) and in print via [Amazon](http://j.mp/1O3oJJl) or any bricks-and-mortar bookstore that carries or can order ISBN 1519219911.
+Cordimancy is available on the [Kindle](https://j.mp/1Mfr42y) and in print via [Amazon](https://j.mp/1O3oJJl) or any bricks-and-mortar bookstore that carries or can order ISBN 1519219911.
 
 <hr>
 

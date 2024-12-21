@@ -13,4 +13,4 @@ I think it evokes a kind of easygoing, cheerful bit of mischief. Imagine barefoo
 
 (And btw, it sounds much better with stereo headphones, so you can hear how the three parts contribute differently.)
 
-[<a href="http://dl.dropbox.com/u/3619219/Summer%20Mischief.mp3" target="_blank">mp3</a> | <a href="http://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-1.pdf" target="_blank">part 1</a> | <a href="http://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-2.pdf" target="_blank">part 2</a> | <a href="http://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-3.pdf" target="_blank">part 3</a>]
+[<a href="https://dl.dropbox.com/u/3619219/Summer%20Mischief.mp3" target="_blank">mp3</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-1.pdf" target="_blank">part 1</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-2.pdf" target="_blank">part 2</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-3.pdf" target="_blank">part 3</a>]

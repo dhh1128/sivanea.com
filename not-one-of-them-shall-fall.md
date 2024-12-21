@@ -8,7 +8,7 @@ comments:
   - author: Daniel Hardman
     date: 2014-05-21 18:13:32
     comment: |
-      I was told by the property owner that the bird in question is a Vireo (possibly this subspecies: http://en.wikipedia.org/wiki/Warbling_Vireo http://upload.wikimedia.org/wikipedia/commons/c/cc/WarblingVireo08.jpg)
+      I was told by the property owner that the bird in question is a Vireo (possibly this subspecies: https://en.wikipedia.org/wiki/Warbling_Vireo https://upload.wikimedia.org/wikipedia/commons/c/cc/WarblingVireo08.jpg)
 ---
 <figure>
 <img src="assets/fallen-vireo.jpg" />

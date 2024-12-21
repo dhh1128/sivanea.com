@@ -5,7 +5,7 @@ slug: castle-in-the-clouds
 redirect_from:
   - /2013/01/21/castle-in-the-clouds
 comments:
-  - author: http://wishstory.wordpress.com
+  - author: https://wishstory.wordpress.com
     date: 2013-02-04 09:04:55
     comment: |
       Reblogged this on <a href="505" rel="nofollow">wishstory</a>.
@@ -20,7 +20,7 @@ comments:
       
       When I took this photo, I wasn't doing anything special to visit a touristy destination. I was just driving south from Munich, through Austria, and into Italy. The castle I saw from the side of the highway couldn't have been *that* castle &mdash; could it?
       
-      But I went on wikipedia and studied the photos of Neuchwanstein, and I'm convinced that you're right. This picture, in particular, makes it very clear that both buildings have the same roof and turrets: http://en.wikipedia.org/wiki/File:Neuschwanstein_Castle.jpg
+      But I went on wikipedia and studied the photos of Neuchwanstein, and I'm convinced that you're right. This picture, in particular, makes it very clear that both buildings have the same roof and turrets: https://en.wikipedia.org/wiki/File:Neuschwanstein_Castle.jpg
       
       Thanks for the great question!
   - author: Charron's Chatter

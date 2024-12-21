@@ -18,7 +18,7 @@ comments:
       
       Thanks for the feedback on the poem. There's really no good way to distill an experience as rich and varied as a mission down into a few words, so I decided to settle for one little glimpse. Happy memories. :-)
 ---
-<p style="color:#777;font-size:90%;font-style:italic;">"And this is the account of Ammon and his brethren, their journeyings in the land of Nephi, their sufferings in the land, their sorrows, and their afflictions, and their incomprehensible joy..." &mdash; <a href="http://www.lds.org/scriptures/bofm/alma/28.8?lang=eng#7" target="_blank">Alma 28:8</a></p>
+<p style="color:#777;font-size:90%;font-style:italic;">"And this is the account of Ammon and his brethren, their journeyings in the land of Nephi, their sufferings in the land, their sorrows, and their afflictions, and their incomprehensible joy..." &mdash; <a href="https://www.lds.org/scriptures/bofm/alma/28.8?lang=eng#7" target="_blank">Alma 28:8</a></p>
 
 
 <figure><img alt="missionaries on bikes" src="assets/missionaries.jpg" /><figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>

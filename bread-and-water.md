@@ -6,7 +6,7 @@ redirect_from:
   - /2013/01/14/bread-and-water
 ---
 
-<p style="font-style:italic;font-size:90%;color:#777;">For Ken and Beryl Griffiths; see <a href="http://www.lds.org/scriptures/ot/eccl/11.1-2?lang=eng#1" target="_blank">Ecclesiastes 11:1-2</a>.</p>
+<p style="font-style:italic;font-size:90%;color:#777;">For Ken and Beryl Griffiths; see <a href="https://www.lds.org/scriptures/ot/eccl/11.1-2?lang=eng#1" target="_blank">Ecclesiastes 11:1-2</a>.</p>
 
 <p class="poetry">Ripples run with every loving cast &mdash; 
 Gentle smiles to firm up feeble knees,

@@ -1,2 +1,3 @@
 remap = ['^(file:.*[^/.]{5})$ $1.md'] # add .html to urls that don't end in an extension
 require_https = true
+exclude = ['^https?://.*(openart.ai|midjourney.com|openai.com)/']

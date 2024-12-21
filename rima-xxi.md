@@ -10,7 +10,7 @@ comments:
     comment: |
       Very romantic!
 ---
-<p style="color:#777;font-style:italic;font-size:90%;">by <a class="zem_slink" title="Gustavo Adolfo Bécquer" href="http://en.wikipedia.org/wiki/Gustavo_Adolfo_B%C3%A9cquer" target="_blank" rel="wikipedia">Gustavo Adolfo Bécquer</a> (translated from the original Spanish by Daniel Hardman)</p>
+<p style="color:#777;font-style:italic;font-size:90%;">by <a class="zem_slink" title="Gustavo Adolfo Bécquer" href="https://en.wikipedia.org/wiki/Gustavo_Adolfo_B%C3%A9cquer" target="_blank" rel="wikipedia">Gustavo Adolfo Bécquer</a> (translated from the original Spanish by Daniel Hardman)</p>
 
 <p class="poetry">What is poetry? &mdash; you say,
 my eye holding in your eye of blue.

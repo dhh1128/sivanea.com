@@ -8,9 +8,9 @@ UPLOAD_LINK_PATTERN = re.compile(r'https?://sivanea.com/wp-content/uploads/(\d{4
 DRAFT_LINK_PATTERN = re.compile(r'https?://sivanea.com/\?p=(\d+)')
 
 NAMESPACES = {
-    'dc': "http://purl.org/dc/elements/1.1/",
-    'ns0': "http://wordpress.org/export/1.2/",
-    'ns2': "http://purl.org/rss/1.0/modules/content/"
+    'dc': "https://purl.org/dc/elements/1.1/",
+    'ns0': "https://wordpress.org/export/1.2/",
+    'ns2': "https://purl.org/rss/1.0/modules/content/"
 }
 
 def get_child_text(parent, tag):
