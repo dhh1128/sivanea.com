@@ -3,9 +3,9 @@ title: Photo Gallery
 date: 2015-11-24
 slug: photo-gallery
 ---
-Here are some images that I use to seed my imagination about <em>Cordimancy</em>. Unless otherwise specified, images credit: <a href="../ai-art">AI+</a>.
+Here are some images that I use to seed my imagination about <em>Cordimancy</em>. Unless otherwise specified, images credit: <a href="https://sivanea.com/ai-art">AI+</a>.
 
-<figure><img src="../assets/malena.jpg" /><figcaption>Malena?</figcassets/</aption></figure>
+<figure><img src="../assets/malena.jpg" /><figcaption>Malena?</figcaption></figure>
 
 <figure><img src="../assets/toril.jpg" /><figcaption>Toril?</figcaption></figure>
 
@@ -35,7 +35,7 @@ Here are some images that I use to seed my imagination about <em>Cordimancy</em>
 <figure><img src="../assets/rajas-palace.jpg"/><figcaption>The inner building on the palace grounds belonging to the raja in Kikal Pilar.</figcaption></figure>
 
 <figure>
-<img src="../assets/durga.jpg"/></a>
+<img src="../assets/durga.jpg"/>
 <figcaption>The inner courtyard of the durga at Noemi might look a bit like this, although I picture it smaller. Image credit: Aleksandr Zykov, Flickr</figcaption></figure>
 
 <figure>
