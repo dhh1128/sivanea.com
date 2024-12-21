@@ -8,7 +8,7 @@ comments:
   - author: Daniel
     date: 2012-12-19 06:50:05
     comment: |
-      I submitted this poem to the <a href="https://www.lds.org/ensign" target="_blank" rel="nofollow">Ensign</a> magazine in late summer 2012. No response.
+      I submitted this poem to the <cite>Ensign</cite> magazine in late summer 2012. No response.
 ---
 <figure><img alt="colorful children's drawings in crayon, covering a fridge" src="assets/drawings-on-fridge.jpg" /><figcaption>Love the drawings on the fridge! Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 

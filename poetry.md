@@ -36,6 +36,5 @@
 * [The Beauty of Gray](the-beauty-of-gray)
 * [Interior Decorating](interior-decorating)
 * [December Afternoon Ten Thousand Feet](december-afternoon-ten-thousand-feet)
-* [Not One of Them Shall Fall on the Ground Without Your Father](not-one-of-them-shall-fall-on-the-ground-without-your-father)
 * [Finches](finches)
 * [Puddles](puddles)
