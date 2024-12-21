@@ -5,7 +5,7 @@ slug: summer-mischief
 redirect_from:
   - /2013/03/11/summer-mischief
 ---
-<figure><img src="https://farm4.staticflickr.com/3518/3810698131_dc92680539.jpg" width="333" height="500" /><figcaption>photo credit: THEMACGIRL* (Flickr)</figcaption></figure>
+<figure><img src="assets/kids-with-hose.jpg" /><figcaption>Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 As a learning exercise, I wrote a little piece of music in GarageBand. It's for 3 pianos (although I recorded it for 3 guitars, because my music generator doesn't sound very good for piano). The music is in the key of C, and it's probably easy enough for a young piano student to play.
 
@@ -13,4 +13,4 @@ I think it evokes a kind of easygoing, cheerful bit of mischief. Imagine barefoo
 
 (And btw, it sounds much better with stereo headphones, so you can hear how the three parts contribute differently.)
 
-[<a href="https://dl.dropbox.com/u/3619219/Summer%20Mischief.mp3" target="_blank">mp3</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-1.pdf" target="_blank">part 1</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-2.pdf" target="_blank">part 2</a> | <a href="https://sivanea.com/wp-content/uploads/2013/03/summer-mischief-piano-3.pdf" target="_blank">part 3</a>]
+[ [part 1](assets/summer-mischief-piano-1.pdf) | [part 2](assets/summer-mischief-piano-2.pdf) | [part 3](assets/summer-mischief-piano-3.pdf) ]
