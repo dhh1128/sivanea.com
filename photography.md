@@ -1,3 +1,7 @@
+---
+title: Photography
+slug: photography
+---
 * [A Screech of Gulls](a-screech-of-gulls)
 * [At Iguazu Falls](at-iguazu-falls)
 * [Buenos Ángulos](buenos-angulos)

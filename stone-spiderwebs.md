@@ -6,7 +6,7 @@ redirect_from:
   - /2013/12/27/stone-spiderwebs
 ---
 <figure>
-<img src="https://farm2.staticflickr.com/1191/5134363167_dbb3cdbb3b_z.jpg" width="427" height="640" /></a>
+<img src="https://farm2.staticflickr.com/1191/5134363167_dbb3cdbb3b_z.jpg" width="427" height="640" />
 <figcaption>Photographer: me</figcaption>
 </figure>
 

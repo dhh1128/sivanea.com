@@ -1,3 +1,7 @@
+---
+title: Novels
+slug: novels
+---
 * [Cordimancy](cordimancy)
     * [Free Preview](cordimancy/preview.pdf)
     * [Content Advisory](cordimancy/a-content-advisory)

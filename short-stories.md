@@ -1,3 +1,7 @@
+---
+title: Short Stories
+slug: short-stories
+---
 * [Avery and the Giant Frog](avery-and-the-giant-frog)
 * [Mahatma](mahatma)
 * [Joanna and the Mango Pie](joanna-and-the-mango-pie)
