@@ -5,7 +5,7 @@ slug: photo-gallery
 ---
 Here are some images that I use to seed my imagination about <em>Cordimancy</em>. Unless otherwise specified, images credit: <a href="../ai-art">AI+</a>.
 
-<figure><img src="../assets/malena.jpg" /><figcaption>Malena?</figcaption></figure>
+<figure><img src="../assets/malena.jpg" /><figcaption>Malena?</figcassets/</aption></figure>
 
 <figure><img src="../assets/toril.jpg" /><figcaption>Toril?</figcaption></figure>
 
@@ -16,14 +16,14 @@ Here are some images that I use to seed my imagination about <em>Cordimancy</em>
 <figure><img src="../assets/kinora.jpg" /><figcaption>Kinora?</figcaption></figure>
 
 <figure>
-<img src="../assets/oji.jpg" /></a><figcaption>Oji?</figcaption>
+<img src="../assets/oji.jpg" /><figcaption>Oji?</figcaption>
 </figure>
 
-<figure><img src="../assets/gorumim.jpg" /></a><figcaption>Gorumim?</figcaption></figure>
+<figure><img src="../assets/gorumim.jpg" /><figcaption>Gorumim?</figcaption></figure>
 
-<figure><img src="../assets/hika.jpg" /></a><figcaption>Hika?</figcaption></figure>
+<figure><img src="../assets/hika.jpg" /><figcaption>Hika?</figcaption></figure>
 
-<figure><img src="../assets/hasha.jpg" /></a><figcaption>Hasha?</figcaption></figure>
+<figure><img src="../assets/hasha.jpg" /><figcaption>Hasha?</figcaption></figure>
 
 <figure><img src="../assets/tupa.jpg" /><figcaption>Tupa?</figcaption></figure>
 
