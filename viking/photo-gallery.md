@@ -13,7 +13,7 @@ Here are some photos that I use to seed my imagination about <em>Viking</em>.
 
 <figure><a href="https://www.flickr.com/photos/hinnamsaisuy/7234476084"><img src="https://farm9.staticflickr.com/8017/7234476084_c3d95d2fbf_n.jpg" width="213" height="320" /></a><figcaption>Chen? Photo credit: hinnamsaisuy (Flickr)</figcaption></figure>
 
-<figure><a href="https://www.flickr.com/photos/62604982@N04/6961376178"><img src="https://farm8.staticflickr.com/7229/6961376178_613c4c7739_n.jpg" width="219" height="320" /></a><figcaption>Heward? Photo credit: Muscle Dominator (Flickr)</figcaption></figure>
+<figure><img src="../assets/heward.jpg" /></a><figcaption>Heward? Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <figure><a href="https://www.flickr.com/photos/grantuking/5157464539"><img src="https://farm2.staticflickr.com/1159/5157464539_e73fd4146a_n.jpg" width="320" height="268" /></a><figcaption>Oristano? Photo credit: Grantuking (Flickr)</figcaption></figure>
 
@@ -23,7 +23,7 @@ Here are some photos that I use to seed my imagination about <em>Viking</em>.
 
 <figure><a href="https://www.flickr.com/photos/35528040@N04/3635732262"><img src="https://farm4.staticflickr.com/3332/3635732262_6a450bb927.jpg" width="500" height="375" /></a><figcaption>Savannah where stampede nearly kills Rafa? Photo credit: pam's pics- (Flickr)</figcaption></figure>
 
-<figure><a href="https://www.flickr.com/photos/mikelove/2526016742"><img src="https://farm3.staticflickr.com/2056/2526016742_be5f9a83e0.jpg" width="500" height="375" /></a><figcaption>Swamp where Rafa crashes? Photo credit: MikeLove (Flickr)</figcaption></figure>
+<figure><img src="../assets/eb2-jungle.jpg" /></a><figcaption>Swamp where Rafa crashes? Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 
 <figure><a href="https://www.flickr.com/photos/loop_oh/6864834249"><img src="https://farm8.staticflickr.com/7059/6864834249_6b565efbea.jpg" width="500" height="333" /></a><figcaption>Where Rafa stumbles onto beach? Photo credit: loop_oh (Flickr)</figcaption></figure>
 

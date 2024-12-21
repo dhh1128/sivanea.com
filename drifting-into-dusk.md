@@ -18,4 +18,4 @@ waiting arms, and rest...</p>
 <hr>
 There's something about still water at twilight that leaves me feeling quiet inside. I love the gloss on the surface of the bay.
 
-[[other photo sizes](https://www.flickr.com/photos/daniel_hardman/8331434375/sizes/l/")]
+[[other photo sizes](https://www.flickr.com/photos/daniel_hardman/8331434375/sizes/l/)]

@@ -35,8 +35,8 @@ Here are some photos that I use to seed my imagination about <em>Cordimancy</em>
 <figure><a href="https://www.flickr.com/photos/rk_photos/5873692346" target="_blank"><img src="../assets/rajas-palace.jpg"/></a><figcaption>A palace like the one belonging to the raja in Kikal Pilar. Image credit: raghavvidya, Flickr</figcaption></figure>
 
 <figure>
-<a href="https://sivanea.com/wp-content/uploads/2015/11/21165667746_c05f06eb4e_k1.jpg" target="_blank"><img src="../assets/durga.jpg"/></a>
-<figcaption>The inner courtyard of the durga at Noemi might look a bit like this, although I picture it smaller. Image credit: <a href="https://www.flickr.com/photos/infanticida/21165667746">Aleksandr Zykov, Flickr</a></figcaption></figure>
+<img src="../assets/durga.jpg"/></a>
+<figcaption>The inner courtyard of the durga at Noemi might look a bit like this, although I picture it smaller. Image credit: Aleksandr Zykov, Flickr</figcaption></figure>
 
 <figure>
 <a href="https://www.flickr.com/photos/axelrd/9940547854/" target="_blank"><img src="../assets/down-from-kelun.jpg" /></a>
