@@ -6,6 +6,10 @@ redirect_from:
   - /2012/12/19/froggies
 ---
 <img alt="soldier in jungle on froggy planet" src="assets/froggy-planet.jpg" />
+Mood music: <audio controls>
+  <source src="assets/froggies.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 Ponderous clouds broke suddenly, lashing the canopy of tago trees that arched into stygian gloom eighty meters above. Exotic hoots and throaty grunting from beyond the blackness floated down, mixing with a soft lap-lap of marshwater at his waist. Avis fingered the trigger of his blaster and wiped sweat from his eyebrows with a grimy hand. His comlink crackled.
 
