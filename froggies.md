@@ -6,12 +6,10 @@ redirect_from:
   - /2012/12/19/froggies
 ---
 <img alt="soldier in jungle on froggy planet" src="assets/froggy-planet.jpg" />
-Mood music: <audio controls>
-  <source src="assets/froggies.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 Ponderous clouds broke suddenly, lashing the canopy of tago trees that arched into stygian gloom eighty meters above. Exotic hoots and throaty grunting from beyond the blackness floated down, mixing with a soft lap-lap of marshwater at his waist. Avis fingered the trigger of his blaster and wiped sweat from his eyebrows with a grimy hand. His comlink crackled.
+
+<audio controls><source src="assets/froggies.mp3" type="audio/mpeg"></audio>
 
 "Red One, this is Red Three. We're sweeping north. Water's extra murky. Musta have been disturbed recently."
 
@@ -39,4 +37,4 @@ And then the rock moved...
 
 <hr>
 
-<em>This started as a serial story (write a few paragraphs, pass it along to the next writer to add some more). I'm sure I recognize some parts of it that were written by my brother, Joshua. Probably other siblings contributed as well. So I have co-authors to credit; I'm just not sure who.</em>
+<em>This started as a serial story (write a few paragraphs, pass it along to the next writer to add some more). I'm sure I recognize some parts of it that were written by my brother, Joshua. Probably other siblings contributed as well. So I have co-authors to credit; I'm just not sure who. Mood music composed by <a href="https://suno.com/s/ThGzkOeVmFKXzcli">AI at suno.com</a>, with prompting from me.</em>
