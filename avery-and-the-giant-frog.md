@@ -7,6 +7,8 @@ redirect_from:
 ---
 
 <p style="text-align:right;"><em>a bedtime story for Caleb...</em></p>
+<audio controls><source src="assets/avery-and-the-giant-frog.mp3" type="audio/mpeg"></audio>
+
 Once upon a time there was a little boy named Avery. Avery had brown eyes and white teeth. He liked to swim and dig in the sandbox and play with cars and eat popsicles. He was almost five.
 
 <figure><img alt="boy in sandbox" src="assets/boy-in-sandbox.jpg" /></figure>
@@ -118,4 +120,4 @@ Then they watched as the frog settled down in the sand, and they got their shove
 After he was gone, Avery and Tex listened carefully. When everything was perfectly quiet, they could just hear him snoring.
 
 <hr>
-Images credit: [AI+](ai-art)
+Images credit: [AI+](ai-art). Music credit: AI prompted by me at [suno.com](https://suno.com/s/DF8nTLvvPP5MCPF0).
