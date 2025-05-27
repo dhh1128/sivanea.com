@@ -10,6 +10,8 @@ comments:
     comment: |
       This particular story was an experiment with style. I wanted to use irony and voice in fresh ways. I think it turned out pretty well, although the bleak ending is not my favorite.
 ---
+<audio controls><source src="assets/doggy.mp3" type="audio/mpeg"></audio>
+
 It was painfully sunny, and Rafa tugged on the brim of his broad sombrero. He was parched, but the water had run out on him hours ago. For the tenth time he wondered where Octavio could be. Hadn't he said that they would meet by the hill a couple hours north of the ranch? Hadn't he said at three o'clock? Well, it was six already, and there was no hill. No Octavio.
 
 <figure><img alt="desert" src="assets/desert.jpg" /></figure>
@@ -57,4 +59,4 @@ He thought that he didn't like to be lonely &mdash; he had never liked to be lon
 The little doggy seemed to understand anyway, and it came slowly forward. Rafa thought that it was a very nice little doggy. Yes, it was a very nice little doggy.
 
 <hr>
-Images credit: [AI+](ai-art)
+Images credit: [AI+](ai-art). Music credit: AI prompted by me at [suno.com](https://suno.com/s/6k32bixRx1OO5lxv)

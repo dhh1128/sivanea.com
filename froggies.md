@@ -7,9 +7,9 @@ redirect_from:
 ---
 <img alt="soldier in jungle on froggy planet" src="assets/froggy-planet.jpg" />
 
-Ponderous clouds broke suddenly, lashing the canopy of tago trees that arched into stygian gloom eighty meters above. Exotic hoots and throaty grunting from beyond the blackness floated down, mixing with a soft lap-lap of marshwater at his waist. Avis fingered the trigger of his blaster and wiped sweat from his eyebrows with a grimy hand. His comlink crackled.
-
 <audio controls><source src="assets/froggies.mp3" type="audio/mpeg"></audio>
+
+Ponderous clouds broke suddenly, lashing the canopy of tago trees that arched into stygian gloom eighty meters above. Exotic hoots and throaty grunting from beyond the blackness floated down, mixing with a soft lap-lap of marshwater at his waist. Avis fingered the trigger of his blaster and wiped sweat from his eyebrows with a grimy hand. His comlink crackled.
 
 "Red One, this is Red Three. We're sweeping north. Water's extra murky. Musta have been disturbed recently."
 
