@@ -6,6 +6,7 @@ slug: poetry
 * [After the Order of His Son](after-the-order-of-his-son)
 * [Nancy the Kneader](nancy-the-kneader)
 * [Fix-it Man](fix-it-man)
+* [Cornfield Summers](cornfield-summers)
 * [Leafy Boa](leafy-boa)
 * [Drifting Into Dusk](drifting-into-dusk)
 * [First Palette](first-palette)
