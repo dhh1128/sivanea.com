@@ -1,7 +1,9 @@
 ---
-title: Poetry
+title: Poetry and Lyrics
 slug: poetry
 ---
+* [Broken Things](broken-things)
+* [Showin' Up](showin-up)
 * [This Word of God](this-word-of-god)
 * [After the Order of His Son](after-the-order-of-his-son)
 * [Nancy the Kneader](nancy-the-kneader)

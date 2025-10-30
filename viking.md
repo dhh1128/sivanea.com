@@ -6,6 +6,8 @@ slug: viking
 
 <img src="assets/viking-album-cover.jpg" />
 
+<audio controls><source src="assets/rafas-theme.mp3" type="audio/mpeg"></audio>
+
 Rafa thinks he's safe in witness protection until a former FBI partner is murdered, and he's arrested for the crime. Has he been set up?
 
 He can't divulge enough truth to get off &mdash; it would endanger his new family. Sentenced to life in prison and heartbroken by his wife's rejection, he trades cell time for a one-way ticket off-planet and becomes a disposable employee for a company prospecting the galactic frontier.

@@ -3,7 +3,7 @@ title: Contents
 permalink: /
 ---
 * [Essays](essays)
-* [Poetry](poetry)
+* [Poetry and Lyrics](poetry)
 * [Short stories](short-stories)
 * [Plays](plays)
 * [Novels](novels)
