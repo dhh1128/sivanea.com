@@ -4,9 +4,14 @@ date: 2025-10-29
 slug: showin-up
 ---
 
-(I came up with the concept and verse structure; chatgpt and I crafted the words together over several hours intense collaboration. This wasn't just the AI spitting out something that I trivially described.)
+by: [me collaborating with AI](ai-collab)
 
 [listen to a performance of the song](https://suno.com/s/KitpFT7KNRjFqcwR) 
+
+<figure>
+<img src="assets/showin-up.jpg" />
+<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption>
+</figure>
 
 <p class="poetry">
 [Verse 1]
