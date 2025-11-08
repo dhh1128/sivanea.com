@@ -2,6 +2,7 @@
 title: Music
 slug: music
 ---
+* [Hidden Grace](hidden-grace)
 * [Broken Things](broken-things)
 * [Showin' Up](showin-up)
 * [Viking (novel soundtrack)](https://open.spotify.com/album/5FJ4esOeqmQndx6NnVBjCE?si=9lWDBW_AQHWk6eWN84gSFg)

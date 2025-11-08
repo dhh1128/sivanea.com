@@ -2,6 +2,7 @@
 title: Poetry and Lyrics
 slug: poetry
 ---
+* [Hidden Grace](hidden-grace)
 * [Broken Things](broken-things)
 * [Showin' Up](showin-up)
 * [This Word of God](this-word-of-god)
