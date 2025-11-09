@@ -6,7 +6,7 @@ slug: broken-things
 
 by: [me collaborating with AI](ai-collab)
 
-[listen to a performance of the song](https://suno.com/s/KitpFT7KNRjFqcwR](https://suno.com/s/ooSxiC6JrAemSxfj)) 
+[listen to a performance of the song](https://suno.com/s/ooSxiC6JrAemSxfj) 
 
 <figure>
 <img src="assets/broken-things.jpg" />
