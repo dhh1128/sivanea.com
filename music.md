@@ -2,6 +2,7 @@
 title: Music
 slug: music
 ---
+* [Brown](brown)
 * [Hidden Grace](hidden-grace)
 * [Broken Things](broken-things)
 * [Showin' Up](showin-up)

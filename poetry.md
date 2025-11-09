@@ -2,6 +2,7 @@
 title: Poetry and Lyrics
 slug: poetry
 ---
+* [Brown](brown)
 * [Hidden Grace](hidden-grace)
 * [Broken Things](broken-things)
 * [Showin' Up](showin-up)
