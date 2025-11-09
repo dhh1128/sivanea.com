@@ -14,8 +14,6 @@ by: [me collaborating with AI](ai-collab)
 </figure>
 
 <p class="poetry">
-(acoustic guitar intro)
-
 [Verse 1]
 God must love broken things—He made a world full of them
 Cracked clay that holds the rain, wheat from winter-killed stems
@@ -25,8 +23,6 @@ Ground that has to break apart before there's any room
 [Refrain]
 He's got a way with broken things
 Turns the fallow into green
-
-(short acoustic guitar interlude)
 
 [Verse 2]
 God must love broken things—He keeps every one of them
@@ -43,8 +39,6 @@ God must love broken things—He makes a home for them
 I come from fighting and from silence, both cuts just as deep
 My mind's a room I'm scared to enter when the dark comes on
 But there's a light that finds me even when I think it's gone
-
-(short guitar interlude)
 
 [Refrain]
 He's got a way with broken things
@@ -64,6 +58,4 @@ Broken things grow beautiful
 oh yeah
 Broken things are beautiful
 to Him.
-
-(acoustic guitar fades and resolves to root on final note)
 </p>

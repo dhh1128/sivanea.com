@@ -1,7 +1,7 @@
 ---
-title: Showin' Up
-date: 2025-10-29
-slug: showin-up
+title: Hidden Grace
+date: 2025-11-07
+slug: hidden-grace
 ---
 
 by: [me collaborating with AI](ai-collab)
@@ -63,3 +63,4 @@ So smile, and hope, and sing its song.
 [outro]
 That porch light still burns into day —
 Some grace just works that hidden way...
+</p>
