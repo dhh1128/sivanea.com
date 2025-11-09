@@ -6,7 +6,7 @@ slug: the-leaf-pile
 
 Lyrics are by [me collaborating with AI](ai-collab).
 
-[listen to a performance of the song](https://suno.com/s/YmGSyVUQ0R2xcbDz) 
+[listen to a performance of the song](https://suno.com/s/u9IKxbC693OmDFsw) 
 
 <figure>
 <img src="assets/the-leaf-pile.jpg" />
