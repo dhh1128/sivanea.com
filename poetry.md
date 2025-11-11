@@ -2,6 +2,7 @@
 title: Poetry and Lyrics
 slug: poetry
 ---
+* [La Vie Est Belle](la-vie-est-belle)
 * [Alternative Facts](alternative-facts)
 * [The Leaf Pile](the-leaf-pile)
 * [Brown](brown)
