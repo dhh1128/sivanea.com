@@ -2,6 +2,11 @@
 title: Music
 slug: music
 ---
+## Personas
+* [Harrow](harrow)
+* [Tolemis](tolemis)
+
+## Songs / Compositions
 * [La Vie Est Belle](la-vie-est-belle)
 * [Alternative Facts](alternative-facts)
 * [The Leaf Pile](the-leaf-pile)
