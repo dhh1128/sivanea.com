@@ -1,4 +1,7 @@
-# Tolemis
+---
+title: Tolemis
+slug: tolemis
+---
 Tolemis is a persona I (Daniel Hardman, daniel.hardman@gmail.com) created to capture my instrumental [AI collaborations](ai-collab) that have a New Age/Synthwave/Soundtrack vibe. Tolemis is inspired by my lifelong appreciation for Vangelis, and I use this persona to create soundtracks for my novels, among other things.
 
 ## Albums
