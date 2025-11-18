@@ -2,9 +2,11 @@
 title: Tolemis
 slug: tolemis
 ---
-Tolemis is a persona I (Daniel Hardman, daniel.hardman@gmail.com) created to capture my instrumental [AI collaborations](ai-collab) that have a New Age/Synthwave/Soundtrack vibe. Tolemis is inspired by my lifelong appreciation for Vangelis, and I use this persona to create soundtracks for my novels, among other things.
+![tolemis](assets/tolemis.jpg)
+
+Tolemis is a persona that I (Daniel Hardman, daniel.hardman+spotify@gmail.com) created to capture my instrumental [AI collaborations](ai-collab) that have a New Age/Synthwave/Soundtrack vibe. Tolemis is inspired by my lifelong appreciation for Vangelis, and I use this persona to create soundtracks for my novels, among other things.
 
 ## Albums
-* Animalia (2025)
-* [Viking (novel soundtrack)](https://open.spotify.com/album/5FJ4esOeqmQndx6NnVBjCE?si=9lWDBW_AQHWk6eWN84gSFg) (2025)
-* [Iscah (novel soundtrack)](https://open.spotify.com/album/6SQF2wuvnK2JiE3oDziCdw?si=UV5Z6AT1TQGvDtrZr8DdCA) (2025)
+* [Animalia](https://suno.com/playlist/a7d18804-df7e-4a6c-adbb-9d4840b708eb) (2025)
+* [Viking (novel soundtrack)](https://suno.com/playlist/1d0360cb-941b-4e13-b802-f2cbac07dea8) (2025)
+* [Iscah (novel soundtrack)](https://suno.com/playlist/8c345c43-59cd-4b45-861a-96fc0e97202d) (2025)
