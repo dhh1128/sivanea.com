@@ -8,4 +8,5 @@ Harrow is a persona I (Daniel Hardman, daniel.hardman+spotify@gmail.com) created
 
 ## Albums
 ![hidden grace](assets/hidden-grace-album-cover.jpg)
-[Hidden Grace (2025)](https://suno.com/playlist/f4be247b-91e6-4ff9-b3a6-a458210dce15)
+
+[Hidden Grace (2025)](https://distrokid.com/hyperfollow/harrow5/hidden-grace)
