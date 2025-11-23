@@ -4,6 +4,8 @@ date: 2025-11-10
 slug: la-vie-est-belle
 ---
 
+[Français](la-vie-est-belle-fr) | [Español](la-vie-est-belle-es)
+
 Lyrics are by [me collaborating with AI](ai-collab).
 
 [listen to a performance of the song](https://suno.com/s/F83LGYN4H8Omdt9Z) 
