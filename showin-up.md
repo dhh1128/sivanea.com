@@ -49,8 +49,6 @@ The hardest, truest work of love
 Is simply showin’ up.
   hmm, yeah
 
-(brief guitar flourish)
-
 [Verse 3]
 
 The staff scans his keys, clangs open the gate.
@@ -100,5 +98,4 @@ hmmmm
 hmmmm
 hmmm
 hmm, yeah
-(Soft guitar fade, one last suspended chord left hanging.)
 </p>
