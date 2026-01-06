@@ -7,6 +7,8 @@ slug: music
 * [Tolemis](tolemis)
 
 ## Songs / Compositions
+* [Tears Held Back](tears-held-back)
+* [Next Good Thing](next-good-thing)
 * [La Vie Est Belle](la-vie-est-belle)
 * [Alternative Facts](alternative-facts)
 * [The Leaf Pile](the-leaf-pile)
