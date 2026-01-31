@@ -6,7 +6,7 @@ slug: tears-held-back
 
 Abraham Stephens was a Mormon pioneer who lived in Panguitch, Henrieville, and other parts of southern Utah in the late 1800s. His wife was lost to mental illness, leaving him with young children to raise alone. He died suddenly, in the middle of the night, in his 40s. His daughter remembers him singing "Foggy, Foggy Dew" and other songs by firelight in their rough cabin after her Mother was gone. Lyrics are by [me collaborating with AI](ai-collab).
 
-[listen to a performance of the song](https://suno.com/song/d9d19b7d-a452-4290-acfe-3de58139d8a1) 
+[listen to a performance of the song](https://suno.com/playlist/43b124b5-8297-4204-832b-206e7cf23e7d) 
 
 <figure>
 <img src="assets/tears-held-back.jpg" />
