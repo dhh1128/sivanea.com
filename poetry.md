@@ -2,6 +2,8 @@
 title: Poetry and Lyrics
 slug: poetry
 ---
+* [Loved Again, Again](loved-again-again)
+* [I'll Go Myself](i-ll-go-myself)
 * [Tears Held Back](tears-held-back)
 * [Next Good Thing](next-good-thing)
 * [La Vie Est Belle](la-vie-est-belle)
