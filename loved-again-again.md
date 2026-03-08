@@ -4,9 +4,7 @@ date: 2026-01-31
 slug: loved-again-again
 ---
 
-After the divorce of her parents, Mary Wilkerson lived with many different relatives as a child. She once lived homeless in a care in the desert near Las Vegas. She married young. Her husband, Byron, went to fight World War II in Europe, leaving her with small children to feed and care for. She lost triplets who were born early, and had to make difficult accommodations in her life for a mother-in-law who was hard to live with. Nonetheless, Mary was an upbeat person, and she never stopped opening her arms and her heart to others. She told people to keep their chin up. She was a bit of a card sharp, walked every day, and loved to laugh and spend time with friends and loved ones. Lyrics are by [me collaborating with AI](ai-collab).
-
-[listen to a performance of the song](https://suno.com/song/cc371b7c-ea68-4d59-8f50-816812fe133e) 
+Lyrics are by [me collaborating with AI](ai-collab). Performance by [Harrow](harrow) on [suno](https://suno.com/song/cc371b7c-ea68-4d59-8f50-816812fe133e).
 
 <figure>
 <img src="assets/loved-again-again.jpg" />
@@ -67,3 +65,12 @@ again, again
 [outro]
 again.
 </p>
+
+## Liner Notes
+Mary Wilkerson’s life began in hard conditions. As a child, she lived in borrowed places—boxcars, cars, relatives’ homes—moving often, separated for years from her mother and siblings. She watched adults make choices that fractured her family. Her stepfather chose alcohol over home. The consequences were lasting. Mary never denied them. She also never sharpened them into blame. The story remained what it was—clear, unadorned, and unleveraged.
+
+In adulthood, Mary saw more hardship: a husband away at war; children lost to the limits of medical care in their time; years lived in close proximity to a difficult mother-in-law. These were not trials she overcame or lessons she drew attention to. They were simply conditions she lived inside of, year after year, without allowing them to close her off from others -- because despite her challenges, Mary was an upbeat person, friendly and engaged. She loved her friends and family, walked with energy, and took delight in games and trivia and many of life's small pleasures.
+
+Perhaps what distinguished Mary most was not her endurance, but her availability. She remained open—to people, to conversation, to affection, to strangers and family alike. She showed up without edge. She welcomed without testing. She did not keep a moral ledger of what life had taken from her or what she was owed in return. Those around her remembered not grand acts, but steady, open goodness: the sense that she met each person as they were, without reserve.
+
+Mary's song bears witness to her choice to live without bitterness, without spectacle, and without claim—remaining open to others, all the way through.

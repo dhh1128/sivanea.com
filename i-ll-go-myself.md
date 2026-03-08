@@ -4,9 +4,7 @@ date: 2026-01-15
 slug: i-ll-go-myself
 ---
 
-George Theodore Hyatt ("Theodore") won the Congressional Medal of Honor for uncommon and unselfish valor at Vicksburg during the Civil War. He was a sergeant at that battle, and was asked to assign men to a suicide mission; he said he'd gather volunteers instead, and became the first volunteer to step forward. His brother Charlie died in a tragic accident during the war; Theodore himself survived Vicksburg but was later shot through the heel and suffered a debilitating limp plus haunting memories for the rest of his life. He struggled to get the military to pay his pension. He moved to Oklahoma and became a missionary, working among Native American tribes there. Lyrics are by [me collaborating with AI](ai-collab).
-
-[listen to a performance of the song](https://suno.com/song/cc371b7c-ea68-4d59-8f50-816812fe133e) 
+Lyrics are by [me collaborating with AI](ai-collab). Performance by [Harrow](harrow) on [suno](https://suno.com/song/cc371b7c-ea68-4d59-8f50-816812fe133e).
 
 <figure>
 <img src="assets/i-ll-go-myself.jpg" />
@@ -72,3 +70,11 @@ I’ll take the dirt no ordered man would claim.
 I’ll go myself, and bear it to the end
 I’ll go myself, and bear it to the end
 </p>
+
+## Liner Notes
+
+Theodore Hyatt was a farm boy, husband, and father whose life was shaped less by ambition than by responsibility. Born in Pennsylvania in 1830, he was raising a young family in Illinois when the Civil War reached into ordinary homes and made ordinary men decide what they owed. When his unit needed volunteers for a near-certainly fatal assault at Vicksburg, Hyatt refused to order other men forward. Instead he took volunteers and went himself. He knew the risks; his brother Charlie died of a wound from a stray bullet in the same war.
+
+The song’s fragments point to what followed. A narrow road swept by fire. A wooden plank carried for someone else, later found riddled with bullets. Men lifted up a wall one by one, learning too quickly how little it took to be killed. Hours spent lying flat on dirt, unable to move, fighting sleep as much as fear. Darkness, withdrawal, and the heavy knowledge of who did not come back. Hyatt survived, and for that endurance he was later awarded the Medal of Honor—but the song is not about the medal.
+
+It is about what came after. Hyatt was wounded later in the war, limping for the rest of his life. He carried pain that never fully healed, and likely memories that never rested. He returned home, worked when he could, became a Baptist minister, and taught among Native communities in Missouri. He lived quietly, serving where he was needed, without spectacle or complaint.

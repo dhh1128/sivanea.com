@@ -4,9 +4,7 @@ date: 2026-01-05
 slug: next-good-thing
 ---
 
-George Hardman was a cowboy who was born in Huntsville, Utah, in the 1870s and lived in Star Valley, Wyoming, Malad, Idaho, and other parts of the mountain west. All the stories in this song are from his autobiography and related sources. Lyrics are by [me collaborating with AI](ai-collab).
-
-[listen to a performance of the song](https://suno.com/song/e537f3cc-04d0-4d75-b352-5981b79be6aa) 
+Lyrics are by [me collaborating with AI](ai-collab). Performance by [Harrow](harrow) on [suno](https://suno.com/song/e537f3cc-04d0-4d75-b352-5981b79be6aa). 
 
 <figure>
 <img src="assets/next-good-thing.jpg" />
@@ -95,3 +93,13 @@ Next good thing with what he had
 Ohhhh
 Ohhhh
 </p>
+
+## Liner Notes
+
+George Hardman was a true cowboy. He grew up and lived much of his life in the high country of Utah and Wyoming in the late 1800s, shaped early by loss, work, and responsibility. His mother died when he was a boy, leaving a household that learned quickly how to get by without much margin. From adolescence on, George worked—hauling, hunting, cutting timber, tending stock—often alone, often far from help, in weather that did not care whether a man was ready for it.
+
+One winter hunting trip nearly ended his life. Separated from companions, underdressed and without food or matches, he followed a trail too long and too far. As night fell, exhaustion set in. He began to stumble, then fall, then collapse outright in the snow, over and over. Eventually he dropped what he was carrying, crawled when he could no longer trust his legs, and reached shelter sometime after midnight. The song’s images of falling, crawling, and letting go point to that night—but they also point beyond it.
+
+This was not an isolated ordeal. George survived other moments the same way: pinned under a heavy log with no one coming, lost in storms, worn down by illness later in life. What carried him through was not bravado or recklessness, but thinking of those who depended on him, doing the next necessary thing, and refusing to quit even when quitting would have been understandable.
+
+That is why his story belongs here. George Hardman was strong, but never loud about it. His iron was tender: shaped by ordinary labor, quiet faith, and the long practice of showing up again the next day.

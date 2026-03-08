@@ -6,6 +6,15 @@ slug: music
 * [Harrow](harrow)
 * [Tolemis](tolemis)
 
+## Albums
+* [Tender Iron](https://suno.com/playlist/43b124b5-8297-4204-832b-206e7cf23e7d) (work in progress)
+* [Cordimancy (novel soundtrack)](https://suno.com/playlist/e1098f32-440d-4e72-9e13-bd6a6995cb53) (work in progress)
+* [Hidden Grace](https://distrokid.com/hyperfollow/harrow5/hidden-grace?ref=release) (2025)
+* [Circumsolar](https://distrokid.com/hyperfollow/tolemis/circumsolar?ref=release) (2025)
+* [Animalia](https://distrokid.com/hyperfollow/tolemis/animalia?ref=release) (2025)
+* [Viking (novel soundtrack)](https://distrokid.com/hyperfollow/tolemis/viking-novel-soundtrack?ref=release) (2025)
+* [Iscah (novel soundtrack)](https://distrokid.com/hyperfollow/tolemis/iscah?ref=release) (2025)
+
 ## Songs / Compositions
 * [Left a Note](left-a-note)
 * [Loved Again, Again](loved-again-again)
