@@ -7,6 +7,7 @@ slug: music
 * [Tolemis](tolemis)
 
 ## Songs / Compositions
+* [Left a Note](left-a-note)
 * [Loved Again, Again](loved-again-again)
 * [I'll Go Myself](i-ll-go-myself)
 * [Tears Held Back](tears-held-back)

@@ -2,6 +2,7 @@
 title: Poetry and Lyrics
 slug: poetry
 ---
+* [Left a Note](left-a-note)
 * [Loved Again, Again](loved-again-again)
 * [I'll Go Myself](i-ll-go-myself)
 * [Tears Held Back](tears-held-back)
