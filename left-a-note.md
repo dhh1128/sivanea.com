@@ -4,6 +4,13 @@ date: 2026-03-07
 slug: left-a-note
 ---
 
+[listen to a performance of the song](https://suno.com/song/7616f869-c30a-4515-a633-cae06d7ab42e) 
+
+<figure>
+<img src="assets/left-a-note.jpg" />
+<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption>
+</figure>
+
 Ora Mae Hyatt (1922–2017) lived a life marked by an unusual combination of skill, warmth, and calm authority. She was trained as a nurse during World War II and served with the U.S. Army Nurse Corps in the Pacific, stationed in Okinawa near the end of the war and later in Tokyo immediately after the Japanese surrender. There she cared for soldiers returning from the Pacific theater—men suffering not only from physical wounds but from hunger, exhaustion, and psychological trauma, including survivors of the Bataan Death March. Her work was repetitive and unspectacular: tending bodies, restoring basic rhythms, helping people hold together long enough to go on.
 
 During that period, she also made and distributed fudge to soldiers at Christmas—an ordinary, human gesture offered as something solid and familiar in a disordered moment. These wartime experiences shaped her calm, practical way of responding to crisis, a way of acting that would later appear just as clearly in family life.
@@ -17,13 +24,6 @@ Ora Mae’s life was also marked by an unusual ease across cultural divides. Des
 As a grandmother living at a distance, she recorded cassette tapes of nursery rhymes, poems, and songs and mailed them to her grandchildren. These tapes were played repeatedly until they wore thin, her voice continuing to bring order and comfort even when she was not present.
 
 *Left a Note* draws from these moments. It is not a summary of a life, but a portrait of a method: the practiced ability to bring disorder—musical, physical, emotional, or relational—back into workable harmony, and then to trust that harmony to hold as she moved on to the next place where it was needed. Lyrics are by [me collaborating with AI](ai-collab).
-
-[listen to a performance of the song](https://suno.com/song/7616f869-c30a-4515-a633-cae06d7ab42e) 
-
-<figure>
-<img src="assets/left-a-note.jpg" />
-<figcaption>Image credit: <a href="ai-art">AI+</a></figcaption>
-</figure>
 
 <p class="poetry">
 [Verse]
