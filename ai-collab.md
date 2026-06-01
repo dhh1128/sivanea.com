@@ -1,3 +1,7 @@
+---
+title: AI Collaboration
+slug: ai-collab
+---
 When I say that a particular item is the product of "collaboration with AI", I mean something a bit different from saying that artwork came from [AI+](ai-art).
 
 AIs don't spontaneously generate beautiful, high-level concepts for an artistic project. I hope I do that. From that starting point, I spend minutes, hours, or longer, describing to one or more AIs the vision, the context, and the constraints that make the project meaningful and worth pursuing. Often, I'll offer some thoughts on structure, theme, technique, internal aesthetics I want to achieve, etc. Maybe I'll provide some starting content of my own.

@@ -10,6 +10,13 @@ plugins:
   - jekyll-redirect-from
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
+# Apply the local _layouts/default.html to every page. Production (GitHub Pages)
+# applies this implicitly; declaring it keeps local `jekyll build` faithful.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 include:
   - robots.txt
   - LICENSE

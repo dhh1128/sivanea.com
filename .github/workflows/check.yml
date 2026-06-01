@@ -1,0 +1,21 @@
+name: check site structure
+
+# Offline, Jekyll-aware quality gate: proves frontmatter is valid, internal
+# links + local assets resolve, and no WordPress residue has returned. Pairs
+# with link-check.yml (Lychee), which covers external link/image liveness.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet pyyaml
+      - run: python3 scripts/check_site.py

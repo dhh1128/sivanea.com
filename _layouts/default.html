@@ -8,9 +8,9 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <! &mdash; [if lt IE 9]>
+    <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif] &mdash; >
+    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
@@ -34,7 +34,7 @@
       {% if page.comments %}
       <hr>
       <div class="comments-section">
-        <h3>Comments</h2>
+        <h3>Comments</h3>
         <ul>
           {% for comment in page.comments %}
             <li>
