@@ -96,3 +96,11 @@ div.wrapper { width: 1024px;}
 @media print, screen and (max-width: 960px) {
     header { padding: 0 }
 }
+.back {
+    font-family: 'Barlow Condensed';
+    font-size: 92%;
+    margin-bottom: 1.2em;
+}
+@media print {
+    .not-printed { display: none !important; }
+}
