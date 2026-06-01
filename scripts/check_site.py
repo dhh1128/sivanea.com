@@ -43,6 +43,9 @@ MD_LINK = re.compile(r"\]\(\s*([^)\s]+)")  # [text](url ...) / ![alt](url ...)
 
 RESIDUE = [re.compile(r"\[/?caption", re.I), re.compile(r"wp-content", re.I)]
 
+# CI status badges belong in README (GitHub repo view), never on a published page.
+BADGE = re.compile(r"badge\.svg|img\.shields\.io", re.I)
+
 
 def pages() -> list[str]:
     found = []
@@ -100,11 +103,13 @@ def main() -> int:
             elif not str(fm.get("title", "")).strip():
                 problems.append(f"{rel}: frontmatter has no non-empty `title`")
 
-        # --- 4. WordPress residue tripwire ------------------------------
+        # --- 4. WordPress residue + stray-badge tripwires ---------------
         if not is_doc:
             for pat in RESIDUE:
                 if pat.search(body):
                     problems.append(f"{rel}: WordPress residue matched /{pat.pattern}/")
+            if BADGE.search(body):
+                problems.append(f"{rel}: CI status badge belongs in README, not a published page")
 
         # --- 2 + 3. internal links and local assets ---------------------
         for raw in link_targets(body):

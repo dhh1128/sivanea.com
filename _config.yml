@@ -20,3 +20,10 @@ defaults:
 include:
   - robots.txt
   - LICENSE
+# README is the GitHub repo landing page (CI badges, dev instructions), not a
+# published page; the public table of contents is index.md.
+exclude:
+  - README.md
+  - ROADMAP.md
+  - scripts
+  - tools
