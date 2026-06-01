@@ -101,6 +101,46 @@ div.wrapper { width: 1024px;}
     font-size: 92%;
     margin-bottom: 1.2em;
 }
+#search-box {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+    font-size: 12pt;
+    padding: 8px 12px;
+    margin-bottom: 1em;
+    border: 1px solid #e0b69c;
+    border-radius: 4px;
+    color: #444;
+}
+#search-box:focus {
+    outline: none;
+    border-color: #914f37;
+}
+#search-results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#search-results li {
+    margin-bottom: 1em;
+}
+#search-results a {
+    font-family: 'Barlow Condensed';
+    font-size: 14pt;
+}
+.search-snippet {
+    font-size: 90%;
+    color: #666666;
+    margin-top: 2px;
+}
+.search-snippet mark {
+    background: #f3dcc9;
+    color: #491705;
+}
+.search-empty {
+    font-style: italic;
+    color: #777777;
+}
 @media print {
     .not-printed { display: none !important; }
 }

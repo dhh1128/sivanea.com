@@ -41,6 +41,13 @@ lightweight, proportionate proof that the content is and stays clean.**
       pattern as the existing openart/midjourney/openai excludes) and to
       tolerate transient `429` rate-limiting (e.g. upload.wikimedia.org). Now
       green when links are genuinely fine, red only for real breakage.
+- [x] **Homepage full-text search.** Live search box on `index.md` powered by
+      vendored Lunr.js (`assets/js/lunr.min.js`) + a Liquid-generated
+      `search.json` index (built by the legacy Pages pipeline, no plugin) +
+      `assets/js/search.js`. Stemmed-term **and** trailing-wildcard query per
+      word (whole-word + prefix matching), title-boosted ranking, highlighted
+      snippets; degrades to the plain Contents list with no JS. `check_site.py`
+      guards the wiring; coverage is by construction (index = published pages).
 - [x] **Proof harness**: `scripts/check_site.py` — offline, Jekyll-aware checker
       proving frontmatter validity + non-empty titles, internal page/asset link
       resolution, and no WordPress residue. Green today: 101 pages, 343 internal

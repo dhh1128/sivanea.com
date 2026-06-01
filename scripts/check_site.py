@@ -132,6 +132,21 @@ def main() -> int:
         for m in re.finditer(r"<img[^>]+src=[\"'](https?://[^\"']+)", body):
             external_imgs += 1
 
+    # --- homepage live-search wiring --------------------------------------
+    # The Lunr index is generated from the same page set the site publishes, so
+    # coverage is guaranteed by construction; here we just guard that the moving
+    # parts still exist and stay wired together.
+    for sf in ("search.json", "assets/js/lunr.min.js", "assets/js/search.js"):
+        if not os.path.isfile(os.path.join(REPO, sf)):
+            problems.append(f"search: missing {sf}")
+    home = os.path.join(REPO, "index.md")
+    if os.path.isfile(home):
+        with open(home, encoding="utf-8") as fh:
+            home_txt = fh.read()
+        for needle in ('id="search-box"', "assets/js/lunr.min.js", "assets/js/search.js"):
+            if needle not in home_txt:
+                problems.append(f"search: index.md missing wiring ({needle})")
+
     # ---------------------------------------------------------------------
     print(f"Scanned {len(files)} pages, {n_links} internal links.")
     print(f"External <img> references (Lychee's responsibility): {external_imgs}.")
