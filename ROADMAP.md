@@ -34,6 +34,13 @@ lightweight, proportionate proof that the content is and stays clean.**
       `v1.10.0` → `v2.8.0` (the `<2.0.2` arbitrary-code-injection fix Dependabot
       flagged on the sister repo) and `actions/checkout` `v4` → `v6` (node20 →
       node24) in `link-check.yml`.
+- [x] **Made `link-check` meaningful.** It had been red on every push for
+      months. Fixed the one real dead link (Cordimancy's `j.mp/1Mfr42y` Kindle
+      404 → the live Amazon product page) and taught `.github/lychee.toml` to
+      skip hosts that bot-block automated checkers (distrokid, 99designs — same
+      pattern as the existing openart/midjourney/openai excludes) and to
+      tolerate transient `429` rate-limiting (e.g. upload.wikimedia.org). Now
+      green when links are genuinely fine, red only for real breakage.
 - [x] **Proof harness**: `scripts/check_site.py` — offline, Jekyll-aware checker
       proving frontmatter validity + non-empty titles, internal page/asset link
       resolution, and no WordPress residue. Green today: 101 pages, 343 internal
