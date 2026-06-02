@@ -20,7 +20,6 @@
         var self = this;
         data.forEach(function (d) { self.add(d); docs[d.url] = d; });
       });
-      box.placeholder = 'Search the writing…';
       if (box.value.trim()) render();   // in case the user typed before load
     })
     .catch(function () { box.placeholder = 'Search unavailable'; });
