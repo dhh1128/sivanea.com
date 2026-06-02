@@ -1,4 +1,4 @@
-remap = ['^(file:.*[^/.]{5})$ $1.md'] # add .html to urls that don't end in an extension
+remap = ['^(file:.*/[^/.]+)$ $1.md'] # resolve extensionless internal links (any slug, incl. 4-char "blue") to their .md source
 require_https = true
 
 # Hosts that block automated checkers — a bot gets 401/403 even though the page
