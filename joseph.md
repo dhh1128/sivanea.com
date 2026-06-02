@@ -19,7 +19,7 @@ comments:
       
       In a way, we beget tomorrow's versions of ourselves through the choices we make each day ("my soul must choose its ben"). The poem expresses a commitment to beget the speaker's future self as Joseph, not Reuben.
 ---
-<p style="font-size:90%;color:#777;font-style:italic;">See <a href="https://www.lds.org/scriptures/ot/gen/49.1-4,22-26?lang=eng" target="_blank">Genesis 49:1-4,22-26</a>.</p>
+<p class="note">See <a href="https://www.lds.org/scriptures/ot/gen/49.1-4,22-26?lang=eng" target="_blank">Genesis 49:1-4,22-26</a>.</p>
 
 <p class="poetry">Standing at the parting place
 My soul must choose its <em>ben</em>.

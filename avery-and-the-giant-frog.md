@@ -6,7 +6,7 @@ redirect_from:
   - /2013/04/26/avery-and-the-giant-frog
 ---
 
-<p style="text-align:right;"><em>a bedtime story for Caleb...</em></p>
+<p class="dedication text-right">a bedtime story for Caleb...</p>
 <audio controls><source src="assets/avery-and-the-giant-frog.mp3" type="audio/mpeg"></audio>
 
 Once upon a time there was a little boy named Avery. Avery had brown eyes and white teeth. He liked to swim and dig in the sandbox and play with cars and eat popsicles. He was almost five.

@@ -38,7 +38,7 @@ y de árbol
 y de albaricoque venidero.</p>
 
 <hr>
-<p style="font-size:90%;color:#777;font-style:italic;">English translation, by the author:</p>
+<p class="note">English translation, by the author:</p>
 
 <p class="poetry">No, artists of Babylon &mdash; 
 your paintings do not call me:

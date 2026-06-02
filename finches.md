@@ -16,7 +16,7 @@ comments:
       
       I had never really pondered the metaphor in the term "empty-nester" until recently. Now I find that it has a lot of rich layers to it, some happy and some sad. Parenthood continues to stretch and surprise me.
 ---
-<p style="font-size:80%;font-style:italic;">for Ethan, Lauren, Maia, Caleb, Sean, Dylan, and Genevieve</p>
+<p class="dedication">for Ethan, Lauren, Maia, Caleb, Sean, Dylan, and Genevieve</p>
 
 <figure><img src="assets/finches.jpg" /><figcaption>This past spring, we had a nest of finches beneath the eaves over our front porch. There was a single day when the baby birds looked almost exactly like this. The next day the nest was empty. Image credit: <a href="ai-art">AI+</a></figcaption></figure>
 

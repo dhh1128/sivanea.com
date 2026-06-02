@@ -41,7 +41,8 @@ HAS_EXT = re.compile(r"\.[A-Za-z0-9]{1,6}$")
 HTML_REF = re.compile(r"""(?:href|src)\s*=\s*["']([^"']+)["']""")
 MD_LINK = re.compile(r"\]\(\s*([^)\s]+)")  # [text](url ...) / ![alt](url ...)
 
-RESIDUE = [re.compile(r"\[/?caption", re.I), re.compile(r"wp-content", re.I)]
+RESIDUE = [re.compile(r"\[/?caption", re.I), re.compile(r"wp-content", re.I),
+           re.compile(r"zem_slink", re.I), re.compile(r"wp-image", re.I)]
 
 # CI status badges belong in README (GitHub repo view), never on a published page.
 BADGE = re.compile(r"badge\.svg|img\.shields\.io", re.I)
