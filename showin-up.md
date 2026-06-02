@@ -4,7 +4,7 @@ date: 2025-10-29
 slug: showin-up
 ---
 
-by: [me collaborating with AI](ai-collab)
+Lyrics are by [me collaborating with AI](ai-collab).
 
 [listen to a performance of the song](https://suno.com/s/KitpFT7KNRjFqcwR) 
 

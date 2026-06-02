@@ -4,7 +4,7 @@ date: 2025-11-07
 slug: hidden-grace
 ---
 
-by: [me collaborating with AI](ai-collab)
+Lyrics are by [me collaborating with AI](ai-collab).
 
 [listen to a performance of the song](https://suno.com/s/EiovWtMXqqLbRbom) 
 
