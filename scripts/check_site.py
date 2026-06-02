@@ -82,6 +82,7 @@ def main() -> int:
     external_imgs = 0
     n_links = 0
     files = pages()
+    linked_pages: set[str] = set()  # abs paths of pages some other page links to
 
     for path in files:
         rel = os.path.relpath(path, REPO)
@@ -124,8 +125,13 @@ def main() -> int:
                 ok = os.path.isfile(resolved)
                 kind = "asset"
             else:
-                ok = os.path.isfile(resolved + ".md")
+                page_file = resolved + ".md"
+                ok = os.path.isfile(page_file)
                 kind = "page"
+                # Record the reachability edge — but only from real content
+                # pages, so links that live only in README/ROADMAP don't count.
+                if not is_doc:
+                    linked_pages.add(os.path.abspath(page_file))
             if not ok:
                 problems.append(f"{rel}: broken internal {kind} link -> '{raw}'")
 
@@ -147,6 +153,19 @@ def main() -> int:
         for needle in ('id="search-box"', "assets/js/lunr.min.js", "assets/js/search.js"):
             if needle not in home_txt:
                 problems.append(f"search: index.md missing wiring ({needle})")
+
+    # --- orphan detection: every content page must be reachable -----------
+    # A content page is an orphan if no published page links to it. The homepage
+    # (index.md, the site root) and project docs are exempt by nature.
+    home_abs = os.path.abspath(os.path.join(REPO, "index.md"))
+    for path in files:
+        rel = os.path.relpath(path, REPO)
+        if os.path.basename(rel) in PROJECT_DOCS:
+            continue
+        ap = os.path.abspath(path)
+        if ap == home_abs or ap in linked_pages:
+            continue
+        problems.append(f"{rel}: orphan — no page links to it (reachable only by direct URL/search)")
 
     # ---------------------------------------------------------------------
     print(f"Scanned {len(files)} pages, {n_links} internal links.")

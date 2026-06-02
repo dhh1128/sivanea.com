@@ -4,6 +4,7 @@ slug: photography
 ---
 * [A Screech of Gulls](a-screech-of-gulls)
 * [At Iguazu Falls](at-iguazu-falls)
+* [Blue](blue)
 * [Buenos Ángulos](buenos-angulos)
 * [Castle in the Clouds](castle-in-the-clouds)
 * [December Afternoon, 10000 feet](december-afternoon-ten-thousand-feet)
