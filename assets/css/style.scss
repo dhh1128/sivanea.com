@@ -159,4 +159,12 @@ div.wrapper { width: 1024px;}
 }
 @media print {
     .not-printed { display: none !important; }
+    // Save ink: render images centered at ~half the text-column width.
+    section img {
+        display: block;
+        max-width: 50%;
+        height: auto;
+        margin: 0 auto;
+    }
+    figcaption { text-align: center; }
 }
