@@ -50,9 +50,10 @@ lightweight, proportionate proof that the content is and stays clean.**
       guards the wiring; coverage is by construction (index = published pages).
 - [x] **Proof harness**: `scripts/check_site.py` — offline, Jekyll-aware checker
       proving frontmatter validity + non-empty titles, internal page/asset link
-      resolution, and no WordPress residue. Green today: 101 pages, 343 internal
-      links, 0 problems. Wired into CI via `.github/workflows/check.yml`
-      (`checkout@v6` + `setup-python@v6`, both node24).
+      resolution, no WordPress residue (incl. `zem_slink`/`wp-image`), no stray
+      CI badge on a published page, **no orphan pages**, and the search wiring.
+      Green today: 103 pages, 349 internal links, 0 problems. Wired into CI via
+      `.github/workflows/check.yml` (`checkout@v6` + `setup-python@v6`, node24).
 
 ## Standing policy (decided)
 
@@ -74,21 +75,20 @@ lightweight, proportionate proof that the content is and stays clean.**
   (keywords/abstract/version/status), per-item PDFs, the book/KDP pipeline, and
   the Jekyll → Zensical platform migration. No goal here drives them.
 
-## Optional / deferred (low value — debate before doing)
+## Optional / deferred
 
-- [ ] Strip cosmetic WordPress-era markup (`zem_slink`, `wp-image-144` classes,
-      inline `style=` attributes) — harmless, purely cosmetic.
-- [ ] Add the orphan `blue.md` to the `poetry.md` index (or confirm it is
-      intentionally unlisted).
-- [ ] Decide how the `by:` field (on `broken-things.md`, `hidden-grace.md`,
-      `showin-up.md`) should surface authorship in the layout.
-- [ ] Archive the historical `tools/` migration scripts (they are inert).
-- [ ] **Make the page layout explicit.** Production (GitHub Pages / Jekyll 3.10)
-      auto-applies `layout: default` to every page, so `_layouts/default.html`
-      (title, date, comments, CC footer) renders live — but no page declares a
-      layout and `_config.yml` sets no `defaults`, so a local
-      `bundle exec jekyll build` (Jekyll 4 + remote_theme) renders bare,
-      layout-less pages. Adding `defaults: [{scope: {path: ""}, values:
-      {layout: default}}]` to `_config.yml` is a no-op for production but makes
-      local builds faithful and removes the reliance on implicit GitHub Pages
-      behaviour. Outward-facing config — confirm before applying.
+All previously-listed optional items are now done:
+
+- [x] Stripped WordPress-era markup (`zem_slink`/`wp-image` classes, lone Zemanta
+      `rel`s) and moved inline `style=` to semantic CSS classes (`.note`,
+      `.dedication`, `.text-right`, `.pubdate`); residue tripwire extended.
+- [x] `blue.md` (a poem with a photo) now listed in both `poetry.md` and
+      `photography.md`; an orphan-page check in `check_site.py` proves no page is
+      unreachable (it also caught 3 mis-linked `viking/` companion pages).
+- [x] The stray `by:` line on `broken-things`/`hidden-grace`/`showin-up` is now
+      running-text authorship ("Lyrics are by …"), matching the other songs — no
+      layout byline.
+- [x] Deleted the inert `tools/` WordPress-migration scripts (git history is the
+      archive).
+
+_(none outstanding)_
