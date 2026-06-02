@@ -2,7 +2,7 @@
 title: Contents
 permalink: /
 ---
-<input type="search" id="search-box" class="not-printed" placeholder="Search the writing…" autocomplete="off" aria-label="Search the writing">
+<input type="search" id="search-box" class="not-printed" placeholder="Search..." autocomplete="off" aria-label="Search...">
 <ul id="search-results" class="not-printed" hidden></ul>
 
 <div id="contents" markdown="1">
